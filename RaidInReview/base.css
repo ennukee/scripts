@@ -1,0 +1,115 @@
+body {
+    /* background-color: #ccccca; */
+    background-image: url(https://static.icy-veins.com/images/wow/shadowlands/castle-nathria/gargoyle.jpg);
+    font-family: 'Roboto', sans-serif;
+    color: #23232f;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    margin: 0 200px;
+}
+
+#container {
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+#header {
+    margin: 10px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#title {
+    font-size: 70px;
+    font-weight: 800;
+}
+
+#subtitle {
+    margin-top: -20px;
+    font-size: 38px;
+    font-weight: 100;
+}
+
+#main-body {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 30px;
+}
+
+#upper-section {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#pillars {
+    width: 30%;
+    margin: 0 5% 0 15%;
+}
+
+#switch-hitter {
+    width: 30%;
+    margin: 0 15% 0 5%;
+}
+
+.subsection-title {
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.subsection-description {
+    font-size: 16px;
+    font-weight: 100;
+    margin-top: -5px;
+}
+
+#pillars-body {
+    margin-top: 10px;
+}
+
+.player {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.player .prog, .player .bosses {
+    margin-left: 15px;
+}
+
+.player .name {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#pillars-body .player .part-of {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#pillars-body .player .max-bosses {
+    font-size: 14px;
+    font-weight: 100;
+    margin-left: -3px;
+}
+
+#switch-hitter-body .bosses {
+    font-size: 14px;
+    font-weight: 100;
+    text-align: right;
+}

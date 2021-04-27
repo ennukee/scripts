@@ -1,0 +1,2126 @@
+[
+  {
+    "id": 636,
+    "name": "House of Mirrors",
+    "stackSize": 9,
+    "chaosValue": 2297.6
+  },
+  {
+    "id": 1476,
+    "name": "The Doctor",
+    "stackSize": 8,
+    "chaosValue": 1338.28
+  },
+  {
+    "id": 22522,
+    "name": "The Demon",
+    "stackSize": 10,
+    "chaosValue": 1033.92
+  },
+  {
+    "id": 1496,
+    "name": "The Fiend",
+    "stackSize": 11,
+    "chaosValue": 890.02
+  },
+  {
+    "id": 44612,
+    "name": "Unrequited Love",
+    "stackSize": 16,
+    "chaosValue": 820.23
+  },
+  {
+    "id": 44342,
+    "name": "Brother's Stash",
+    "stackSize": 0,
+    "chaosValue": 660.85
+  },
+  {
+    "id": 1529,
+    "name": "The Immortal",
+    "stackSize": 10,
+    "chaosValue": 218.27
+  },
+  {
+    "id": 40086,
+    "name": "The Cheater",
+    "stackSize": 3,
+    "chaosValue": 195.3
+  },
+  {
+    "id": 60150,
+    "name": "Deadly Joy",
+    "stackSize": 6,
+    "chaosValue": 172.32
+  },
+  {
+    "id": 18978,
+    "name": "The Nurse",
+    "stackSize": 8,
+    "chaosValue": 160.83
+  },
+  {
+    "id": 21575,
+    "name": "Alluring Bounty",
+    "stackSize": 7,
+    "chaosValue": 160.83
+  },
+  {
+    "id": 6942,
+    "name": "Immortal Resolve",
+    "stackSize": 6,
+    "chaosValue": 149.34
+  },
+  {
+    "id": 23958,
+    "name": "Succor of the Sinless",
+    "stackSize": 6,
+    "chaosValue": 149.34
+  },
+  {
+    "id": 42508,
+    "name": "Gift of Asenath",
+    "stackSize": 5,
+    "chaosValue": 137.86
+  },
+  {
+    "id": 54502,
+    "name": "Love Through Ice",
+    "stackSize": 4,
+    "chaosValue": 126.37
+  },
+  {
+    "id": 22406,
+    "name": "Nook's Crown",
+    "stackSize": 4,
+    "chaosValue": 114.88
+  },
+  {
+    "id": 60133,
+    "name": "Luminous Trove",
+    "stackSize": 7,
+    "chaosValue": 114.88
+  },
+  {
+    "id": 44364,
+    "name": "Desecrated Virtue",
+    "stackSize": 9,
+    "chaosValue": 114.83
+  },
+  {
+    "id": 6908,
+    "name": "The Samurai's Eye",
+    "stackSize": 3,
+    "chaosValue": 99.09
+  },
+  {
+    "id": 2045,
+    "name": "The Spark and the Flame",
+    "stackSize": 2,
+    "chaosValue": 85.67
+  },
+  {
+    "id": 20760,
+    "name": "Seven Years Bad Luck",
+    "stackSize": 13,
+    "chaosValue": 83.23
+  },
+  {
+    "id": 42405,
+    "name": "A Note in the Wind",
+    "stackSize": 4,
+    "chaosValue": 82.65
+  },
+  {
+    "id": 4927,
+    "name": "The Iron Bard",
+    "stackSize": 9,
+    "chaosValue": 80
+  },
+  {
+    "id": 7437,
+    "name": "Beauty Through Death",
+    "stackSize": 5,
+    "chaosValue": 80
+  },
+  {
+    "id": 40055,
+    "name": "The Progeny of Lunaris",
+    "stackSize": 2,
+    "chaosValue": 80
+  },
+  {
+    "id": 22454,
+    "name": "The Price of Loyalty",
+    "stackSize": 4,
+    "chaosValue": 78
+  },
+  {
+    "id": 42456,
+    "name": "The Greatest Intentions",
+    "stackSize": 10,
+    "chaosValue": 76.95
+  },
+  {
+    "id": 11,
+    "name": "Abandoned Wealth",
+    "stackSize": 5,
+    "chaosValue": 76
+  },
+  {
+    "id": 21548,
+    "name": "Burning Blood",
+    "stackSize": 6,
+    "chaosValue": 69.87
+  },
+  {
+    "id": 42386,
+    "name": "The White Knight",
+    "stackSize": 8,
+    "chaosValue": 65
+  },
+  {
+    "id": 649,
+    "name": "Hunter's Reward",
+    "stackSize": 3,
+    "chaosValue": 62.57
+  },
+  {
+    "id": 21582,
+    "name": "Pride of the First Ones",
+    "stackSize": 7,
+    "chaosValue": 60
+  },
+  {
+    "id": 23911,
+    "name": "The Craving",
+    "stackSize": 4,
+    "chaosValue": 50
+  },
+  {
+    "id": 42462,
+    "name": "The Long Con",
+    "stackSize": 4,
+    "chaosValue": 50
+  },
+  {
+    "id": 54451,
+    "name": "Keeper's Corruption",
+    "stackSize": 7,
+    "chaosValue": 49
+  },
+  {
+    "id": 1850,
+    "name": "Wealth and Power",
+    "stackSize": 11,
+    "chaosValue": 45
+  },
+  {
+    "id": 1479,
+    "name": "The Dragon's Heart",
+    "stackSize": 11,
+    "chaosValue": 43.47
+  },
+  {
+    "id": 19014,
+    "name": "The Sacrifice",
+    "stackSize": 4,
+    "chaosValue": 37.61
+  },
+  {
+    "id": 40059,
+    "name": "The Strategist",
+    "stackSize": 6,
+    "chaosValue": 35
+  },
+  {
+    "id": 22463,
+    "name": "Azyran's Reward",
+    "stackSize": 9,
+    "chaosValue": 32
+  },
+  {
+    "id": 1457,
+    "name": "The Celestial Justicar",
+    "stackSize": 6,
+    "chaosValue": 29
+  },
+  {
+    "id": 60072,
+    "name": "Winter's Embrace",
+    "stackSize": 2,
+    "chaosValue": 29
+  },
+  {
+    "id": 22512,
+    "name": "The Eye of Terror",
+    "stackSize": 8,
+    "chaosValue": 28.28
+  },
+  {
+    "id": 1487,
+    "name": "The Enlightened",
+    "stackSize": 6,
+    "chaosValue": 25
+  },
+  {
+    "id": 42360,
+    "name": "The Sustenance",
+    "stackSize": 3,
+    "chaosValue": 25
+  },
+  {
+    "id": 2042,
+    "name": "The Saint's Treasure",
+    "stackSize": 10,
+    "chaosValue": 24
+  },
+  {
+    "id": 1563,
+    "name": "The Pact",
+    "stackSize": 9,
+    "chaosValue": 23
+  },
+  {
+    "id": 44131,
+    "name": "The Academic",
+    "stackSize": 8,
+    "chaosValue": 23
+  },
+  {
+    "id": 44114,
+    "name": "The Gulf",
+    "stackSize": 5,
+    "chaosValue": 22.24
+  },
+  {
+    "id": 23831,
+    "name": "The Escape",
+    "stackSize": 5,
+    "chaosValue": 22.14
+  },
+  {
+    "id": 4915,
+    "name": "The World Eater",
+    "stackSize": 8,
+    "chaosValue": 21
+  },
+  {
+    "id": 4911,
+    "name": "Blessing of God",
+    "stackSize": 3,
+    "chaosValue": 20
+  },
+  {
+    "id": 54397,
+    "name": "Draped in Dreams",
+    "stackSize": 5,
+    "chaosValue": 20
+  },
+  {
+    "id": 54402,
+    "name": "The Patient",
+    "stackSize": 8,
+    "chaosValue": 19
+  },
+  {
+    "id": 60135,
+    "name": "The Eternal War",
+    "stackSize": 4,
+    "chaosValue": 18
+  },
+  {
+    "id": 22476,
+    "name": "Void of the Elements",
+    "stackSize": 3,
+    "chaosValue": 16
+  },
+  {
+    "id": 40049,
+    "name": "Council of Cats",
+    "stackSize": 4,
+    "chaosValue": 16
+  },
+  {
+    "id": 1488,
+    "name": "The Ethereal",
+    "stackSize": 7,
+    "chaosValue": 14
+  },
+  {
+    "id": 21571,
+    "name": "The Primordial",
+    "stackSize": 5,
+    "chaosValue": 13
+  },
+  {
+    "id": 21577,
+    "name": "Dark Dreams",
+    "stackSize": 4,
+    "chaosValue": 13
+  },
+  {
+    "id": 22448,
+    "name": "The Bargain",
+    "stackSize": 5,
+    "chaosValue": 13
+  },
+  {
+    "id": 54389,
+    "name": "The Whiteout",
+    "stackSize": 8,
+    "chaosValue": 13
+  },
+  {
+    "id": 1559,
+    "name": "The Offering",
+    "stackSize": 8,
+    "chaosValue": 12.77
+  },
+  {
+    "id": 42518,
+    "name": "The Hive of Knowledge",
+    "stackSize": 6,
+    "chaosValue": 12
+  },
+  {
+    "id": 44251,
+    "name": "The Bitter Blossom",
+    "stackSize": 3,
+    "chaosValue": 12
+  },
+  {
+    "id": 1524,
+    "name": "The Hoarder",
+    "stackSize": 12,
+    "chaosValue": 10
+  },
+  {
+    "id": 2035,
+    "name": "The Polymath",
+    "stackSize": 3,
+    "chaosValue": 10
+  },
+  {
+    "id": 42420,
+    "name": "Peaceful Moments",
+    "stackSize": 5,
+    "chaosValue": 10
+  },
+  {
+    "id": 54642,
+    "name": "The Astromancer",
+    "stackSize": 7,
+    "chaosValue": 9.08
+  },
+  {
+    "id": 1603,
+    "name": "The Sephirot",
+    "stackSize": 11,
+    "chaosValue": 8
+  },
+  {
+    "id": 54410,
+    "name": "Brotherhood in Exile",
+    "stackSize": 5,
+    "chaosValue": 7.9
+  },
+  {
+    "id": 620,
+    "name": "Heterochromia",
+    "stackSize": 2,
+    "chaosValue": 7
+  },
+  {
+    "id": 23245,
+    "name": "The Bones",
+    "stackSize": 6,
+    "chaosValue": 7
+  },
+  {
+    "id": 40042,
+    "name": "The Eldritch Decay",
+    "stackSize": 4,
+    "chaosValue": 7
+  },
+  {
+    "id": 54424,
+    "name": "Haunting Shadows",
+    "stackSize": 4,
+    "chaosValue": 7
+  },
+  {
+    "id": 60097,
+    "name": "The Enthusiasts",
+    "stackSize": 3,
+    "chaosValue": 7
+  },
+  {
+    "id": 60230,
+    "name": "Broken Promises",
+    "stackSize": 2,
+    "chaosValue": 7
+  },
+  {
+    "id": 54445,
+    "name": "Reckless Ambition",
+    "stackSize": 6,
+    "chaosValue": 6.43
+  },
+  {
+    "id": 971,
+    "name": "Pride Before the Fall",
+    "stackSize": 8,
+    "chaosValue": 6
+  },
+  {
+    "id": 1471,
+    "name": "The Dapper Prodigy",
+    "stackSize": 6,
+    "chaosValue": 6
+  },
+  {
+    "id": 42510,
+    "name": "A Familiar Call",
+    "stackSize": 3,
+    "chaosValue": 6
+  },
+  {
+    "id": 1615,
+    "name": "The Soul",
+    "stackSize": 9,
+    "chaosValue": 5.65
+  },
+  {
+    "id": 22502,
+    "name": "Remembrance",
+    "stackSize": 8,
+    "chaosValue": 5.5
+  },
+  {
+    "id": 1579,
+    "name": "The Queen",
+    "stackSize": 16,
+    "chaosValue": 5
+  },
+  {
+    "id": 6966,
+    "name": "The Celestial Stone",
+    "stackSize": 10,
+    "chaosValue": 5
+  },
+  {
+    "id": 7393,
+    "name": "The Endless Darkness",
+    "stackSize": 9,
+    "chaosValue": 5
+  },
+  {
+    "id": 54465,
+    "name": "Fateful Meeting",
+    "stackSize": 9,
+    "chaosValue": 5
+  },
+  {
+    "id": 22411,
+    "name": "The Heroic Shot",
+    "stackSize": 0,
+    "chaosValue": 4.91
+  },
+  {
+    "id": 1539,
+    "name": "The King's Heart",
+    "stackSize": 8,
+    "chaosValue": 4.71
+  },
+  {
+    "id": 1421,
+    "name": "The Artist",
+    "stackSize": 11,
+    "chaosValue": 4.48
+  },
+  {
+    "id": 20767,
+    "name": "The Landing",
+    "stackSize": 5,
+    "chaosValue": 4.43
+  },
+  {
+    "id": 468,
+    "name": "Earth Drinker",
+    "stackSize": 5,
+    "chaosValue": 4
+  },
+  {
+    "id": 1526,
+    "name": "The Hunger",
+    "stackSize": 9,
+    "chaosValue": 4
+  },
+  {
+    "id": 4900,
+    "name": "The Breach",
+    "stackSize": 4,
+    "chaosValue": 4
+  },
+  {
+    "id": 21558,
+    "name": "The Deep Ones",
+    "stackSize": 5,
+    "chaosValue": 4
+  },
+  {
+    "id": 22460,
+    "name": "The Damned",
+    "stackSize": 6,
+    "chaosValue": 4
+  },
+  {
+    "id": 23816,
+    "name": "Squandered Prosperity",
+    "stackSize": 5,
+    "chaosValue": 4
+  },
+  {
+    "id": 42408,
+    "name": "The Awakened",
+    "stackSize": 6,
+    "chaosValue": 4
+  },
+  {
+    "id": 44109,
+    "name": "Triskaidekaphobia",
+    "stackSize": 13,
+    "chaosValue": 3.79
+  },
+  {
+    "id": 188,
+    "name": "Bowyer's Dream",
+    "stackSize": 6,
+    "chaosValue": 3
+  },
+  {
+    "id": 257,
+    "name": "Chaotic Disposition",
+    "stackSize": 0,
+    "chaosValue": 3
+  },
+  {
+    "id": 480,
+    "name": "Emperor of Purity",
+    "stackSize": 7,
+    "chaosValue": 3
+  },
+  {
+    "id": 1451,
+    "name": "The Cartographer",
+    "stackSize": 0,
+    "chaosValue": 3
+  },
+  {
+    "id": 1658,
+    "name": "The Void",
+    "stackSize": 0,
+    "chaosValue": 3
+  },
+  {
+    "id": 2595,
+    "name": "Rebirth",
+    "stackSize": 27,
+    "chaosValue": 3
+  },
+  {
+    "id": 4860,
+    "name": "The Obscured",
+    "stackSize": 7,
+    "chaosValue": 3
+  },
+  {
+    "id": 6902,
+    "name": "The Jeweller's Boon",
+    "stackSize": 5,
+    "chaosValue": 3
+  },
+  {
+    "id": 6915,
+    "name": "The Hale Heart",
+    "stackSize": 4,
+    "chaosValue": 3
+  },
+  {
+    "id": 6916,
+    "name": "The Professor",
+    "stackSize": 4,
+    "chaosValue": 3
+  },
+  {
+    "id": 6951,
+    "name": "The Undaunted",
+    "stackSize": 5,
+    "chaosValue": 3
+  },
+  {
+    "id": 6963,
+    "name": "The Mayor",
+    "stackSize": 5,
+    "chaosValue": 3
+  },
+  {
+    "id": 6981,
+    "name": "The Undisputed",
+    "stackSize": 8,
+    "chaosValue": 3
+  },
+  {
+    "id": 20734,
+    "name": "Alone in the Darkness",
+    "stackSize": 5,
+    "chaosValue": 3
+  },
+  {
+    "id": 21539,
+    "name": "Imperial Legacy",
+    "stackSize": 22,
+    "chaosValue": 3
+  },
+  {
+    "id": 22552,
+    "name": "The Old Man",
+    "stackSize": 12,
+    "chaosValue": 3
+  },
+  {
+    "id": 23251,
+    "name": "The Chosen",
+    "stackSize": 5,
+    "chaosValue": 3
+  },
+  {
+    "id": 23985,
+    "name": "Underground Forest",
+    "stackSize": 4,
+    "chaosValue": 3
+  },
+  {
+    "id": 24167,
+    "name": "Etched in Blood",
+    "stackSize": 9,
+    "chaosValue": 3
+  },
+  {
+    "id": 42138,
+    "name": "Prometheus' Armoury",
+    "stackSize": 6,
+    "chaosValue": 3
+  },
+  {
+    "id": 44118,
+    "name": "Unchained",
+    "stackSize": 4,
+    "chaosValue": 3
+  },
+  {
+    "id": 54432,
+    "name": "Dying Light",
+    "stackSize": 10,
+    "chaosValue": 3
+  },
+  {
+    "id": 60042,
+    "name": "The Hook",
+    "stackSize": 8,
+    "chaosValue": 3
+  },
+  {
+    "id": 60109,
+    "name": "A Modest Request",
+    "stackSize": 3,
+    "chaosValue": 3
+  },
+  {
+    "id": 422,
+    "name": "Dialla's Subjugation",
+    "stackSize": 7,
+    "chaosValue": 2
+  },
+  {
+    "id": 462,
+    "name": "Dying Anguish",
+    "stackSize": 8,
+    "chaosValue": 2
+  },
+  {
+    "id": 736,
+    "name": "Last Hope",
+    "stackSize": 3,
+    "chaosValue": 2
+  },
+  {
+    "id": 771,
+    "name": "Lucky Deck",
+    "stackSize": 9,
+    "chaosValue": 2
+  },
+  {
+    "id": 799,
+    "name": "Mawr Blaidd",
+    "stackSize": 16,
+    "chaosValue": 2
+  },
+  {
+    "id": 809,
+    "name": "Merciless Armament",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 1412,
+    "name": "The Aesthete",
+    "stackSize": 8,
+    "chaosValue": 2
+  },
+  {
+    "id": 1431,
+    "name": "The Betrayal",
+    "stackSize": 9,
+    "chaosValue": 2
+  },
+  {
+    "id": 1445,
+    "name": "The Brittle Emperor",
+    "stackSize": 8,
+    "chaosValue": 2
+  },
+  {
+    "id": 1458,
+    "name": "The Chains that Bind",
+    "stackSize": 11,
+    "chaosValue": 2
+  },
+  {
+    "id": 1468,
+    "name": "The Cursed King",
+    "stackSize": 8,
+    "chaosValue": 2
+  },
+  {
+    "id": 1542,
+    "name": "The Last One Standing",
+    "stackSize": 10,
+    "chaosValue": 2
+  },
+  {
+    "id": 1552,
+    "name": "The Mercenary",
+    "stackSize": 5,
+    "chaosValue": 2
+  },
+  {
+    "id": 1589,
+    "name": "The Risk",
+    "stackSize": 3,
+    "chaosValue": 2
+  },
+  {
+    "id": 1625,
+    "name": "The Surveyor",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 1642,
+    "name": "The Tyrant",
+    "stackSize": 9,
+    "chaosValue": 2
+  },
+  {
+    "id": 1650,
+    "name": "The Union",
+    "stackSize": 7,
+    "chaosValue": 2
+  },
+  {
+    "id": 1653,
+    "name": "The Vast",
+    "stackSize": 7,
+    "chaosValue": 2
+  },
+  {
+    "id": 1663,
+    "name": "The Warlord",
+    "stackSize": 6,
+    "chaosValue": 2
+  },
+  {
+    "id": 2039,
+    "name": "Lingering Remnants",
+    "stackSize": 16,
+    "chaosValue": 2
+  },
+  {
+    "id": 2047,
+    "name": "The Porcupine",
+    "stackSize": 6,
+    "chaosValue": 2
+  },
+  {
+    "id": 2317,
+    "name": "The Realm",
+    "stackSize": 5,
+    "chaosValue": 2
+  },
+  {
+    "id": 2475,
+    "name": "Left to Fate",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 4916,
+    "name": "The Dreamer",
+    "stackSize": 6,
+    "chaosValue": 2
+  },
+  {
+    "id": 6920,
+    "name": "Perfection",
+    "stackSize": 5,
+    "chaosValue": 2
+  },
+  {
+    "id": 6937,
+    "name": "The Rite of Elements",
+    "stackSize": 5,
+    "chaosValue": 2
+  },
+  {
+    "id": 6948,
+    "name": "The Admirer",
+    "stackSize": 9,
+    "chaosValue": 2
+  },
+  {
+    "id": 7382,
+    "name": "The Innocent",
+    "stackSize": 10,
+    "chaosValue": 2
+  },
+  {
+    "id": 7383,
+    "name": "Boon of the First Ones",
+    "stackSize": 6,
+    "chaosValue": 2
+  },
+  {
+    "id": 20739,
+    "name": "The Lord of Celebration",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 20793,
+    "name": "The Golden Era",
+    "stackSize": 7,
+    "chaosValue": 2
+  },
+  {
+    "id": 20804,
+    "name": "The Seeker",
+    "stackSize": 9,
+    "chaosValue": 2
+  },
+  {
+    "id": 20845,
+    "name": "The Life Thief",
+    "stackSize": 6,
+    "chaosValue": 2
+  },
+  {
+    "id": 22452,
+    "name": "The Wolf's Legacy",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 23238,
+    "name": "Divine Justice",
+    "stackSize": 0,
+    "chaosValue": 2
+  },
+  {
+    "id": 23900,
+    "name": "Deathly Designs",
+    "stackSize": 7,
+    "chaosValue": 2
+  },
+  {
+    "id": 24681,
+    "name": "The Fishmonger",
+    "stackSize": 4,
+    "chaosValue": 2
+  },
+  {
+    "id": 40045,
+    "name": "The Easy Stroll",
+    "stackSize": 2,
+    "chaosValue": 2
+  },
+  {
+    "id": 54417,
+    "name": "Acclimatisation",
+    "stackSize": 2,
+    "chaosValue": 2
+  },
+  {
+    "id": 60059,
+    "name": "The Shortcut",
+    "stackSize": 0,
+    "chaosValue": 2
+  },
+  {
+    "id": 22439,
+    "name": "The Skeleton",
+    "stackSize": 6,
+    "chaosValue": 1.99
+  },
+  {
+    "id": 21645,
+    "name": "The Archmage's Right Hand",
+    "stackSize": 7,
+    "chaosValue": 1.93
+  },
+  {
+    "id": 1639,
+    "name": "The Trial",
+    "stackSize": 7,
+    "chaosValue": 1.71
+  },
+  {
+    "id": 21556,
+    "name": "Echoes of Love",
+    "stackSize": 3,
+    "chaosValue": 1.58
+  },
+  {
+    "id": 645,
+    "name": "Humility",
+    "stackSize": 9,
+    "chaosValue": 1.5
+  },
+  {
+    "id": 20777,
+    "name": "The Journey",
+    "stackSize": 3,
+    "chaosValue": 1.24
+  },
+  {
+    "id": 7403,
+    "name": "The Cacophony",
+    "stackSize": 8,
+    "chaosValue": 1.22
+  },
+  {
+    "id": 54380,
+    "name": "Society's Remorse",
+    "stackSize": 0,
+    "chaosValue": 1.2
+  },
+  {
+    "id": 1633,
+    "name": "The Thaumaturgist",
+    "stackSize": 8,
+    "chaosValue": 1.01
+  },
+  {
+    "id": 6,
+    "name": "A Mother's Parting Gift",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 57,
+    "name": "Anarchy's Price",
+    "stackSize": 13,
+    "chaosValue": 1
+  },
+  {
+    "id": 111,
+    "name": "Assassin's Favour",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 131,
+    "name": "Audacity",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 170,
+    "name": "Blind Venture",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 186,
+    "name": "Boundless Realms",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 229,
+    "name": "Cartographer's Delight",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 320,
+    "name": "Coveted Possession",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 389,
+    "name": "Death",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 420,
+    "name": "Destined to Crumble",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 428,
+    "name": "Doedre's Madness",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 482,
+    "name": "Emperor's Luck",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 556,
+    "name": "Gemcutter's Promise",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 568,
+    "name": "Gift of the Gemling Queen",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 572,
+    "name": "Glimmer of Hope",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 588,
+    "name": "Grave Knowledge",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 618,
+    "name": "Her Mask",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 634,
+    "name": "Hope",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 644,
+    "name": "Hubris",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 648,
+    "name": "Hunter's Resolve",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 686,
+    "name": "Jack in the Box",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 744,
+    "name": "Light and Truth",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 768,
+    "name": "Lost Worlds",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 769,
+    "name": "Loyalty",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 770,
+    "name": "Lucky Connections",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 772,
+    "name": "Lysah's Respite",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1006,
+    "name": "Rain of Chaos",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1008,
+    "name": "Rain Tempter",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1015,
+    "name": "Rats",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1083,
+    "name": "Scholar of the Seas",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1261,
+    "name": "Shard of Fate",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1420,
+    "name": "The Arena Champion",
+    "stackSize": 10,
+    "chaosValue": 1
+  },
+  {
+    "id": 1423,
+    "name": "The Avenger",
+    "stackSize": 12,
+    "chaosValue": 1
+  },
+  {
+    "id": 1425,
+    "name": "The Battle Born",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1439,
+    "name": "The Body",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1449,
+    "name": "The Calling",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1452,
+    "name": "The Cataclysm",
+    "stackSize": 13,
+    "chaosValue": 1
+  },
+  {
+    "id": 1453,
+    "name": "The Catalyst",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1460,
+    "name": "The Conduit",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1472,
+    "name": "The Dark Mage",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1475,
+    "name": "The Demoness",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1477,
+    "name": "The Doppelganger",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 1478,
+    "name": "The Dragon",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1482,
+    "name": "The Drunken Aristocrat",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1485,
+    "name": "The Encroaching Darkness",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1486,
+    "name": "The Endurance",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1489,
+    "name": "The Explorer",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1490,
+    "name": "The Feast",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1498,
+    "name": "The Fletcher",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1499,
+    "name": "The Flora's Gift",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1503,
+    "name": "The Formless Sea",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1506,
+    "name": "The Fox",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1507,
+    "name": "The Gambler",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1508,
+    "name": "The Gemcutter",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1509,
+    "name": "The Gentleman",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1510,
+    "name": "The Gladiator",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1522,
+    "name": "The Harvester",
+    "stackSize": 11,
+    "chaosValue": 1
+  },
+  {
+    "id": 1523,
+    "name": "The Hermit",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1530,
+    "name": "The Incantation",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1531,
+    "name": "The Inoculated",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1533,
+    "name": "The Inventor",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1534,
+    "name": "The Jester",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1538,
+    "name": "The King's Blade",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1544,
+    "name": "The Lich",
+    "stackSize": 12,
+    "chaosValue": 1
+  },
+  {
+    "id": 1545,
+    "name": "The Lion",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1546,
+    "name": "The Lord in Black",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1549,
+    "name": "The Lover",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 1550,
+    "name": "The Lunaris Priestess",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1553,
+    "name": "The Metalsmith's Gift",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1558,
+    "name": "The Oath",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1560,
+    "name": "The One With All",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1562,
+    "name": "The Pack Leader",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1565,
+    "name": "The Penitent",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1574,
+    "name": "The Poet",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1581,
+    "name": "The Rabid Rhoa",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1590,
+    "name": "The Road to Power",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1591,
+    "name": "The Scarred Meadow",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 1592,
+    "name": "The Scavenger",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1593,
+    "name": "The Scholar",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1606,
+    "name": "The Sigil",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1612,
+    "name": "The Siren",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1617,
+    "name": "The Spoiled Prince",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1619,
+    "name": "The Stormcaller",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1621,
+    "name": "The Summoner",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1622,
+    "name": "The Sun",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1624,
+    "name": "The Surgeon",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1626,
+    "name": "The Survivalist",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1635,
+    "name": "The Throne",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 1636,
+    "name": "The Tower",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1637,
+    "name": "The Traitor",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1640,
+    "name": "The Twins",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1651,
+    "name": "The Valkyrie",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1657,
+    "name": "The Visionary",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 1660,
+    "name": "The Warden",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 1668,
+    "name": "The Watcher",
+    "stackSize": 12,
+    "chaosValue": 1
+  },
+  {
+    "id": 1671,
+    "name": "The Web",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1675,
+    "name": "The Wind",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1676,
+    "name": "The Wolf",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1677,
+    "name": "The Wolf's Shadow",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1678,
+    "name": "The Wrath",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 1691,
+    "name": "Three Faces in the Dark",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1694,
+    "name": "Thunderous Skies",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1696,
+    "name": "Time-Lost Relic",
+    "stackSize": 10,
+    "chaosValue": 1
+  },
+  {
+    "id": 1709,
+    "name": "Tranquillity",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1712,
+    "name": "Treasure Hunter",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 1725,
+    "name": "Turn the Other Cheek",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 1786,
+    "name": "Vinia's Token",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 1803,
+    "name": "Volatile Power",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 2034,
+    "name": "Mitts",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 2036,
+    "name": "The Valley of Steel Boxes",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 2037,
+    "name": "Call to the First Ones",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 2038,
+    "name": "The Wretched",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 2040,
+    "name": "The Coming Storm",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 2041,
+    "name": "The Wolven King's Bite",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 2043,
+    "name": "The Wolverine",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 2044,
+    "name": "The Garish Power",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 2046,
+    "name": "The Standoff",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 2048,
+    "name": "The Forsaken",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 2083,
+    "name": "Might is Right",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 2087,
+    "name": "Atziri's Arsenal",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 2088,
+    "name": "The Opulent",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 2091,
+    "name": "Struck by Lightning",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 2288,
+    "name": "The Blazing Fire",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 2291,
+    "name": "The Ruthless Ceinture",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 2292,
+    "name": "No Traces",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 2309,
+    "name": "The Eye of the Dragon",
+    "stackSize": 10,
+    "chaosValue": 1
+  },
+  {
+    "id": 4864,
+    "name": "The Deceiver",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 4867,
+    "name": "The Puzzle",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 4874,
+    "name": "The Insatiable",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 4887,
+    "name": "Forbidden Power",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 6901,
+    "name": "Three Voices",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 6913,
+    "name": "The Army of Blood",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 6917,
+    "name": "The Beast",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 6921,
+    "name": "The Sword King's Salute",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 6926,
+    "name": "The Master",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 6929,
+    "name": "The Fathomless Depths",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 6939,
+    "name": "The Dreamland",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 6953,
+    "name": "The Witch",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 6956,
+    "name": "The Darkest Dream",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 6997,
+    "name": "Harmony of Souls",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 7386,
+    "name": "The Twilight Moon",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 7387,
+    "name": "The Wilted Rose",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 7402,
+    "name": "The Price of Protection",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 18952,
+    "name": "The Master Artisan",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 18957,
+    "name": "A Dab of Ink",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 20628,
+    "name": "Sambodhi's Vow",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 20668,
+    "name": "Arrogance of the Vaal",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 20716,
+    "name": "The Mad King",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 20762,
+    "name": "Dark Temptation",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 20786,
+    "name": "The Messenger",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 20787,
+    "name": "Monochrome",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 20798,
+    "name": "Boon of Justice",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 21498,
+    "name": "Vanity",
+    "stackSize": 9,
+    "chaosValue": 1
+  },
+  {
+    "id": 21538,
+    "name": "Thirst for Knowledge",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 21567,
+    "name": "The Fool",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 21569,
+    "name": "Demigod's Wager",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 21570,
+    "name": "Buried Treasure",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 22350,
+    "name": "Vile Power",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 22436,
+    "name": "The Mountain",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 22441,
+    "name": "Akil's Prophecy",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 22467,
+    "name": "The Deal",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 22480,
+    "name": "The Side Quest",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 22510,
+    "name": "More is Never Enough",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 23237,
+    "name": "Cameria's Cut",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 23246,
+    "name": "Friendship",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 23675,
+    "name": "Baited Expectations",
+    "stackSize": 8,
+    "chaosValue": 1
+  },
+  {
+    "id": 40034,
+    "name": "The Tinkerer's Table",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 42394,
+    "name": "The Tumbleweed",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 44094,
+    "name": "The Unexpected Prize",
+    "stackSize": 2,
+    "chaosValue": 1
+  },
+  {
+    "id": 44110,
+    "name": "The Journalist",
+    "stackSize": 10,
+    "chaosValue": 1
+  },
+  {
+    "id": 44126,
+    "name": "The Cache",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 46251,
+    "name": "Cursed Words",
+    "stackSize": 13,
+    "chaosValue": 1
+  },
+  {
+    "id": 54412,
+    "name": "The Bear Woman",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 54415,
+    "name": "The Long Watch",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 60046,
+    "name": "Prejudice",
+    "stackSize": 7,
+    "chaosValue": 1
+  },
+  {
+    "id": 60055,
+    "name": "Brush, Paint and Palette",
+    "stackSize": 5,
+    "chaosValue": 1
+  },
+  {
+    "id": 60060,
+    "name": "The Adventuring Spirit",
+    "stackSize": 6,
+    "chaosValue": 1
+  },
+  {
+    "id": 60102,
+    "name": "The Card Sharp",
+    "stackSize": 4,
+    "chaosValue": 1
+  },
+  {
+    "id": 60137,
+    "name": "Sambodhi's Wisdom",
+    "stackSize": 3,
+    "chaosValue": 1
+  },
+  {
+    "id": 735,
+    "name": "Lantador's Lost Love",
+    "stackSize": 7,
+    "chaosValue": 0.98
+  },
+  {
+    "id": 1450,
+    "name": "The Carrion Crow",
+    "stackSize": 4,
+    "chaosValue": 0.98
+  },
+  {
+    "id": 982,
+    "name": "Prosperity",
+    "stackSize": 10,
+    "chaosValue": 0.95
+  }
+]

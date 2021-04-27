@@ -1,0 +1,6472 @@
+[
+  {
+    "id": 40773,
+    "name": "Voices",
+    "chaosValue": 48402
+  },
+  {
+    "id": 50063,
+    "name": "Voices",
+    "chaosValue": 7947.6
+  },
+  {
+    "id": 483,
+    "name": "Emperor's Mastery",
+    "chaosValue": 1291.15
+  },
+  {
+    "id": 50060,
+    "name": "Voices",
+    "chaosValue": 993.45
+  },
+  {
+    "id": 7376,
+    "name": "Unnatural Instinct",
+    "chaosValue": 556.33
+  },
+  {
+    "id": 1977,
+    "name": "The Anima Stone",
+    "chaosValue": 397.38
+  },
+  {
+    "id": 21720,
+    "name": "Glorious Vanity",
+    "chaosValue": 359.38
+  },
+  {
+    "id": 676,
+    "name": "Inspired Learning",
+    "chaosValue": 332.26
+  },
+  {
+    "id": 50059,
+    "name": "Voices",
+    "chaosValue": 331.15
+  },
+  {
+    "id": 1964,
+    "name": "Primordial Might",
+    "chaosValue": 317.9
+  },
+  {
+    "id": 6957,
+    "name": "Transcendent Mind",
+    "chaosValue": 291.41
+  },
+  {
+    "id": 6961,
+    "name": "Transcendent Flesh",
+    "chaosValue": 291.41
+  },
+  {
+    "id": 6959,
+    "name": "Transcendent Spirit",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 484,
+    "name": "Emperor's Might",
+    "chaosValue": 238.43
+  },
+  {
+    "id": 40071,
+    "name": "Kitava's Teachings",
+    "chaosValue": 238.43
+  },
+  {
+    "id": 2032,
+    "name": "The Blue Nightmare",
+    "chaosValue": 225.18
+  },
+  {
+    "id": 1745,
+    "name": "Unending Hunger",
+    "chaosValue": 198.69
+  },
+  {
+    "id": 2029,
+    "name": "The Red Nightmare",
+    "chaosValue": 185.44
+  },
+  {
+    "id": 2030,
+    "name": "The Green Nightmare",
+    "chaosValue": 167.02
+  },
+  {
+    "id": 677,
+    "name": "Intuitive Leap",
+    "chaosValue": 92
+  },
+  {
+    "id": 25056,
+    "name": "Thread of Hope",
+    "chaosValue": 70
+  },
+  {
+    "id": 21663,
+    "name": "Lethal Pride",
+    "chaosValue": 59
+  },
+  {
+    "id": 40065,
+    "name": "One With Nothing",
+    "chaosValue": 58.52
+  },
+  {
+    "id": 2302,
+    "name": "Watcher's Eye",
+    "chaosValue": 49.53
+  },
+  {
+    "id": 1953,
+    "name": "Primordial Eminence",
+    "chaosValue": 48
+  },
+  {
+    "id": 21665,
+    "name": "Militant Faith",
+    "chaosValue": 45
+  },
+  {
+    "id": 40116,
+    "name": "Megalomaniac",
+    "chaosValue": 44.4
+  },
+  {
+    "id": 44416,
+    "name": "Replica Pure Talent",
+    "chaosValue": 44.3
+  },
+  {
+    "id": 485,
+    "name": "Emperor's Wit",
+    "chaosValue": 37.42
+  },
+  {
+    "id": 489,
+    "name": "Energy From Within",
+    "chaosValue": 32.28
+  },
+  {
+    "id": 21780,
+    "name": "Brutal Restraint",
+    "chaosValue": 29.68
+  },
+  {
+    "id": 2004,
+    "name": "The Red Dream",
+    "chaosValue": 29.23
+  },
+  {
+    "id": 22431,
+    "name": "Fortress Covenant",
+    "chaosValue": 17
+  },
+  {
+    "id": 40117,
+    "name": "Split Personality",
+    "chaosValue": 16.57
+  },
+  {
+    "id": 2007,
+    "name": "The Blue Dream",
+    "chaosValue": 15.65
+  },
+  {
+    "id": 1952,
+    "name": "Primordial Harmony",
+    "chaosValue": 15
+  },
+  {
+    "id": 44202,
+    "name": "Replica Conqueror's Efficiency",
+    "chaosValue": 14
+  },
+  {
+    "id": 481,
+    "name": "Emperor's Cunning",
+    "chaosValue": 10
+  },
+  {
+    "id": 608,
+    "name": "Healthy Mind",
+    "chaosValue": 10
+  },
+  {
+    "id": 754,
+    "name": "Lioneye's Fall",
+    "chaosValue": 10
+  },
+  {
+    "id": 21701,
+    "name": "Elegant Hubris",
+    "chaosValue": 10
+  },
+  {
+    "id": 40067,
+    "name": "Calamitous Visions",
+    "chaosValue": 10
+  },
+  {
+    "id": 44229,
+    "name": "Replica Primordial Might",
+    "chaosValue": 10
+  },
+  {
+    "id": 44405,
+    "name": "Replica Hotheaded",
+    "chaosValue": 10
+  },
+  {
+    "id": 44377,
+    "name": "Replica Fragile Bloom",
+    "chaosValue": 9
+  },
+  {
+    "id": 362,
+    "name": "Dead Reckoning",
+    "chaosValue": 7
+  },
+  {
+    "id": 4858,
+    "name": "Might of the Meek",
+    "chaosValue": 7
+  },
+  {
+    "id": 278,
+    "name": "Clear Mind",
+    "chaosValue": 5.43
+  },
+  {
+    "id": 1998,
+    "name": "The Green Dream",
+    "chaosValue": 5
+  },
+  {
+    "id": 2284,
+    "name": "Pure Talent",
+    "chaosValue": 5
+  },
+  {
+    "id": 6893,
+    "name": "Combat Focus",
+    "chaosValue": 5
+  },
+  {
+    "id": 6895,
+    "name": "Tempered Mind",
+    "chaosValue": 5
+  },
+  {
+    "id": 40069,
+    "name": "Natural Affinity",
+    "chaosValue": 5
+  },
+  {
+    "id": 44569,
+    "name": "Replica Unstable Payload",
+    "chaosValue": 5
+  },
+  {
+    "id": 45429,
+    "name": "Apex Mode",
+    "chaosValue": 5
+  },
+  {
+    "id": 785,
+    "name": "Mantra of Flames",
+    "chaosValue": 4
+  },
+  {
+    "id": 7302,
+    "name": "Combat Focus",
+    "chaosValue": 4
+  },
+  {
+    "id": 44261,
+    "name": "Replica Reckless Defence",
+    "chaosValue": 4
+  },
+  {
+    "id": 44417,
+    "name": "Replica Blood Sacrifice",
+    "chaosValue": 4
+  },
+  {
+    "id": 40068,
+    "name": "The Front Line",
+    "chaosValue": 3
+  },
+  {
+    "id": 44529,
+    "name": "Replica Cheap Construction",
+    "chaosValue": 3
+  },
+  {
+    "id": 45461,
+    "name": "Nadir Mode",
+    "chaosValue": 3
+  },
+  {
+    "id": 60117,
+    "name": "Amanamu's Gaze",
+    "chaosValue": 3
+  },
+  {
+    "id": 60160,
+    "name": "Tecrod's Gaze",
+    "chaosValue": 3
+  },
+  {
+    "id": 58,
+    "name": "Anatomical Knowledge",
+    "chaosValue": 2
+  },
+  {
+    "id": 536,
+    "name": "Fluid Motion",
+    "chaosValue": 2
+  },
+  {
+    "id": 587,
+    "name": "Grand Spectrum",
+    "chaosValue": 2
+  },
+  {
+    "id": 6892,
+    "name": "Tempered Flesh",
+    "chaosValue": 2
+  },
+  {
+    "id": 22378,
+    "name": "Quickening Covenant",
+    "chaosValue": 2
+  },
+  {
+    "id": 40070,
+    "name": "The Siege",
+    "chaosValue": 2
+  },
+  {
+    "id": 40072,
+    "name": "The Interrogation",
+    "chaosValue": 2
+  },
+  {
+    "id": 60064,
+    "name": "Kurgal's Gaze",
+    "chaosValue": 2
+  },
+  {
+    "id": 60136,
+    "name": "Ulaman's Gaze",
+    "chaosValue": 2
+  },
+  {
+    "id": 2070,
+    "name": "Frozen Trail",
+    "chaosValue": 1.6
+  },
+  {
+    "id": 1007,
+    "name": "Rain of Splinters",
+    "chaosValue": 1.42
+  },
+  {
+    "id": 64,
+    "name": "Ancient Waystones",
+    "chaosValue": 1
+  },
+  {
+    "id": 112,
+    "name": "Assassin's Haste",
+    "chaosValue": 1
+  },
+  {
+    "id": 126,
+    "name": "Atziri's Reign",
+    "chaosValue": 1
+  },
+  {
+    "id": 175,
+    "name": "Blood Sacrifice",
+    "chaosValue": 1
+  },
+  {
+    "id": 195,
+    "name": "Brawn",
+    "chaosValue": 1
+  },
+  {
+    "id": 204,
+    "name": "Brittle Barrier",
+    "chaosValue": 1
+  },
+  {
+    "id": 211,
+    "name": "Brute Force Solution",
+    "chaosValue": 1
+  },
+  {
+    "id": 226,
+    "name": "Careful Planning",
+    "chaosValue": 1
+  },
+  {
+    "id": 261,
+    "name": "Cheap Construction",
+    "chaosValue": 1
+  },
+  {
+    "id": 266,
+    "name": "Chill of Corruption",
+    "chaosValue": 1
+  },
+  {
+    "id": 289,
+    "name": "Cold Steel",
+    "chaosValue": 1
+  },
+  {
+    "id": 298,
+    "name": "Combustibles",
+    "chaosValue": 1
+  },
+  {
+    "id": 299,
+    "name": "Conqueror's Efficiency",
+    "chaosValue": 1
+  },
+  {
+    "id": 301,
+    "name": "Conqueror's Potency",
+    "chaosValue": 1
+  },
+  {
+    "id": 305,
+    "name": "Corrupted Energy",
+    "chaosValue": 1
+  },
+  {
+    "id": 477,
+    "name": "Efficient Training",
+    "chaosValue": 1
+  },
+  {
+    "id": 478,
+    "name": "Eldritch Knowledge",
+    "chaosValue": 1
+  },
+  {
+    "id": 488,
+    "name": "Energised Armour",
+    "chaosValue": 1
+  },
+  {
+    "id": 525,
+    "name": "Fertile Mind",
+    "chaosValue": 1
+  },
+  {
+    "id": 526,
+    "name": "Fevered Mind",
+    "chaosValue": 1
+  },
+  {
+    "id": 532,
+    "name": "Fireborn",
+    "chaosValue": 1
+  },
+  {
+    "id": 545,
+    "name": "Fragile Bloom",
+    "chaosValue": 1
+  },
+  {
+    "id": 546,
+    "name": "Fragility",
+    "chaosValue": 1
+  },
+  {
+    "id": 585,
+    "name": "Grand Spectrum",
+    "chaosValue": 1
+  },
+  {
+    "id": 586,
+    "name": "Grand Spectrum",
+    "chaosValue": 1
+  },
+  {
+    "id": 603,
+    "name": "Growing Agony",
+    "chaosValue": 1
+  },
+  {
+    "id": 604,
+    "name": "Hair Trigger",
+    "chaosValue": 1
+  },
+  {
+    "id": 624,
+    "name": "Hidden Potential",
+    "chaosValue": 1
+  },
+  {
+    "id": 646,
+    "name": "Hungry Abyss",
+    "chaosValue": 1
+  },
+  {
+    "id": 665,
+    "name": "Inertia",
+    "chaosValue": 1
+  },
+  {
+    "id": 685,
+    "name": "Izaro's Turmoil",
+    "chaosValue": 1
+  },
+  {
+    "id": 780,
+    "name": "Malicious Intent",
+    "chaosValue": 1
+  },
+  {
+    "id": 793,
+    "name": "Martial Artistry",
+    "chaosValue": 1
+  },
+  {
+    "id": 813,
+    "name": "Might in All Forms",
+    "chaosValue": 1
+  },
+  {
+    "id": 843,
+    "name": "Mutated Growth",
+    "chaosValue": 1
+  },
+  {
+    "id": 912,
+    "name": "Pacifism",
+    "chaosValue": 1
+  },
+  {
+    "id": 958,
+    "name": "Poacher's Aim",
+    "chaosValue": 1
+  },
+  {
+    "id": 964,
+    "name": "Powerlessness",
+    "chaosValue": 1
+  },
+  {
+    "id": 983,
+    "name": "Pugilist",
+    "chaosValue": 1
+  },
+  {
+    "id": 1012,
+    "name": "Rapid Expansion",
+    "chaosValue": 1
+  },
+  {
+    "id": 1033,
+    "name": "Reckless Defence",
+    "chaosValue": 1
+  },
+  {
+    "id": 1066,
+    "name": "Rolling Flames",
+    "chaosValue": 1
+  },
+  {
+    "id": 1078,
+    "name": "Sacrificial Harvest",
+    "chaosValue": 1
+  },
+  {
+    "id": 1109,
+    "name": "Self-Flagellation",
+    "chaosValue": 1
+  },
+  {
+    "id": 1349,
+    "name": "Spire of Stone",
+    "chaosValue": 1
+  },
+  {
+    "id": 1350,
+    "name": "Spirit Guards",
+    "chaosValue": 1
+  },
+  {
+    "id": 1351,
+    "name": "Spirited Response",
+    "chaosValue": 1
+  },
+  {
+    "id": 1364,
+    "name": "Static Electricity",
+    "chaosValue": 1
+  },
+  {
+    "id": 1365,
+    "name": "Steel Spirit",
+    "chaosValue": 1
+  },
+  {
+    "id": 1655,
+    "name": "The Vigil",
+    "chaosValue": 1
+  },
+  {
+    "id": 1750,
+    "name": "Unstable Payload",
+    "chaosValue": 1
+  },
+  {
+    "id": 1761,
+    "name": "Vaal Sentencing",
+    "chaosValue": 1
+  },
+  {
+    "id": 1808,
+    "name": "Volley Fire",
+    "chaosValue": 1
+  },
+  {
+    "id": 1864,
+    "name": "Weight of Sin",
+    "chaosValue": 1
+  },
+  {
+    "id": 1865,
+    "name": "Weight of the Empire",
+    "chaosValue": 1
+  },
+  {
+    "id": 1891,
+    "name": "Winter's Bounty",
+    "chaosValue": 1
+  },
+  {
+    "id": 2060,
+    "name": "Omen on the Winds",
+    "chaosValue": 1
+  },
+  {
+    "id": 2062,
+    "name": "Fight for Survival",
+    "chaosValue": 1
+  },
+  {
+    "id": 2065,
+    "name": "Inevitability",
+    "chaosValue": 1
+  },
+  {
+    "id": 2067,
+    "name": "Ring of Blades",
+    "chaosValue": 1
+  },
+  {
+    "id": 2068,
+    "name": "Might and Influence",
+    "chaosValue": 1
+  },
+  {
+    "id": 2069,
+    "name": "First Snow",
+    "chaosValue": 1
+  },
+  {
+    "id": 2073,
+    "name": "Overwhelming Odds",
+    "chaosValue": 1
+  },
+  {
+    "id": 2180,
+    "name": "Hazardous Research",
+    "chaosValue": 1
+  },
+  {
+    "id": 2181,
+    "name": "Spreading Rot",
+    "chaosValue": 1
+  },
+  {
+    "id": 2184,
+    "name": "To Dust",
+    "chaosValue": 1
+  },
+  {
+    "id": 2191,
+    "name": "From Dust",
+    "chaosValue": 1
+  },
+  {
+    "id": 2276,
+    "name": "The Golden Rule",
+    "chaosValue": 1
+  },
+  {
+    "id": 2278,
+    "name": "Soul's Wick",
+    "chaosValue": 1
+  },
+  {
+    "id": 6897,
+    "name": "Tempered Spirit",
+    "chaosValue": 1
+  },
+  {
+    "id": 7301,
+    "name": "Combat Focus",
+    "chaosValue": 1
+  },
+  {
+    "id": 21462,
+    "name": "Divide and Conquer",
+    "chaosValue": 1
+  },
+  {
+    "id": 41715,
+    "name": "Hotheaded",
+    "chaosValue": 1
+  },
+  {
+    "id": 43466,
+    "name": "Lord of Steel",
+    "chaosValue": 1
+  },
+  {
+    "id": 44028,
+    "name": "Endless Misery",
+    "chaosValue": 1
+  },
+  {
+    "id": 2074,
+    "name": "Winter Burial",
+    "chaosValue": 0.99
+  },
+  {
+    "id": 2066,
+    "name": "Wildfire",
+    "chaosValue": 0.9
+  },
+  {
+    "id": 300,
+    "name": "Conqueror's Longevity",
+    "chaosValue": 0.89
+  },
+  {
+    "id": 288,
+    "name": "Coated Shrapnel",
+    "chaosValue": 0.79
+  },
+  {
+    "id": 1384,
+    "name": "Survival Instincts",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1385,
+    "name": "Survival Secrets",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1386,
+    "name": "Survival Skills",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1838,
+    "name": "Warlord's Reach",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 20932,
+    "name": "Bottled Faith",
+    "chaosValue": 1125.91
+  },
+  {
+    "id": 60420,
+    "name": "Vessel of Vinktar",
+    "chaosValue": 331.15
+  },
+  {
+    "id": 19060,
+    "name": "Cinderswallow Urn",
+    "chaosValue": 224.37
+  },
+  {
+    "id": 467,
+    "name": "Dying Sun",
+    "chaosValue": 198.69
+  },
+  {
+    "id": 2138,
+    "name": "Rumi's Concoction",
+    "chaosValue": 51.47
+  },
+  {
+    "id": 1394,
+    "name": "Taste of Hate",
+    "chaosValue": 40
+  },
+  {
+    "id": 7020,
+    "name": "Soul Ripper",
+    "chaosValue": 38.21
+  },
+  {
+    "id": 7454,
+    "name": "Soul Ripper",
+    "chaosValue": 30
+  },
+  {
+    "id": 1073,
+    "name": "Rumi's Concoction",
+    "chaosValue": 29.91
+  },
+  {
+    "id": 60086,
+    "name": "Atziri's Promise",
+    "chaosValue": 15.84
+  },
+  {
+    "id": 44550,
+    "name": "Replica Rumi's Concoction",
+    "chaosValue": 13.65
+  },
+  {
+    "id": 763,
+    "name": "Lion's Roar",
+    "chaosValue": 10
+  },
+  {
+    "id": 1772,
+    "name": "Vessel of Vinktar",
+    "chaosValue": 10
+  },
+  {
+    "id": 1956,
+    "name": "Sin's Rebirth",
+    "chaosValue": 6
+  },
+  {
+    "id": 1773,
+    "name": "Vessel of Vinktar",
+    "chaosValue": 5
+  },
+  {
+    "id": 1774,
+    "name": "Vessel of Vinktar",
+    "chaosValue": 5
+  },
+  {
+    "id": 1775,
+    "name": "Vessel of Vinktar",
+    "chaosValue": 5
+  },
+  {
+    "id": 7593,
+    "name": "Soul Catcher",
+    "chaosValue": 5
+  },
+  {
+    "id": 125,
+    "name": "Atziri's Promise",
+    "chaosValue": 3
+  },
+  {
+    "id": 2075,
+    "name": "The Wise Oak",
+    "chaosValue": 3
+  },
+  {
+    "id": 7406,
+    "name": "Zerphi's Last Breath",
+    "chaosValue": 3
+  },
+  {
+    "id": 44448,
+    "name": "Replica Lavianga's Spirit",
+    "chaosValue": 3
+  },
+  {
+    "id": 174,
+    "name": "Blood of the Karui",
+    "chaosValue": 2
+  },
+  {
+    "id": 1893,
+    "name": "Witchfire Brew",
+    "chaosValue": 2
+  },
+  {
+    "id": 1904,
+    "name": "Zerphi's Last Breath",
+    "chaosValue": 2
+  },
+  {
+    "id": 2283,
+    "name": "Coralito's Signature",
+    "chaosValue": 2
+  },
+  {
+    "id": 44298,
+    "name": "Replica Sorrow of the Divine",
+    "chaosValue": 2
+  },
+  {
+    "id": 306,
+    "name": "Coruscating Elixir",
+    "chaosValue": 1
+  },
+  {
+    "id": 424,
+    "name": "Divination Distillate",
+    "chaosValue": 1
+  },
+  {
+    "id": 427,
+    "name": "Doedre's Elixir",
+    "chaosValue": 1
+  },
+  {
+    "id": 537,
+    "name": "Forbidden Taste",
+    "chaosValue": 1
+  },
+  {
+    "id": 712,
+    "name": "Kiara's Determination",
+    "chaosValue": 1
+  },
+  {
+    "id": 739,
+    "name": "Lavianga's Spirit",
+    "chaosValue": 1
+  },
+  {
+    "id": 1068,
+    "name": "Rotgut",
+    "chaosValue": 1
+  },
+  {
+    "id": 1561,
+    "name": "The Overflowing Chalice",
+    "chaosValue": 1
+  },
+  {
+    "id": 1614,
+    "name": "The Sorrow of the Divine",
+    "chaosValue": 1
+  },
+  {
+    "id": 1679,
+    "name": "The Writhing Jar",
+    "chaosValue": 1
+  },
+  {
+    "id": 6896,
+    "name": "Soul Catcher",
+    "chaosValue": 1
+  },
+  {
+    "id": 25769,
+    "name": "The Saviour",
+    "chaosValue": 860.99
+  },
+  {
+    "id": 19061,
+    "name": "Paradoxica",
+    "chaosValue": 794.76
+  },
+  {
+    "id": 45363,
+    "name": "Replica Duskdawn",
+    "chaosValue": 794.76
+  },
+  {
+    "id": 1997,
+    "name": "Duskdawn",
+    "chaosValue": 317.9
+  },
+  {
+    "id": 1795,
+    "name": "Void Battery",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 60174,
+    "name": "Pledge of Hands",
+    "chaosValue": 229.72
+  },
+  {
+    "id": 955,
+    "name": "Pledge of Hands",
+    "chaosValue": 215.35
+  },
+  {
+    "id": 1360,
+    "name": "Starforge",
+    "chaosValue": 198.69
+  },
+  {
+    "id": 1600,
+    "name": "The Searing Touch",
+    "chaosValue": 182.3
+  },
+  {
+    "id": 42576,
+    "name": "The Surging Thoughts",
+    "chaosValue": 133.15
+  },
+  {
+    "id": 307,
+    "name": "Cospri's Malice",
+    "chaosValue": 119.21
+  },
+  {
+    "id": 4937,
+    "name": "Voidforge",
+    "chaosValue": 104.84
+  },
+  {
+    "id": 714,
+    "name": "Kingmaker",
+    "chaosValue": 83
+  },
+  {
+    "id": 1335,
+    "name": "Soul Taker",
+    "chaosValue": 70
+  },
+  {
+    "id": 60018,
+    "name": "Cane of Kulemak",
+    "chaosValue": 51.07
+  },
+  {
+    "id": 42634,
+    "name": "The Yielding Mortality",
+    "chaosValue": 50
+  },
+  {
+    "id": 60186,
+    "name": "Arakaali's Fang",
+    "chaosValue": 50
+  },
+  {
+    "id": 1975,
+    "name": "Arakaali's Fang",
+    "chaosValue": 40
+  },
+  {
+    "id": 2322,
+    "name": "Vulconus",
+    "chaosValue": 40
+  },
+  {
+    "id": 60170,
+    "name": "Atziri's Rule",
+    "chaosValue": 37.2
+  },
+  {
+    "id": 4875,
+    "name": "Dreadbeak",
+    "chaosValue": 35
+  },
+  {
+    "id": 1978,
+    "name": "Xoph's Nurture",
+    "chaosValue": 31.1
+  },
+  {
+    "id": 19049,
+    "name": "The Crimson Storm",
+    "chaosValue": 25
+  },
+  {
+    "id": 44565,
+    "name": "The Iron Mass",
+    "chaosValue": 25
+  },
+  {
+    "id": 400,
+    "name": "Death's Opus",
+    "chaosValue": 24.41
+  },
+  {
+    "id": 44710,
+    "name": "Replica Kongor's Undying Rage",
+    "chaosValue": 21.24
+  },
+  {
+    "id": 2089,
+    "name": "Tidebreaker",
+    "chaosValue": 20
+  },
+  {
+    "id": 22641,
+    "name": "Cold Iron Point",
+    "chaosValue": 20
+  },
+  {
+    "id": 44487,
+    "name": "Replica Paradoxica",
+    "chaosValue": 20
+  },
+  {
+    "id": 60045,
+    "name": "Atziri's Rule",
+    "chaosValue": 18
+  },
+  {
+    "id": 2231,
+    "name": "The Rippling Thoughts",
+    "chaosValue": 17
+  },
+  {
+    "id": 2522,
+    "name": "Arborix",
+    "chaosValue": 16.21
+  },
+  {
+    "id": 60209,
+    "name": "Atziri's Disfavour",
+    "chaosValue": 15.72
+  },
+  {
+    "id": 2235,
+    "name": "The Enmity Divine",
+    "chaosValue": 15
+  },
+  {
+    "id": 45157,
+    "name": "Replica Windripper",
+    "chaosValue": 15
+  },
+  {
+    "id": 2008,
+    "name": "Uul-Netol's Embrace",
+    "chaosValue": 13.02
+  },
+  {
+    "id": 120,
+    "name": "Atziri's Disfavour",
+    "chaosValue": 13
+  },
+  {
+    "id": 44546,
+    "name": "Replica Soul Taker",
+    "chaosValue": 12.28
+  },
+  {
+    "id": 4924,
+    "name": "The Stormwall",
+    "chaosValue": 12
+  },
+  {
+    "id": 1629,
+    "name": "The Tempest",
+    "chaosValue": 11.9
+  },
+  {
+    "id": 45082,
+    "name": "Actum",
+    "chaosValue": 11.01
+  },
+  {
+    "id": 2258,
+    "name": "The Poet's Pen",
+    "chaosValue": 10
+  },
+  {
+    "id": 4892,
+    "name": "Disintegrator",
+    "chaosValue": 10
+  },
+  {
+    "id": 23105,
+    "name": "Nebulis",
+    "chaosValue": 10
+  },
+  {
+    "id": 44929,
+    "name": "Replica Nebulis",
+    "chaosValue": 10
+  },
+  {
+    "id": 45129,
+    "name": "The Fulcrum",
+    "chaosValue": 10
+  },
+  {
+    "id": 45279,
+    "name": "The Hidden Blade",
+    "chaosValue": 10
+  },
+  {
+    "id": 44461,
+    "name": "Replica Cold Iron Point",
+    "chaosValue": 9.87
+  },
+  {
+    "id": 687,
+    "name": "Jack, the Axe",
+    "chaosValue": 9.79
+  },
+  {
+    "id": 614,
+    "name": "Hegemony's Era",
+    "chaosValue": 9
+  },
+  {
+    "id": 998,
+    "name": "Queen's Escape",
+    "chaosValue": 9
+  },
+  {
+    "id": 1454,
+    "name": "The Cauteriser",
+    "chaosValue": 9
+  },
+  {
+    "id": 4929,
+    "name": "The Dancing Duo",
+    "chaosValue": 8.41
+  },
+  {
+    "id": 44540,
+    "name": "Replica Trypanon",
+    "chaosValue": 8.07
+  },
+  {
+    "id": 821,
+    "name": "Mjölner",
+    "chaosValue": 8.06
+  },
+  {
+    "id": 4866,
+    "name": "Geofri's Devotion",
+    "chaosValue": 7.71
+  },
+  {
+    "id": 1516,
+    "name": "The Gryphon",
+    "chaosValue": 7.62
+  },
+  {
+    "id": 1513,
+    "name": "The Goddess Scorned",
+    "chaosValue": 7
+  },
+  {
+    "id": 1992,
+    "name": "Hand of Wisdom and Action",
+    "chaosValue": 7
+  },
+  {
+    "id": 2084,
+    "name": "Martyr of Innocence",
+    "chaosValue": 7
+  },
+  {
+    "id": 638,
+    "name": "Hrimnor's Dirge",
+    "chaosValue": 6.11
+  },
+  {
+    "id": 4882,
+    "name": "Panquetzaliztli",
+    "chaosValue": 6.1
+  },
+  {
+    "id": 1306,
+    "name": "Silverbough",
+    "chaosValue": 6
+  },
+  {
+    "id": 2305,
+    "name": "Grelwood Shank",
+    "chaosValue": 6
+  },
+  {
+    "id": 42640,
+    "name": "Witchhunter's Judgment",
+    "chaosValue": 5.09
+  },
+  {
+    "id": 434,
+    "name": "Doomfletch's Prism",
+    "chaosValue": 5
+  },
+  {
+    "id": 788,
+    "name": "Marohi Erqi",
+    "chaosValue": 5
+  },
+  {
+    "id": 1958,
+    "name": "Xoph's Inception",
+    "chaosValue": 5
+  },
+  {
+    "id": 1972,
+    "name": "Shade of Solaris",
+    "chaosValue": 5
+  },
+  {
+    "id": 2011,
+    "name": "Tulfall",
+    "chaosValue": 5
+  },
+  {
+    "id": 4871,
+    "name": "Sanguine Gambol",
+    "chaosValue": 5
+  },
+  {
+    "id": 4923,
+    "name": "Cameria's Avarice",
+    "chaosValue": 5
+  },
+  {
+    "id": 5974,
+    "name": "Corona Solaris",
+    "chaosValue": 5
+  },
+  {
+    "id": 7835,
+    "name": "Fate of the Vaal",
+    "chaosValue": 5
+  },
+  {
+    "id": 42635,
+    "name": "Law of the Wilds",
+    "chaosValue": 5
+  },
+  {
+    "id": 44313,
+    "name": "Replica Bitterdream",
+    "chaosValue": 5
+  },
+  {
+    "id": 44372,
+    "name": "Replica Midnight Bargain",
+    "chaosValue": 5
+  },
+  {
+    "id": 44466,
+    "name": "Replica Ungil's Gauche",
+    "chaosValue": 5
+  },
+  {
+    "id": 44957,
+    "name": "Replica Tulfall",
+    "chaosValue": 5
+  },
+  {
+    "id": 60167,
+    "name": "Story of the Vaal",
+    "chaosValue": 5
+  },
+  {
+    "id": 60168,
+    "name": "Rebuke of the Vaal",
+    "chaosValue": 5
+  },
+  {
+    "id": 60176,
+    "name": "Doryani's Catalyst",
+    "chaosValue": 5
+  },
+  {
+    "id": 60320,
+    "name": "Yaomac's Accord",
+    "chaosValue": 5
+  },
+  {
+    "id": 60200,
+    "name": "Quecholli",
+    "chaosValue": 4.96
+  },
+  {
+    "id": 60232,
+    "name": "Cerberus Limb",
+    "chaosValue": 4.7
+  },
+  {
+    "id": 41675,
+    "name": "First Piece of the Arcane",
+    "chaosValue": 4.56
+  },
+  {
+    "id": 7452,
+    "name": "Chaber Cairn",
+    "chaosValue": 4.54
+  },
+  {
+    "id": 44533,
+    "name": "Replica Oro's Sacrifice",
+    "chaosValue": 4.05
+  },
+  {
+    "id": 44630,
+    "name": "Replica Frostbreath",
+    "chaosValue": 4.03
+  },
+  {
+    "id": 51,
+    "name": "Amplification Rod",
+    "chaosValue": 4
+  },
+  {
+    "id": 41672,
+    "name": "First Piece of Brutality",
+    "chaosValue": 4
+  },
+  {
+    "id": 41673,
+    "name": "Second Piece of Brutality",
+    "chaosValue": 4
+  },
+  {
+    "id": 44200,
+    "name": "Replica Quill Rain",
+    "chaosValue": 4
+  },
+  {
+    "id": 44227,
+    "name": "Replica Last Resort",
+    "chaosValue": 4
+  },
+  {
+    "id": 44326,
+    "name": "Replica Heartbreaker",
+    "chaosValue": 4
+  },
+  {
+    "id": 44365,
+    "name": "Replica Wings of Entropy",
+    "chaosValue": 4
+  },
+  {
+    "id": 44503,
+    "name": "Replica Dreamfeather",
+    "chaosValue": 4
+  },
+  {
+    "id": 44902,
+    "name": "Replica Allure",
+    "chaosValue": 4
+  },
+  {
+    "id": 60239,
+    "name": "Panquetzaliztli",
+    "chaosValue": 4
+  },
+  {
+    "id": 7377,
+    "name": "Soulwrest",
+    "chaosValue": 3.99
+  },
+  {
+    "id": 6969,
+    "name": "Fate of the Vaal",
+    "chaosValue": 3.38
+  },
+  {
+    "id": 41674,
+    "name": "Second Piece of the Arcane",
+    "chaosValue": 3.28
+  },
+  {
+    "id": 60181,
+    "name": "Bloodseeker",
+    "chaosValue": 3.12
+  },
+  {
+    "id": 196,
+    "name": "Breath of the Council",
+    "chaosValue": 3
+  },
+  {
+    "id": 659,
+    "name": "Ichimonji",
+    "chaosValue": 3
+  },
+  {
+    "id": 1018,
+    "name": "Reach of the Council",
+    "chaosValue": 3
+  },
+  {
+    "id": 1765,
+    "name": "Varunastra",
+    "chaosValue": 3
+  },
+  {
+    "id": 1974,
+    "name": "Kitava's Feast",
+    "chaosValue": 3
+  },
+  {
+    "id": 1990,
+    "name": "Severed in Sleep",
+    "chaosValue": 3
+  },
+  {
+    "id": 2304,
+    "name": "Nebuloch",
+    "chaosValue": 3
+  },
+  {
+    "id": 2463,
+    "name": "Hopeshredder",
+    "chaosValue": 3
+  },
+  {
+    "id": 2479,
+    "name": "Shimmeron",
+    "chaosValue": 3
+  },
+  {
+    "id": 2504,
+    "name": "Beltimber Blade",
+    "chaosValue": 3
+  },
+  {
+    "id": 4894,
+    "name": "Mirebough",
+    "chaosValue": 3
+  },
+  {
+    "id": 4919,
+    "name": "Dreadsurge",
+    "chaosValue": 3
+  },
+  {
+    "id": 7418,
+    "name": "Cerberus Limb",
+    "chaosValue": 3
+  },
+  {
+    "id": 41671,
+    "name": "Third Piece of Brutality",
+    "chaosValue": 3
+  },
+  {
+    "id": 41676,
+    "name": "Third Piece of the Arcane",
+    "chaosValue": 3
+  },
+  {
+    "id": 44136,
+    "name": "Replica Tempestuous Steel",
+    "chaosValue": 3
+  },
+  {
+    "id": 44178,
+    "name": "Replica Iron Commander",
+    "chaosValue": 3
+  },
+  {
+    "id": 44193,
+    "name": "Replica Harvest",
+    "chaosValue": 3
+  },
+  {
+    "id": 44203,
+    "name": "Replica Bloodplay",
+    "chaosValue": 3
+  },
+  {
+    "id": 44218,
+    "name": "Replica Earendel's Embrace",
+    "chaosValue": 3
+  },
+  {
+    "id": 44262,
+    "name": "Replica Advancing Fortress",
+    "chaosValue": 3
+  },
+  {
+    "id": 44291,
+    "name": "Replica Twyzel",
+    "chaosValue": 3
+  },
+  {
+    "id": 44308,
+    "name": "Replica Fencoil",
+    "chaosValue": 3
+  },
+  {
+    "id": 44351,
+    "name": "Replica Innsbury Edge",
+    "chaosValue": 3
+  },
+  {
+    "id": 44355,
+    "name": "Replica Blood Thorn",
+    "chaosValue": 3
+  },
+  {
+    "id": 44389,
+    "name": "Replica Infractem",
+    "chaosValue": 3
+  },
+  {
+    "id": 60187,
+    "name": "Cane of Unravelling",
+    "chaosValue": 3
+  },
+  {
+    "id": 60196,
+    "name": "Apep's Rage",
+    "chaosValue": 3
+  },
+  {
+    "id": 423,
+    "name": "Divinarius",
+    "chaosValue": 2
+  },
+  {
+    "id": 441,
+    "name": "Doryani's Catalyst",
+    "chaosValue": 2
+  },
+  {
+    "id": 1017,
+    "name": "Razor of the Seventh Sun",
+    "chaosValue": 2
+  },
+  {
+    "id": 1021,
+    "name": "Realm Ender",
+    "chaosValue": 2
+  },
+  {
+    "id": 1057,
+    "name": "Rigwald's Command",
+    "chaosValue": 2
+  },
+  {
+    "id": 1594,
+    "name": "The Scourge",
+    "chaosValue": 2
+  },
+  {
+    "id": 1722,
+    "name": "Trypanon",
+    "chaosValue": 2
+  },
+  {
+    "id": 1882,
+    "name": "Windripper",
+    "chaosValue": 2
+  },
+  {
+    "id": 1963,
+    "name": "Uul-Netol's Kiss",
+    "chaosValue": 2
+  },
+  {
+    "id": 7392,
+    "name": "The Grey Spire",
+    "chaosValue": 2
+  },
+  {
+    "id": 21588,
+    "name": "Sign of the Sin Eater",
+    "chaosValue": 2
+  },
+  {
+    "id": 38,
+    "name": "Agnerod West",
+    "chaosValue": 1.43
+  },
+  {
+    "id": 26,
+    "name": "Advancing Fortress",
+    "chaosValue": 1
+  },
+  {
+    "id": 29,
+    "name": "Agnerod East",
+    "chaosValue": 1
+  },
+  {
+    "id": 32,
+    "name": "Agnerod North",
+    "chaosValue": 1
+  },
+  {
+    "id": 35,
+    "name": "Agnerod South",
+    "chaosValue": 1
+  },
+  {
+    "id": 41,
+    "name": "Al Dhih",
+    "chaosValue": 1
+  },
+  {
+    "id": 45,
+    "name": "Allure",
+    "chaosValue": 1
+  },
+  {
+    "id": 66,
+    "name": "Apep's Rage",
+    "chaosValue": 1
+  },
+  {
+    "id": 135,
+    "name": "Axiom Perpetuum",
+    "chaosValue": 1
+  },
+  {
+    "id": 160,
+    "name": "Bino's Kitchen Knife",
+    "chaosValue": 1
+  },
+  {
+    "id": 179,
+    "name": "Bloodseeker",
+    "chaosValue": 1
+  },
+  {
+    "id": 189,
+    "name": "Brain Rattler",
+    "chaosValue": 1
+  },
+  {
+    "id": 197,
+    "name": "Brightbeak",
+    "chaosValue": 1
+  },
+  {
+    "id": 212,
+    "name": "Brutus' Lead Sprinkler",
+    "chaosValue": 1
+  },
+  {
+    "id": 217,
+    "name": "Callinellus Malleus",
+    "chaosValue": 1
+  },
+  {
+    "id": 218,
+    "name": "Cameria's Maul",
+    "chaosValue": 1
+  },
+  {
+    "id": 267,
+    "name": "Chin Sol",
+    "chaosValue": 1
+  },
+  {
+    "id": 271,
+    "name": "Chitus' Needle",
+    "chaosValue": 1
+  },
+  {
+    "id": 272,
+    "name": "Chober Chaber",
+    "chaosValue": 1
+  },
+  {
+    "id": 276,
+    "name": "Clayshaper",
+    "chaosValue": 1
+  },
+  {
+    "id": 355,
+    "name": "Darkscorn",
+    "chaosValue": 1
+  },
+  {
+    "id": 393,
+    "name": "Death's Hand",
+    "chaosValue": 1
+  },
+  {
+    "id": 394,
+    "name": "Death's Harp",
+    "chaosValue": 1
+  },
+  {
+    "id": 437,
+    "name": "Doomsower",
+    "chaosValue": 1
+  },
+  {
+    "id": 440,
+    "name": "Doon Cuebiyari",
+    "chaosValue": 1
+  },
+  {
+    "id": 446,
+    "name": "Dreamfeather",
+    "chaosValue": 1
+  },
+  {
+    "id": 461,
+    "name": "Dyadus",
+    "chaosValue": 1
+  },
+  {
+    "id": 474,
+    "name": "Edge of Madness",
+    "chaosValue": 1
+  },
+  {
+    "id": 490,
+    "name": "Ephemeral Edge",
+    "chaosValue": 1
+  },
+  {
+    "id": 521,
+    "name": "Femurs of the Saints",
+    "chaosValue": 1
+  },
+  {
+    "id": 611,
+    "name": "Heartbreaker",
+    "chaosValue": 1
+  },
+  {
+    "id": 621,
+    "name": "Hezmana's Bloodlust",
+    "chaosValue": 1
+  },
+  {
+    "id": 629,
+    "name": "Hiltless",
+    "chaosValue": 1
+  },
+  {
+    "id": 650,
+    "name": "Hyaon's Fury",
+    "chaosValue": 1
+  },
+  {
+    "id": 672,
+    "name": "Infractem",
+    "chaosValue": 1
+  },
+  {
+    "id": 675,
+    "name": "Innsbury Edge",
+    "chaosValue": 1
+  },
+  {
+    "id": 684,
+    "name": "Izaro's Dilemma",
+    "chaosValue": 1
+  },
+  {
+    "id": 704,
+    "name": "Kaom's Primacy",
+    "chaosValue": 1
+  },
+  {
+    "id": 723,
+    "name": "Kondo's Pride",
+    "chaosValue": 1
+  },
+  {
+    "id": 727,
+    "name": "Kongor's Undying Rage",
+    "chaosValue": 1
+  },
+  {
+    "id": 734,
+    "name": "Lakishu's Blade",
+    "chaosValue": 1
+  },
+  {
+    "id": 743,
+    "name": "Lifesprig",
+    "chaosValue": 1
+  },
+  {
+    "id": 755,
+    "name": "Lioneye's Glare",
+    "chaosValue": 1
+  },
+  {
+    "id": 787,
+    "name": "Mark of the Doubting Knight",
+    "chaosValue": 1
+  },
+  {
+    "id": 812,
+    "name": "Midnight Bargain",
+    "chaosValue": 1
+  },
+  {
+    "id": 814,
+    "name": "Mightflay",
+    "chaosValue": 1
+  },
+  {
+    "id": 824,
+    "name": "Mon'tregul's Grasp",
+    "chaosValue": 1
+  },
+  {
+    "id": 831,
+    "name": "Mortem Morsu",
+    "chaosValue": 1
+  },
+  {
+    "id": 873,
+    "name": "Nuro's Harp",
+    "chaosValue": 1
+  },
+  {
+    "id": 880,
+    "name": "Obliteration",
+    "chaosValue": 1
+  },
+  {
+    "id": 899,
+    "name": "Oro's Sacrifice",
+    "chaosValue": 1
+  },
+  {
+    "id": 937,
+    "name": "Piscator's Vigil",
+    "chaosValue": 1
+  },
+  {
+    "id": 975,
+    "name": "Prismatic Eclipse",
+    "chaosValue": 1
+  },
+  {
+    "id": 1001,
+    "name": "Quill Rain",
+    "chaosValue": 1
+  },
+  {
+    "id": 1027,
+    "name": "Reaper's Pursuit",
+    "chaosValue": 1
+  },
+  {
+    "id": 1032,
+    "name": "Rebuke of the Vaal",
+    "chaosValue": 1
+  },
+  {
+    "id": 1034,
+    "name": "Redbeak",
+    "chaosValue": 1
+  },
+  {
+    "id": 1055,
+    "name": "Rigwald's Charge",
+    "chaosValue": 1
+  },
+  {
+    "id": 1061,
+    "name": "Rigwald's Savagery",
+    "chaosValue": 1
+  },
+  {
+    "id": 1065,
+    "name": "Rive",
+    "chaosValue": 1
+  },
+  {
+    "id": 1082,
+    "name": "Scaeva",
+    "chaosValue": 1
+  },
+  {
+    "id": 1313,
+    "name": "Singularity",
+    "chaosValue": 1
+  },
+  {
+    "id": 1314,
+    "name": "Sire of Shards",
+    "chaosValue": 1
+  },
+  {
+    "id": 1321,
+    "name": "Slivertongue",
+    "chaosValue": 1
+  },
+  {
+    "id": 1348,
+    "name": "Spine of the First Claimant",
+    "chaosValue": 1
+  },
+  {
+    "id": 1390,
+    "name": "Taryn's Shiver",
+    "chaosValue": 1
+  },
+  {
+    "id": 1401,
+    "name": "Terminus Est",
+    "chaosValue": 1
+  },
+  {
+    "id": 1461,
+    "name": "The Consuming Dark",
+    "chaosValue": 1
+  },
+  {
+    "id": 1469,
+    "name": "The Dancing Dervish",
+    "chaosValue": 1
+  },
+  {
+    "id": 1473,
+    "name": "The Dark Seer",
+    "chaosValue": 1
+  },
+  {
+    "id": 1512,
+    "name": "The Goddess Bound",
+    "chaosValue": 1
+  },
+  {
+    "id": 1519,
+    "name": "The Harvest",
+    "chaosValue": 1
+  },
+  {
+    "id": 1575,
+    "name": "The Princess",
+    "chaosValue": 1
+  },
+  {
+    "id": 1596,
+    "name": "The Screaming Eagle",
+    "chaosValue": 1
+  },
+  {
+    "id": 1597,
+    "name": "The Searing Touch",
+    "chaosValue": 1
+  },
+  {
+    "id": 1623,
+    "name": "The Supreme Truth",
+    "chaosValue": 1
+  },
+  {
+    "id": 1632,
+    "name": "The Tempestuous Steel",
+    "chaosValue": 1
+  },
+  {
+    "id": 1705,
+    "name": "Touch of Anguish",
+    "chaosValue": 1
+  },
+  {
+    "id": 1713,
+    "name": "Tremor Rod",
+    "chaosValue": 1
+  },
+  {
+    "id": 1813,
+    "name": "Voltaxic Rift",
+    "chaosValue": 1
+  },
+  {
+    "id": 1879,
+    "name": "Widowmaker",
+    "chaosValue": 1
+  },
+  {
+    "id": 1897,
+    "name": "Xirgil's Crank",
+    "chaosValue": 1
+  },
+  {
+    "id": 1951,
+    "name": "Tulborn",
+    "chaosValue": 1
+  },
+  {
+    "id": 1954,
+    "name": "Hand of Thought and Motion",
+    "chaosValue": 1
+  },
+  {
+    "id": 1957,
+    "name": "Ngamahu's Flame",
+    "chaosValue": 1
+  },
+  {
+    "id": 2061,
+    "name": "Dying Breath",
+    "chaosValue": 1
+  },
+  {
+    "id": 2194,
+    "name": "Taproot",
+    "chaosValue": 1
+  },
+  {
+    "id": 2197,
+    "name": "The Wasp Nest",
+    "chaosValue": 1
+  },
+  {
+    "id": 2198,
+    "name": "Debeon's Dirge",
+    "chaosValue": 1
+  },
+  {
+    "id": 2255,
+    "name": "White Wind",
+    "chaosValue": 1
+  },
+  {
+    "id": 2256,
+    "name": "Cane of Unravelling",
+    "chaosValue": 1
+  },
+  {
+    "id": 2281,
+    "name": "Balefire",
+    "chaosValue": 1
+  },
+  {
+    "id": 2316,
+    "name": "Ahn's Might",
+    "chaosValue": 1
+  },
+  {
+    "id": 2481,
+    "name": "Augyre",
+    "chaosValue": 1
+  },
+  {
+    "id": 6884,
+    "name": "Earendel's Embrace",
+    "chaosValue": 1
+  },
+  {
+    "id": 6919,
+    "name": "Sinvicta's Mettle",
+    "chaosValue": 1
+  },
+  {
+    "id": 24449,
+    "name": "The Black Cane",
+    "chaosValue": 1
+  },
+  {
+    "id": 54308,
+    "name": "Goblinedge",
+    "chaosValue": 1
+  },
+  {
+    "id": 60047,
+    "name": "Relic of the Pact",
+    "chaosValue": 1
+  },
+  {
+    "id": 60091,
+    "name": "Story of the Vaal",
+    "chaosValue": 1
+  },
+  {
+    "id": 2085,
+    "name": "Essentia Sanguis",
+    "chaosValue": 0.99
+  },
+  {
+    "id": 740,
+    "name": "Lavianga's Wisdom",
+    "chaosValue": 0.98
+  },
+  {
+    "id": 826,
+    "name": "Moonsorrow",
+    "chaosValue": 0.98
+  },
+  {
+    "id": 690,
+    "name": "Jorrhast's Blacksteel",
+    "chaosValue": 0.93
+  },
+  {
+    "id": 870,
+    "name": "Null's Inclination",
+    "chaosValue": 0.92
+  },
+  {
+    "id": 752,
+    "name": "Limbsplit",
+    "chaosValue": 0.91
+  },
+  {
+    "id": 473,
+    "name": "Eclipse Solaris",
+    "chaosValue": 0.9
+  },
+  {
+    "id": 1045,
+    "name": "Relentless Fury",
+    "chaosValue": 0.89
+  },
+  {
+    "id": 995,
+    "name": "Queen's Decree",
+    "chaosValue": 0.88
+  },
+  {
+    "id": 898,
+    "name": "Ornament of the East",
+    "chaosValue": 0.87
+  },
+  {
+    "id": 1620,
+    "name": "The Stormheart",
+    "chaosValue": 0.77
+  },
+  {
+    "id": 876,
+    "name": "Nycta's Lantern",
+    "chaosValue": 0.72
+  },
+  {
+    "id": 133,
+    "name": "Aurumvorax",
+    "chaosValue": 0.7
+  },
+  {
+    "id": 343,
+    "name": "Cybil's Paw",
+    "chaosValue": 0.69
+  },
+  {
+    "id": 1373,
+    "name": "Storm Prison",
+    "chaosValue": 0.69
+  },
+  {
+    "id": 1727,
+    "name": "Twyzel",
+    "chaosValue": 0.69
+  },
+  {
+    "id": 1309,
+    "name": "Silverbranch",
+    "chaosValue": 0.65
+  },
+  {
+    "id": 101,
+    "name": "Ashcaller",
+    "chaosValue": 0.59
+  },
+  {
+    "id": 679,
+    "name": "Iron Commander",
+    "chaosValue": 0.58
+  },
+  {
+    "id": 527,
+    "name": "Fidelitas' Spike",
+    "chaosValue": 0.54
+  },
+  {
+    "id": 1437,
+    "name": "The Blood Thorn",
+    "chaosValue": 0.51
+  },
+  {
+    "id": 1799,
+    "name": "Voidhome",
+    "chaosValue": 0.51
+  },
+  {
+    "id": 737,
+    "name": "Last Resort",
+    "chaosValue": 0.49
+  },
+  {
+    "id": 12,
+    "name": "Abberath's Horn",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 162,
+    "name": "Bitterdream",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 348,
+    "name": "Daresso's Passion",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 431,
+    "name": "Doomfletch",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 444,
+    "name": "Dreadarc",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 535,
+    "name": "Flesh-Eater",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 553,
+    "name": "Frostbreath",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 557,
+    "name": "Geofri's Baptism",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 577,
+    "name": "Gorebreaker",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 578,
+    "name": "Goredrill",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 640,
+    "name": "Hrimnor's Hymn",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 825,
+    "name": "Moonbender's Wing",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 990,
+    "name": "Quecholli",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1024,
+    "name": "Realmshaper",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1054,
+    "name": "Reverberation Rod",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1070,
+    "name": "Roth's Reach",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1273,
+    "name": "Shiversting",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1368,
+    "name": "Storm Cloud",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1434,
+    "name": "The Blood Reaper",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1672,
+    "name": "The Whispering Ice",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1746,
+    "name": "Ungil's Gauche",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1877,
+    "name": "Wideswing",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1880,
+    "name": "Wildslash",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1955,
+    "name": "Ewar's Mirage",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 21514,
+    "name": "Pillar of the Caged God",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 42308,
+    "name": "Wings of Entropy",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 178,
+    "name": "Bloodplay",
+    "chaosValue": 0.41
+  },
+  {
+    "id": 524,
+    "name": "Fencoil",
+    "chaosValue": 0.37
+  },
+  {
+    "id": 44624,
+    "name": "Replica Farrul's Fur",
+    "chaosValue": 3216.31
+  },
+  {
+    "id": 45086,
+    "name": "Replica Shroud of the Lightless",
+    "chaosValue": 3046.58
+  },
+  {
+    "id": 2006,
+    "name": "The Surrender",
+    "chaosValue": 1136.53
+  },
+  {
+    "id": 1976,
+    "name": "The Anticipation",
+    "chaosValue": 1059.68
+  },
+  {
+    "id": 7735,
+    "name": "Crown of the Tyrant",
+    "chaosValue": 761.51
+  },
+  {
+    "id": 99,
+    "name": "Asenath's Gentle Touch",
+    "chaosValue": 691.78
+  },
+  {
+    "id": 4974,
+    "name": "Atziri's Reflection",
+    "chaosValue": 529.84
+  },
+  {
+    "id": 45061,
+    "name": "Replica Forbidden Shako",
+    "chaosValue": 529.84
+  },
+  {
+    "id": 60153,
+    "name": "Atziri's Reflection",
+    "chaosValue": 529.84
+  },
+  {
+    "id": 4949,
+    "name": "Farrul's Fur",
+    "chaosValue": 519.44
+  },
+  {
+    "id": 22595,
+    "name": "Breathstealer",
+    "chaosValue": 421.62
+  },
+  {
+    "id": 60374,
+    "name": "Hateforge",
+    "chaosValue": 397.38
+  },
+  {
+    "id": 4851,
+    "name": "Asenath's Chant",
+    "chaosValue": 370.89
+  },
+  {
+    "id": 42680,
+    "name": "The Immortal Will",
+    "chaosValue": 331.15
+  },
+  {
+    "id": 974,
+    "name": "Prism Guardian",
+    "chaosValue": 317.9
+  },
+  {
+    "id": 44311,
+    "name": "Replica Alberon's Warpath",
+    "chaosValue": 317.9
+  },
+  {
+    "id": 1967,
+    "name": "Light of Lunaris",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 54658,
+    "name": "Doppelgänger Guise",
+    "chaosValue": 251.67
+  },
+  {
+    "id": 23106,
+    "name": "Garb of the Ephemeral",
+    "chaosValue": 227.33
+  },
+  {
+    "id": 2234,
+    "name": "The Unshattered Will",
+    "chaosValue": 225.18
+  },
+  {
+    "id": 54528,
+    "name": "Viridi's Veil",
+    "chaosValue": 211.94
+  },
+  {
+    "id": 4879,
+    "name": "Indigon",
+    "chaosValue": 198.69
+  },
+  {
+    "id": 20693,
+    "name": "The Eternity Shroud",
+    "chaosValue": 185.44
+  },
+  {
+    "id": 21050,
+    "name": "Maloney's Mechanism",
+    "chaosValue": 185.44
+  },
+  {
+    "id": 44527,
+    "name": "Replica Maloney's Mechanism",
+    "chaosValue": 185.44
+  },
+  {
+    "id": 719,
+    "name": "Kintsugi",
+    "chaosValue": 172.2
+  },
+  {
+    "id": 22574,
+    "name": "Sporeguard",
+    "chaosValue": 161.79
+  },
+  {
+    "id": 1111,
+    "name": "Seven-League Step",
+    "chaosValue": 155.91
+  },
+  {
+    "id": 4781,
+    "name": "Yriel's Fostering",
+    "chaosValue": 153.13
+  },
+  {
+    "id": 392,
+    "name": "Death's Door",
+    "chaosValue": 132.46
+  },
+  {
+    "id": 1319,
+    "name": "Skyforth",
+    "chaosValue": 132.46
+  },
+  {
+    "id": 40041,
+    "name": "Assailum",
+    "chaosValue": 132.46
+  },
+  {
+    "id": 45096,
+    "name": "Expedition's End",
+    "chaosValue": 125.04
+  },
+  {
+    "id": 4869,
+    "name": "Windshriek",
+    "chaosValue": 108.64
+  },
+  {
+    "id": 2092,
+    "name": "Garukhan's Flight",
+    "chaosValue": 105.06
+  },
+  {
+    "id": 1266,
+    "name": "Shavronne's Wrappings",
+    "chaosValue": 104.42
+  },
+  {
+    "id": 19057,
+    "name": "The Devouring Diadem",
+    "chaosValue": 95
+  },
+  {
+    "id": 4910,
+    "name": "Saqawal's Nest",
+    "chaosValue": 90
+  },
+  {
+    "id": 6955,
+    "name": "Slavedriver's Hand",
+    "chaosValue": 90
+  },
+  {
+    "id": 119,
+    "name": "Atziri's Acuity",
+    "chaosValue": 78.59
+  },
+  {
+    "id": 42636,
+    "name": "The Tempest's Liberation",
+    "chaosValue": 77.36
+  },
+  {
+    "id": 279,
+    "name": "Cloak of Defiance",
+    "chaosValue": 75
+  },
+  {
+    "id": 60212,
+    "name": "Atziri's Acuity",
+    "chaosValue": 75
+  },
+  {
+    "id": 4857,
+    "name": "Voidfletcher",
+    "chaosValue": 70
+  },
+  {
+    "id": 6952,
+    "name": "Mask of the Stitched Demon",
+    "chaosValue": 69.87
+  },
+  {
+    "id": 7536,
+    "name": "Mask of the Stitched Demon",
+    "chaosValue": 68.41
+  },
+  {
+    "id": 4933,
+    "name": "Craiceann's Carapace",
+    "chaosValue": 67.12
+  },
+  {
+    "id": 42594,
+    "name": "The Shattered Divinity",
+    "chaosValue": 65.92
+  },
+  {
+    "id": 7572,
+    "name": "Omeyocan",
+    "chaosValue": 65
+  },
+  {
+    "id": 6954,
+    "name": "Omeyocan",
+    "chaosValue": 64.11
+  },
+  {
+    "id": 5048,
+    "name": "Loreweave",
+    "chaosValue": 60
+  },
+  {
+    "id": 22492,
+    "name": "Machina Mitts",
+    "chaosValue": 56.89
+  },
+  {
+    "id": 44350,
+    "name": "Replica Mistwall",
+    "chaosValue": 55
+  },
+  {
+    "id": 44374,
+    "name": "Crest of Desire",
+    "chaosValue": 50.73
+  },
+  {
+    "id": 60198,
+    "name": "Doryani's Delusion",
+    "chaosValue": 47.35
+  },
+  {
+    "id": 2207,
+    "name": "Second Piece of Focus",
+    "chaosValue": 46.3
+  },
+  {
+    "id": 2289,
+    "name": "Inpulsa's Broken Heart",
+    "chaosValue": 44.9
+  },
+  {
+    "id": 60190,
+    "name": "Atziri's Step",
+    "chaosValue": 41.82
+  },
+  {
+    "id": 703,
+    "name": "Kaom's Heart",
+    "chaosValue": 40
+  },
+  {
+    "id": 2298,
+    "name": "Memory Vault",
+    "chaosValue": 40
+  },
+  {
+    "id": 4769,
+    "name": "Tombfist",
+    "chaosValue": 40
+  },
+  {
+    "id": 2079,
+    "name": "Gruthkul's Pelt",
+    "chaosValue": 39.68
+  },
+  {
+    "id": 60256,
+    "name": "Atziri's Splendour",
+    "chaosValue": 37.71
+  },
+  {
+    "id": 2222,
+    "name": "Third Piece of Focus",
+    "chaosValue": 36.32
+  },
+  {
+    "id": 7606,
+    "name": "The Iron Fortress",
+    "chaosValue": 35.1
+  },
+  {
+    "id": 598,
+    "name": "Grip of the Council",
+    "chaosValue": 35
+  },
+  {
+    "id": 4884,
+    "name": "Frostferno",
+    "chaosValue": 35
+  },
+  {
+    "id": 7600,
+    "name": "Doryani's Delusion",
+    "chaosValue": 35
+  },
+  {
+    "id": 42675,
+    "name": "Abhorrent Interrogation",
+    "chaosValue": 35
+  },
+  {
+    "id": 4941,
+    "name": "Fenumus' Spinnerets",
+    "chaosValue": 34.56
+  },
+  {
+    "id": 2238,
+    "name": "The Tempest's Binding",
+    "chaosValue": 32.45
+  },
+  {
+    "id": 7576,
+    "name": "Command of the Pit",
+    "chaosValue": 30
+  },
+  {
+    "id": 44559,
+    "name": "Replica Kaom's Heart",
+    "chaosValue": 27.54
+  },
+  {
+    "id": 2009,
+    "name": "The Formless Inferno",
+    "chaosValue": 25
+  },
+  {
+    "id": 25289,
+    "name": "Hands of the High Templar",
+    "chaosValue": 25
+  },
+  {
+    "id": 1971,
+    "name": "Abberath's Hooves",
+    "chaosValue": 24
+  },
+  {
+    "id": 60066,
+    "name": "Mahuxotl's Machination",
+    "chaosValue": 24
+  },
+  {
+    "id": 2210,
+    "name": "First Piece of Focus",
+    "chaosValue": 23
+  },
+  {
+    "id": 783,
+    "name": "Maligaro's Virtuosity",
+    "chaosValue": 21.62
+  },
+  {
+    "id": 44425,
+    "name": "Shattershard",
+    "chaosValue": 21.49
+  },
+  {
+    "id": 60276,
+    "name": "Atziri's Splendour",
+    "chaosValue": 21.25
+  },
+  {
+    "id": 130,
+    "name": "Atziri's Step",
+    "chaosValue": 20.76
+  },
+  {
+    "id": 2230,
+    "name": "Fourth Piece of Focus",
+    "chaosValue": 20
+  },
+  {
+    "id": 4755,
+    "name": "Yriel's Fostering",
+    "chaosValue": 20
+  },
+  {
+    "id": 4760,
+    "name": "Yriel's Fostering",
+    "chaosValue": 20
+  },
+  {
+    "id": 4905,
+    "name": "Malachai's Awakening",
+    "chaosValue": 20
+  },
+  {
+    "id": 6991,
+    "name": "Apep's Supremacy",
+    "chaosValue": 20
+  },
+  {
+    "id": 22561,
+    "name": "The Stampede",
+    "chaosValue": 20
+  },
+  {
+    "id": 45113,
+    "name": "Replica Atziri's Acuity",
+    "chaosValue": 20
+  },
+  {
+    "id": 60227,
+    "name": "Atziri's Splendour",
+    "chaosValue": 20
+  },
+  {
+    "id": 45301,
+    "name": "Replica Tukohama's Fortress",
+    "chaosValue": 18
+  },
+  {
+    "id": 4942,
+    "name": "Fenumus' Weave",
+    "chaosValue": 17.88
+  },
+  {
+    "id": 7514,
+    "name": "Geofri's Legacy",
+    "chaosValue": 17.33
+  },
+  {
+    "id": 4771,
+    "name": "Bubonic Trail",
+    "chaosValue": 15.14
+  },
+  {
+    "id": 1927,
+    "name": "Atziri's Splendour",
+    "chaosValue": 15
+  },
+  {
+    "id": 4930,
+    "name": "Doedre's Malevolence",
+    "chaosValue": 15
+  },
+  {
+    "id": 4897,
+    "name": "Hyrri's Demise",
+    "chaosValue": 14
+  },
+  {
+    "id": 2233,
+    "name": "The Fracturing Spinner",
+    "chaosValue": 13.99
+  },
+  {
+    "id": 2017,
+    "name": "The Red Trail",
+    "chaosValue": 13.24
+  },
+  {
+    "id": 19056,
+    "name": "Whakatutuki o Matua",
+    "chaosValue": 13
+  },
+  {
+    "id": 44530,
+    "name": "Replica Loreweave",
+    "chaosValue": 12
+  },
+  {
+    "id": 44597,
+    "name": "Replica Abyssus",
+    "chaosValue": 11
+  },
+  {
+    "id": 60179,
+    "name": "Atziri's Splendour",
+    "chaosValue": 10.65
+  },
+  {
+    "id": 44874,
+    "name": "Replica Eternity Shroud",
+    "chaosValue": 10.51
+  },
+  {
+    "id": 1557,
+    "name": "The Oak",
+    "chaosValue": 10.28
+  },
+  {
+    "id": 27,
+    "name": "Aegis Aurora",
+    "chaosValue": 10
+  },
+  {
+    "id": 406,
+    "name": "Deidbellow",
+    "chaosValue": 10
+  },
+  {
+    "id": 421,
+    "name": "Devoto's Devotion",
+    "chaosValue": 10
+  },
+  {
+    "id": 1441,
+    "name": "The Brass Dome",
+    "chaosValue": 10
+  },
+  {
+    "id": 7498,
+    "name": "Apep's Supremacy",
+    "chaosValue": 10
+  },
+  {
+    "id": 24448,
+    "name": "Crown of the Inward Eye",
+    "chaosValue": 10
+  },
+  {
+    "id": 46258,
+    "name": "Maw of Mischief",
+    "chaosValue": 10
+  },
+  {
+    "id": 60236,
+    "name": "The Queen's Hunger",
+    "chaosValue": 10
+  },
+  {
+    "id": 60240,
+    "name": "Atziri's Splendour",
+    "chaosValue": 10
+  },
+  {
+    "id": 60248,
+    "name": "Atziri's Splendour",
+    "chaosValue": 10
+  },
+  {
+    "id": 1930,
+    "name": "Atziri's Splendour",
+    "chaosValue": 9.97
+  },
+  {
+    "id": 60129,
+    "name": "Maw of Conquest",
+    "chaosValue": 9.94
+  },
+  {
+    "id": 60184,
+    "name": "Drillneck",
+    "chaosValue": 9.66
+  },
+  {
+    "id": 60201,
+    "name": "Atziri's Splendour",
+    "chaosValue": 9.65
+  },
+  {
+    "id": 60257,
+    "name": "Atziri's Splendour",
+    "chaosValue": 9.49
+  },
+  {
+    "id": 44453,
+    "name": "Replica Inya's Epiphany",
+    "chaosValue": 9.42
+  },
+  {
+    "id": 60262,
+    "name": "Atziri's Splendour",
+    "chaosValue": 9.41
+  },
+  {
+    "id": 4914,
+    "name": "Wildwrap",
+    "chaosValue": 9.04
+  },
+  {
+    "id": 1060,
+    "name": "Rigwald's Quills",
+    "chaosValue": 9
+  },
+  {
+    "id": 4944,
+    "name": "Farrul's Bite",
+    "chaosValue": 9
+  },
+  {
+    "id": 1996,
+    "name": "The Perfect Form",
+    "chaosValue": 8.62
+  },
+  {
+    "id": 4856,
+    "name": "Duskblight",
+    "chaosValue": 8
+  },
+  {
+    "id": 4917,
+    "name": "Craiceann's Chitin",
+    "chaosValue": 8
+  },
+  {
+    "id": 4961,
+    "name": "Farrul's Pounce",
+    "chaosValue": 8
+  },
+  {
+    "id": 42681,
+    "name": "Forbidden Shako",
+    "chaosValue": 8
+  },
+  {
+    "id": 60158,
+    "name": "The Vertex",
+    "chaosValue": 8
+  },
+  {
+    "id": 60250,
+    "name": "Atziri's Mirror",
+    "chaosValue": 8
+  },
+  {
+    "id": 60123,
+    "name": "Doryani's Delusion",
+    "chaosValue": 7.88
+  },
+  {
+    "id": 2503,
+    "name": "Magna Eclipsis",
+    "chaosValue": 7.67
+  },
+  {
+    "id": 1991,
+    "name": "The Brine Crown",
+    "chaosValue": 7.62
+  },
+  {
+    "id": 637,
+    "name": "Hrimburn",
+    "chaosValue": 7
+  },
+  {
+    "id": 1608,
+    "name": "The Signal Fire",
+    "chaosValue": 7
+  },
+  {
+    "id": 1928,
+    "name": "Atziri's Splendour",
+    "chaosValue": 7
+  },
+  {
+    "id": 2001,
+    "name": "Esh's Visage",
+    "chaosValue": 7
+  },
+  {
+    "id": 7588,
+    "name": "Hale Negator",
+    "chaosValue": 7
+  },
+  {
+    "id": 44586,
+    "name": "Replica Perfect Form",
+    "chaosValue": 7
+  },
+  {
+    "id": 4935,
+    "name": "Craiceann's Tracks",
+    "chaosValue": 6.98
+  },
+  {
+    "id": 44956,
+    "name": "Font of Thunder",
+    "chaosValue": 6.85
+  },
+  {
+    "id": 4945,
+    "name": "Farrul's Chase",
+    "chaosValue": 6.63
+  },
+  {
+    "id": 17,
+    "name": "Abyssus",
+    "chaosValue": 6
+  },
+  {
+    "id": 652,
+    "name": "Hyrri's Ire",
+    "chaosValue": 6
+  },
+  {
+    "id": 1654,
+    "name": "The Vertex",
+    "chaosValue": 6
+  },
+  {
+    "id": 1921,
+    "name": "Atziri's Splendour",
+    "chaosValue": 6
+  },
+  {
+    "id": 1933,
+    "name": "Atziri's Splendour",
+    "chaosValue": 6
+  },
+  {
+    "id": 2186,
+    "name": "Inya's Epiphany",
+    "chaosValue": 6
+  },
+  {
+    "id": 44547,
+    "name": "Replica Stampede",
+    "chaosValue": 6
+  },
+  {
+    "id": 7545,
+    "name": "Doryani's Delusion",
+    "chaosValue": 5.85
+  },
+  {
+    "id": 4877,
+    "name": "Greedtrap",
+    "chaosValue": 5.17
+  },
+  {
+    "id": 1926,
+    "name": "Atziri's Splendour",
+    "chaosValue": 5.01
+  },
+  {
+    "id": 223,
+    "name": "Carcass Jack",
+    "chaosValue": 5
+  },
+  {
+    "id": 1260,
+    "name": "Shaper's Touch",
+    "chaosValue": 5
+  },
+  {
+    "id": 1834,
+    "name": "Wall of Brambles",
+    "chaosValue": 5
+  },
+  {
+    "id": 1918,
+    "name": "Atziri's Splendour",
+    "chaosValue": 5
+  },
+  {
+    "id": 1920,
+    "name": "Atziri's Splendour",
+    "chaosValue": 5
+  },
+  {
+    "id": 1935,
+    "name": "Atziri's Splendour",
+    "chaosValue": 5
+  },
+  {
+    "id": 1981,
+    "name": "Tukohama's Fortress",
+    "chaosValue": 5
+  },
+  {
+    "id": 2232,
+    "name": "First Piece of Storms",
+    "chaosValue": 5
+  },
+  {
+    "id": 2252,
+    "name": "Volkuur's Guidance",
+    "chaosValue": 5
+  },
+  {
+    "id": 4770,
+    "name": "Shroud of the Lightless",
+    "chaosValue": 5
+  },
+  {
+    "id": 4873,
+    "name": "Sunspite",
+    "chaosValue": 5
+  },
+  {
+    "id": 4920,
+    "name": "Saqawal's Flock",
+    "chaosValue": 5
+  },
+  {
+    "id": 4928,
+    "name": "Fenumus' Shroud",
+    "chaosValue": 5
+  },
+  {
+    "id": 4934,
+    "name": "Craiceann's Pincers",
+    "chaosValue": 5
+  },
+  {
+    "id": 6996,
+    "name": "Unyielding Flame",
+    "chaosValue": 5
+  },
+  {
+    "id": 7520,
+    "name": "Vaal Caress",
+    "chaosValue": 5
+  },
+  {
+    "id": 7585,
+    "name": "Doryani's Delusion",
+    "chaosValue": 5
+  },
+  {
+    "id": 19097,
+    "name": "The Queen's Hunger",
+    "chaosValue": 5
+  },
+  {
+    "id": 23096,
+    "name": "Mask of the Tribunal",
+    "chaosValue": 5
+  },
+  {
+    "id": 23102,
+    "name": "Storm's Gift",
+    "chaosValue": 5
+  },
+  {
+    "id": 23104,
+    "name": "Offering to the Serpent",
+    "chaosValue": 5
+  },
+  {
+    "id": 44333,
+    "name": "Replica Grip of the Council",
+    "chaosValue": 5
+  },
+  {
+    "id": 44348,
+    "name": "Replica Volkuur's Guidance",
+    "chaosValue": 5
+  },
+  {
+    "id": 44357,
+    "name": "Replica Voidwalker",
+    "chaosValue": 5
+  },
+  {
+    "id": 44384,
+    "name": "Replica Victario's Charity",
+    "chaosValue": 5
+  },
+  {
+    "id": 44600,
+    "name": "Replica Soul Strike",
+    "chaosValue": 5
+  },
+  {
+    "id": 60101,
+    "name": "Mask of the Spirit Drinker",
+    "chaosValue": 5
+  },
+  {
+    "id": 60130,
+    "name": "Mask of the Spirit Drinker",
+    "chaosValue": 5
+  },
+  {
+    "id": 60154,
+    "name": "Zeel's Amplifier",
+    "chaosValue": 5
+  },
+  {
+    "id": 60177,
+    "name": "Architect's Hand",
+    "chaosValue": 5
+  },
+  {
+    "id": 60205,
+    "name": "Demon Stitcher",
+    "chaosValue": 5
+  },
+  {
+    "id": 60231,
+    "name": "Doryani's Delusion",
+    "chaosValue": 5
+  },
+  {
+    "id": 60165,
+    "name": "Dance of the Offered",
+    "chaosValue": 4.99
+  },
+  {
+    "id": 510,
+    "name": "Ezomyte Hold",
+    "chaosValue": 4.84
+  },
+  {
+    "id": 60217,
+    "name": "Apep's Slumber",
+    "chaosValue": 4.84
+  },
+  {
+    "id": 60175,
+    "name": "Doryani's Fist",
+    "chaosValue": 4.81
+  },
+  {
+    "id": 4932,
+    "name": "Saqawal's Winds",
+    "chaosValue": 4.6
+  },
+  {
+    "id": 815,
+    "name": "Mind of the Council",
+    "chaosValue": 4.35
+  },
+  {
+    "id": 794,
+    "name": "Martyr's Crown",
+    "chaosValue": 4
+  },
+  {
+    "id": 1036,
+    "name": "Redblade Banner",
+    "chaosValue": 4
+  },
+  {
+    "id": 1950,
+    "name": "Lycosidae",
+    "chaosValue": 4
+  },
+  {
+    "id": 2082,
+    "name": "Haemophilia",
+    "chaosValue": 4
+  },
+  {
+    "id": 2192,
+    "name": "Eber's Unification",
+    "chaosValue": 4
+  },
+  {
+    "id": 2237,
+    "name": "Third Piece of Storms",
+    "chaosValue": 4
+  },
+  {
+    "id": 4750,
+    "name": "Volkuur's Guidance",
+    "chaosValue": 4
+  },
+  {
+    "id": 4768,
+    "name": "Lightpoacher",
+    "chaosValue": 4
+  },
+  {
+    "id": 4904,
+    "name": "Saqawal's Talons",
+    "chaosValue": 4
+  },
+  {
+    "id": 4946,
+    "name": "Fenumus' Toxins",
+    "chaosValue": 4
+  },
+  {
+    "id": 24813,
+    "name": "The Ivory Tower",
+    "chaosValue": 4
+  },
+  {
+    "id": 40093,
+    "name": "Perfidy",
+    "chaosValue": 4
+  },
+  {
+    "id": 42632,
+    "name": "Plume of Pursuit",
+    "chaosValue": 4
+  },
+  {
+    "id": 44371,
+    "name": "Replica Kalisa's Grace",
+    "chaosValue": 4
+  },
+  {
+    "id": 44479,
+    "name": "Replica Alpha's Howl",
+    "chaosValue": 4
+  },
+  {
+    "id": 44613,
+    "name": "Replica Red Trail",
+    "chaosValue": 4
+  },
+  {
+    "id": 60225,
+    "name": "Rearguard",
+    "chaosValue": 4
+  },
+  {
+    "id": 60229,
+    "name": "Offering to the Serpent",
+    "chaosValue": 4
+  },
+  {
+    "id": 4775,
+    "name": "Volkuur's Guidance",
+    "chaosValue": 3.74
+  },
+  {
+    "id": 23101,
+    "name": "Perepiteia",
+    "chaosValue": 3.36
+  },
+  {
+    "id": 46,
+    "name": "Alpha's Howl",
+    "chaosValue": 3.28
+  },
+  {
+    "id": 285,
+    "name": "Cloak of Tawm'r Isley",
+    "chaosValue": 3
+  },
+  {
+    "id": 321,
+    "name": "Cragfall",
+    "chaosValue": 3
+  },
+  {
+    "id": 575,
+    "name": "Goldrim",
+    "chaosValue": 3
+  },
+  {
+    "id": 702,
+    "name": "Kaltensoul",
+    "chaosValue": 3
+  },
+  {
+    "id": 759,
+    "name": "Lioneye's Remorse",
+    "chaosValue": 3
+  },
+  {
+    "id": 869,
+    "name": "Null and Void",
+    "chaosValue": 3
+  },
+  {
+    "id": 2208,
+    "name": "First Piece of Directions",
+    "chaosValue": 3
+  },
+  {
+    "id": 2224,
+    "name": "Second Piece of Directions",
+    "chaosValue": 3
+  },
+  {
+    "id": 2228,
+    "name": "Third Piece of Directions",
+    "chaosValue": 3
+  },
+  {
+    "id": 2236,
+    "name": "Second Piece of Storms",
+    "chaosValue": 3
+  },
+  {
+    "id": 2301,
+    "name": "Blasphemer's Grasp",
+    "chaosValue": 3
+  },
+  {
+    "id": 4890,
+    "name": "Fox's Fortune",
+    "chaosValue": 3
+  },
+  {
+    "id": 40122,
+    "name": "Algor Mortis",
+    "chaosValue": 3
+  },
+  {
+    "id": 44155,
+    "name": "Replica Lioneye's Paws",
+    "chaosValue": 3
+  },
+  {
+    "id": 44163,
+    "name": "Replica Ambu's Charge",
+    "chaosValue": 3
+  },
+  {
+    "id": 44302,
+    "name": "Replica Bones of Ullr",
+    "chaosValue": 3
+  },
+  {
+    "id": 44406,
+    "name": "Replica Three-step Assault",
+    "chaosValue": 3
+  },
+  {
+    "id": 44693,
+    "name": "Replica Restless Ward",
+    "chaosValue": 3
+  },
+  {
+    "id": 45482,
+    "name": "The Admiral",
+    "chaosValue": 3
+  },
+  {
+    "id": 54426,
+    "name": "Qotra's Regulator",
+    "chaosValue": 3
+  },
+  {
+    "id": 60112,
+    "name": "Dance of the Offered",
+    "chaosValue": 3
+  },
+  {
+    "id": 149,
+    "name": "Belly of the Beast",
+    "chaosValue": 2.98
+  },
+  {
+    "id": 60079,
+    "name": "Apep's Slumber",
+    "chaosValue": 2.69
+  },
+  {
+    "id": 60083,
+    "name": "Rathpith Globe",
+    "chaosValue": 2.64
+  },
+  {
+    "id": 1312,
+    "name": "Sin Trek",
+    "chaosValue": 2.57
+  },
+  {
+    "id": 206,
+    "name": "Broken Faith",
+    "chaosValue": 2
+  },
+  {
+    "id": 345,
+    "name": "Daresso's Defiance",
+    "chaosValue": 2
+  },
+  {
+    "id": 742,
+    "name": "Leer Cast",
+    "chaosValue": 2
+  },
+  {
+    "id": 765,
+    "name": "Lochtonial Caress",
+    "chaosValue": 2
+  },
+  {
+    "id": 1081,
+    "name": "Saffell's Frame",
+    "chaosValue": 2
+  },
+  {
+    "id": 1263,
+    "name": "Shavronne's Gambit",
+    "chaosValue": 2
+  },
+  {
+    "id": 1363,
+    "name": "Starkonja's Head",
+    "chaosValue": 2
+  },
+  {
+    "id": 1686,
+    "name": "Thirst for Horrors",
+    "chaosValue": 2
+  },
+  {
+    "id": 1802,
+    "name": "Voidwalker",
+    "chaosValue": 2
+  },
+  {
+    "id": 1837,
+    "name": "Wanderlust",
+    "chaosValue": 2
+  },
+  {
+    "id": 2295,
+    "name": "Vix Lunaris",
+    "chaosValue": 2
+  },
+  {
+    "id": 4881,
+    "name": "Crystal Vault",
+    "chaosValue": 2
+  },
+  {
+    "id": 19055,
+    "name": "Bitterbind Point",
+    "chaosValue": 2
+  },
+  {
+    "id": 21533,
+    "name": "Fractal Thoughts",
+    "chaosValue": 2
+  },
+  {
+    "id": 21566,
+    "name": "Maw of Conquest",
+    "chaosValue": 2
+  },
+  {
+    "id": 22627,
+    "name": "Cowl of the Thermophile",
+    "chaosValue": 2
+  },
+  {
+    "id": 22665,
+    "name": "Cowl of the Cryophile",
+    "chaosValue": 2
+  },
+  {
+    "id": 25117,
+    "name": "Eye of Malice",
+    "chaosValue": 2
+  },
+  {
+    "id": 42341,
+    "name": "Doryani's Prototype",
+    "chaosValue": 2
+  },
+  {
+    "id": 44152,
+    "name": "Blunderbore",
+    "chaosValue": 2
+  },
+  {
+    "id": 44467,
+    "name": "Replica Allelopathy",
+    "chaosValue": 2
+  },
+  {
+    "id": 44481,
+    "name": "Replica Leer Cast",
+    "chaosValue": 2
+  },
+  {
+    "id": 48484,
+    "name": "The Fledgling",
+    "chaosValue": 2
+  },
+  {
+    "id": 54420,
+    "name": "Legacy of Fury",
+    "chaosValue": 2
+  },
+  {
+    "id": 54439,
+    "name": "Hand of the Fervent",
+    "chaosValue": 2
+  },
+  {
+    "id": 576,
+    "name": "Goldwyrm",
+    "chaosValue": 1.97
+  },
+  {
+    "id": 22573,
+    "name": "Cowl of the Ceraunophile",
+    "chaosValue": 1.97
+  },
+  {
+    "id": 44182,
+    "name": "Replica Veil of the Night",
+    "chaosValue": 1.51
+  },
+  {
+    "id": 42,
+    "name": "Alberon's Warpath",
+    "chaosValue": 1
+  },
+  {
+    "id": 48,
+    "name": "Ambu's Charge",
+    "chaosValue": 1
+  },
+  {
+    "id": 100,
+    "name": "Asenath's Mark",
+    "chaosValue": 1
+  },
+  {
+    "id": 124,
+    "name": "Atziri's Mirror",
+    "chaosValue": 1
+  },
+  {
+    "id": 132,
+    "name": "Aurseize",
+    "chaosValue": 1
+  },
+  {
+    "id": 163,
+    "name": "Black Sun Crest",
+    "chaosValue": 1
+  },
+  {
+    "id": 185,
+    "name": "Bones of Ullr",
+    "chaosValue": 1
+  },
+  {
+    "id": 198,
+    "name": "Brinerot Flag",
+    "chaosValue": 1
+  },
+  {
+    "id": 200,
+    "name": "Brinerot Whalers",
+    "chaosValue": 1
+  },
+  {
+    "id": 262,
+    "name": "Chernobog's Pillar",
+    "chaosValue": 1
+  },
+  {
+    "id": 263,
+    "name": "Cherrubim's Maleficence",
+    "chaosValue": 1
+  },
+  {
+    "id": 270,
+    "name": "Chitus' Apex",
+    "chaosValue": 1
+  },
+  {
+    "id": 282,
+    "name": "Cloak of Flame",
+    "chaosValue": 1
+  },
+  {
+    "id": 308,
+    "name": "Cospri's Will",
+    "chaosValue": 1
+  },
+  {
+    "id": 329,
+    "name": "Crown of Eyes",
+    "chaosValue": 1
+  },
+  {
+    "id": 330,
+    "name": "Crown of the Pale King",
+    "chaosValue": 1
+  },
+  {
+    "id": 354,
+    "name": "Darkray Vectors",
+    "chaosValue": 1
+  },
+  {
+    "id": 397,
+    "name": "Death's Oath",
+    "chaosValue": 1
+  },
+  {
+    "id": 429,
+    "name": "Doedre's Scorn",
+    "chaosValue": 1
+  },
+  {
+    "id": 442,
+    "name": "Doryani's Fist",
+    "chaosValue": 1
+  },
+  {
+    "id": 447,
+    "name": "Drillneck",
+    "chaosValue": 1
+  },
+  {
+    "id": 486,
+    "name": "Empire's Grasp",
+    "chaosValue": 1
+  },
+  {
+    "id": 511,
+    "name": "Ezomyte Peak",
+    "chaosValue": 1
+  },
+  {
+    "id": 512,
+    "name": "Facebreaker",
+    "chaosValue": 1
+  },
+  {
+    "id": 533,
+    "name": "Flesh and Spirit",
+    "chaosValue": 1
+  },
+  {
+    "id": 559,
+    "name": "Geofri's Crest",
+    "chaosValue": 1
+  },
+  {
+    "id": 560,
+    "name": "Geofri's Sanctuary",
+    "chaosValue": 1
+  },
+  {
+    "id": 573,
+    "name": "Glitterdisc",
+    "chaosValue": 1
+  },
+  {
+    "id": 594,
+    "name": "Great Old One's Ward",
+    "chaosValue": 1
+  },
+  {
+    "id": 595,
+    "name": "Greed's Embrace",
+    "chaosValue": 1
+  },
+  {
+    "id": 612,
+    "name": "Heatshiver",
+    "chaosValue": 1
+  },
+  {
+    "id": 619,
+    "name": "Heretic's Veil",
+    "chaosValue": 1
+  },
+  {
+    "id": 633,
+    "name": "Honourhome",
+    "chaosValue": 1
+  },
+  {
+    "id": 643,
+    "name": "Hrimsorrow",
+    "chaosValue": 1
+  },
+  {
+    "id": 651,
+    "name": "Hyrri's Bite",
+    "chaosValue": 1
+  },
+  {
+    "id": 662,
+    "name": "Incandescent Heart",
+    "chaosValue": 1
+  },
+  {
+    "id": 669,
+    "name": "Infernal Mantle",
+    "chaosValue": 1
+  },
+  {
+    "id": 688,
+    "name": "Jaws of Agony",
+    "chaosValue": 1
+  },
+  {
+    "id": 707,
+    "name": "Kaom's Roots",
+    "chaosValue": 1
+  },
+  {
+    "id": 716,
+    "name": "Kingsguard",
+    "chaosValue": 1
+  },
+  {
+    "id": 722,
+    "name": "Kitava's Thirst",
+    "chaosValue": 1
+  },
+  {
+    "id": 748,
+    "name": "Lightning Coil",
+    "chaosValue": 1
+  },
+  {
+    "id": 758,
+    "name": "Lioneye's Paws",
+    "chaosValue": 1
+  },
+  {
+    "id": 760,
+    "name": "Lioneye's Vision",
+    "chaosValue": 1
+  },
+  {
+    "id": 775,
+    "name": "Malachai's Loop",
+    "chaosValue": 1
+  },
+  {
+    "id": 781,
+    "name": "Maligaro's Lens",
+    "chaosValue": 1
+  },
+  {
+    "id": 784,
+    "name": "Maloney's Nightfall",
+    "chaosValue": 1
+  },
+  {
+    "id": 798,
+    "name": "Matua Tupuna",
+    "chaosValue": 1
+  },
+  {
+    "id": 808,
+    "name": "Meginord's Vise",
+    "chaosValue": 1
+  },
+  {
+    "id": 844,
+    "name": "Mutewind Pennant",
+    "chaosValue": 1
+  },
+  {
+    "id": 846,
+    "name": "Mutewind Whispersteps",
+    "chaosValue": 1
+  },
+  {
+    "id": 867,
+    "name": "Nomic's Storm",
+    "chaosValue": 1
+  },
+  {
+    "id": 881,
+    "name": "Obscurantis",
+    "chaosValue": 1
+  },
+  {
+    "id": 992,
+    "name": "Queen of the Forest",
+    "chaosValue": 1
+  },
+  {
+    "id": 1009,
+    "name": "Rainbowstride",
+    "chaosValue": 1
+  },
+  {
+    "id": 1014,
+    "name": "Rathpith Globe",
+    "chaosValue": 1
+  },
+  {
+    "id": 1016,
+    "name": "Rat's Nest",
+    "chaosValue": 1
+  },
+  {
+    "id": 1030,
+    "name": "Rearguard",
+    "chaosValue": 1
+  },
+  {
+    "id": 1037,
+    "name": "Redblade Tramplers",
+    "chaosValue": 1
+  },
+  {
+    "id": 1047,
+    "name": "Repentance",
+    "chaosValue": 1
+  },
+  {
+    "id": 1062,
+    "name": "Rime Gaze",
+    "chaosValue": 1
+  },
+  {
+    "id": 1063,
+    "name": "Rise of the Phoenix",
+    "chaosValue": 1
+  },
+  {
+    "id": 1079,
+    "name": "Sadima's Touch",
+    "chaosValue": 1
+  },
+  {
+    "id": 1084,
+    "name": "Scold's Bridle",
+    "chaosValue": 1
+  },
+  {
+    "id": 1110,
+    "name": "Sentari's Answer",
+    "chaosValue": 1
+  },
+  {
+    "id": 1118,
+    "name": "Shackles of the Wretched",
+    "chaosValue": 1
+  },
+  {
+    "id": 1119,
+    "name": "Shadows and Dust",
+    "chaosValue": 1
+  },
+  {
+    "id": 1317,
+    "name": "Skirmish",
+    "chaosValue": 1
+  },
+  {
+    "id": 1318,
+    "name": "Skullhead",
+    "chaosValue": 1
+  },
+  {
+    "id": 1325,
+    "name": "Snakebite",
+    "chaosValue": 1
+  },
+  {
+    "id": 1331,
+    "name": "Soul Mantle",
+    "chaosValue": 1
+  },
+  {
+    "id": 1334,
+    "name": "Soul Strike",
+    "chaosValue": 1
+  },
+  {
+    "id": 1337,
+    "name": "Southbound",
+    "chaosValue": 1
+  },
+  {
+    "id": 1352,
+    "name": "Springleaf",
+    "chaosValue": 1
+  },
+  {
+    "id": 1366,
+    "name": "Steppan Eard",
+    "chaosValue": 1
+  },
+  {
+    "id": 1383,
+    "name": "Surgebinders",
+    "chaosValue": 1
+  },
+  {
+    "id": 1426,
+    "name": "The Beast Fur Shawl",
+    "chaosValue": 1
+  },
+  {
+    "id": 1433,
+    "name": "The Blood Dance",
+    "chaosValue": 1
+  },
+  {
+    "id": 1444,
+    "name": "The Bringer of Rain",
+    "chaosValue": 1
+  },
+  {
+    "id": 1446,
+    "name": "The Broken Crown",
+    "chaosValue": 1
+  },
+  {
+    "id": 1517,
+    "name": "The Gull",
+    "chaosValue": 1
+  },
+  {
+    "id": 1582,
+    "name": "The Rat Cage",
+    "chaosValue": 1
+  },
+  {
+    "id": 1585,
+    "name": "The Restless Ward",
+    "chaosValue": 1
+  },
+  {
+    "id": 1690,
+    "name": "Thousand Teeth Temu",
+    "chaosValue": 1
+  },
+  {
+    "id": 1693,
+    "name": "Thunderfist",
+    "chaosValue": 1
+  },
+  {
+    "id": 1698,
+    "name": "Titucius' Span",
+    "chaosValue": 1
+  },
+  {
+    "id": 1751,
+    "name": "Vaal Caress",
+    "chaosValue": 1
+  },
+  {
+    "id": 1769,
+    "name": "Veil of the Night",
+    "chaosValue": 1
+  },
+  {
+    "id": 1771,
+    "name": "Veruso's Battering Rams",
+    "chaosValue": 1
+  },
+  {
+    "id": 1777,
+    "name": "Victario's Charity",
+    "chaosValue": 1
+  },
+  {
+    "id": 1778,
+    "name": "Victario's Flight",
+    "chaosValue": 1
+  },
+  {
+    "id": 1779,
+    "name": "Victario's Influence",
+    "chaosValue": 1
+  },
+  {
+    "id": 1787,
+    "name": "Viper's Scales",
+    "chaosValue": 1
+  },
+  {
+    "id": 1790,
+    "name": "Vis Mortis",
+    "chaosValue": 1
+  },
+  {
+    "id": 1796,
+    "name": "Voidbringer",
+    "chaosValue": 1
+  },
+  {
+    "id": 1833,
+    "name": "Wake of Destruction",
+    "chaosValue": 1
+  },
+  {
+    "id": 1885,
+    "name": "Winds of Change",
+    "chaosValue": 1
+  },
+  {
+    "id": 1886,
+    "name": "Windscream",
+    "chaosValue": 1
+  },
+  {
+    "id": 1900,
+    "name": "Ylfeban's Trickery",
+    "chaosValue": 1
+  },
+  {
+    "id": 1962,
+    "name": "Voll's Vision",
+    "chaosValue": 1
+  },
+  {
+    "id": 1966,
+    "name": "The Snowblind Grace",
+    "chaosValue": 1
+  },
+  {
+    "id": 1968,
+    "name": "The Formless Flame",
+    "chaosValue": 1
+  },
+  {
+    "id": 1969,
+    "name": "The Infinite Pursuit",
+    "chaosValue": 1
+  },
+  {
+    "id": 1970,
+    "name": "Esh's Mirror",
+    "chaosValue": 1
+  },
+  {
+    "id": 2072,
+    "name": "The Baron",
+    "chaosValue": 1
+  },
+  {
+    "id": 2081,
+    "name": "Ahn's Heritage",
+    "chaosValue": 1
+  },
+  {
+    "id": 2188,
+    "name": "Speaker's Wreath",
+    "chaosValue": 1
+  },
+  {
+    "id": 2193,
+    "name": "The Embalmer",
+    "chaosValue": 1
+  },
+  {
+    "id": 2195,
+    "name": "Tinkerskin",
+    "chaosValue": 1
+  },
+  {
+    "id": 2196,
+    "name": "Dendrobate",
+    "chaosValue": 1
+  },
+  {
+    "id": 2199,
+    "name": "The Coming Calamity",
+    "chaosValue": 1
+  },
+  {
+    "id": 2200,
+    "name": "Allelopathy",
+    "chaosValue": 1
+  },
+  {
+    "id": 2248,
+    "name": "Malachai's Mark",
+    "chaosValue": 1
+  },
+  {
+    "id": 2253,
+    "name": "Wraithlord",
+    "chaosValue": 1
+  },
+  {
+    "id": 2257,
+    "name": "Kalisa's Grace",
+    "chaosValue": 1
+  },
+  {
+    "id": 2259,
+    "name": "Oskarm",
+    "chaosValue": 1
+  },
+  {
+    "id": 2260,
+    "name": "Bloodbond",
+    "chaosValue": 1
+  },
+  {
+    "id": 2277,
+    "name": "Ralakesh's Impatience",
+    "chaosValue": 1
+  },
+  {
+    "id": 2282,
+    "name": "Ahn's Contempt",
+    "chaosValue": 1
+  },
+  {
+    "id": 2286,
+    "name": "Invictus Solaris",
+    "chaosValue": 1
+  },
+  {
+    "id": 2294,
+    "name": "Iron Heart",
+    "chaosValue": 1
+  },
+  {
+    "id": 2299,
+    "name": "Leper's Alms",
+    "chaosValue": 1
+  },
+  {
+    "id": 2321,
+    "name": "Doedre's Skin",
+    "chaosValue": 1
+  },
+  {
+    "id": 4764,
+    "name": "Tombfist",
+    "chaosValue": 1
+  },
+  {
+    "id": 4765,
+    "name": "Lightpoacher",
+    "chaosValue": 1
+  },
+  {
+    "id": 4766,
+    "name": "Bubonic Trail",
+    "chaosValue": 1
+  },
+  {
+    "id": 4888,
+    "name": "Gorgon's Gaze",
+    "chaosValue": 1
+  },
+  {
+    "id": 5975,
+    "name": "Chains of Command",
+    "chaosValue": 1
+  },
+  {
+    "id": 6936,
+    "name": "Zeel's Amplifier",
+    "chaosValue": 1
+  },
+  {
+    "id": 7385,
+    "name": "Demon Stitcher",
+    "chaosValue": 1
+  },
+  {
+    "id": 18956,
+    "name": "Worldcarver",
+    "chaosValue": 1
+  },
+  {
+    "id": 18964,
+    "name": "Thundersight",
+    "chaosValue": 1
+  },
+  {
+    "id": 18982,
+    "name": "Galesight",
+    "chaosValue": 1
+  },
+  {
+    "id": 19016,
+    "name": "Flamesight",
+    "chaosValue": 1
+  },
+  {
+    "id": 20692,
+    "name": "Vixen's Entrapment",
+    "chaosValue": 1
+  },
+  {
+    "id": 20758,
+    "name": "March of the Legion",
+    "chaosValue": 1
+  },
+  {
+    "id": 21647,
+    "name": "Aukuna's Will",
+    "chaosValue": 1
+  },
+  {
+    "id": 22223,
+    "name": "Torchoak Step",
+    "chaosValue": 1
+  },
+  {
+    "id": 22344,
+    "name": "Triad Grip",
+    "chaosValue": 1
+  },
+  {
+    "id": 22421,
+    "name": "Rotting Legion",
+    "chaosValue": 1
+  },
+  {
+    "id": 24986,
+    "name": "Mistwall",
+    "chaosValue": 1
+  },
+  {
+    "id": 25040,
+    "name": "Painseeker",
+    "chaosValue": 1
+  },
+  {
+    "id": 25350,
+    "name": "Manastorm",
+    "chaosValue": 1
+  },
+  {
+    "id": 40114,
+    "name": "Beacon of Madness",
+    "chaosValue": 1
+  },
+  {
+    "id": 42291,
+    "name": "Great Old One's Tentacles",
+    "chaosValue": 1
+  },
+  {
+    "id": 42312,
+    "name": "Emperor's Vigilance",
+    "chaosValue": 1
+  },
+  {
+    "id": 42333,
+    "name": "Fleshcrafter",
+    "chaosValue": 1
+  },
+  {
+    "id": 44081,
+    "name": "Willclash",
+    "chaosValue": 1
+  },
+  {
+    "id": 44128,
+    "name": "Mercenary's Lot",
+    "chaosValue": 1
+  },
+  {
+    "id": 44133,
+    "name": "The Ghastly Theatre",
+    "chaosValue": 1
+  },
+  {
+    "id": 49366,
+    "name": "Corpsewalker",
+    "chaosValue": 1
+  },
+  {
+    "id": 53417,
+    "name": "Hrimnor's Resolve",
+    "chaosValue": 1
+  },
+  {
+    "id": 54362,
+    "name": "Ancient Skull",
+    "chaosValue": 1
+  },
+  {
+    "id": 60051,
+    "name": "Steelworm",
+    "chaosValue": 1
+  },
+  {
+    "id": 60067,
+    "name": "The Scales of Justice",
+    "chaosValue": 1
+  },
+  {
+    "id": 60070,
+    "name": "Temptation Step",
+    "chaosValue": 1
+  },
+  {
+    "id": 405,
+    "name": "Deidbell",
+    "chaosValue": 0.99
+  },
+  {
+    "id": 207,
+    "name": "Bronn's Lithe",
+    "chaosValue": 0.98
+  },
+  {
+    "id": 1567,
+    "name": "The Peregrine",
+    "chaosValue": 0.97
+  },
+  {
+    "id": 1692,
+    "name": "Three-step Assault",
+    "chaosValue": 0.97
+  },
+  {
+    "id": 7366,
+    "name": "Curtain Call",
+    "chaosValue": 0.97
+  },
+  {
+    "id": 42289,
+    "name": "Scorpion's Call",
+    "chaosValue": 0.95
+  },
+  {
+    "id": 816,
+    "name": "Mindspiral",
+    "chaosValue": 0.93
+  },
+  {
+    "id": 1716,
+    "name": "Trolltimber Spire",
+    "chaosValue": 0.93
+  },
+  {
+    "id": 2249,
+    "name": "Dialla's Malefaction",
+    "chaosValue": 0.93
+  },
+  {
+    "id": 1463,
+    "name": "The Covenant",
+    "chaosValue": 0.92
+  },
+  {
+    "id": 403,
+    "name": "Deerstalker",
+    "chaosValue": 0.91
+  },
+  {
+    "id": 701,
+    "name": "Kaltenhalt",
+    "chaosValue": 0.91
+  },
+  {
+    "id": 1080,
+    "name": "Saemus' Gift",
+    "chaosValue": 0.91
+  },
+  {
+    "id": 21489,
+    "name": "Wreath of Phrecia",
+    "chaosValue": 0.91
+  },
+  {
+    "id": 458,
+    "name": "Dusktoe",
+    "chaosValue": 0.9
+  },
+  {
+    "id": 1810,
+    "name": "Voll's Protector",
+    "chaosValue": 0.88
+  },
+  {
+    "id": 884,
+    "name": "Ondar's Clasp",
+    "chaosValue": 0.82
+  },
+  {
+    "id": 4855,
+    "name": "Mark of the Red Covenant",
+    "chaosValue": 0.81
+  },
+  {
+    "id": 1320,
+    "name": "Slitherpinch",
+    "chaosValue": 0.76
+  },
+  {
+    "id": 107,
+    "name": "Ashrend",
+    "chaosValue": 0.72
+  },
+  {
+    "id": 1687,
+    "name": "Thousand Ribbons",
+    "chaosValue": 0.71
+  },
+  {
+    "id": 165,
+    "name": "Blackgleam",
+    "chaosValue": 0.66
+  },
+  {
+    "id": 201,
+    "name": "Briskwrap",
+    "chaosValue": 0.59
+  },
+  {
+    "id": 2254,
+    "name": "Giantsbane",
+    "chaosValue": 0.59
+  },
+  {
+    "id": 776,
+    "name": "Malachai's Simula",
+    "chaosValue": 0.58
+  },
+  {
+    "id": 1634,
+    "name": "The Three Dragons",
+    "chaosValue": 0.57
+  },
+  {
+    "id": 328,
+    "name": "Crest of Perandus",
+    "chaosValue": 0.5
+  },
+  {
+    "id": 110,
+    "name": "Asphyxia's Wrath",
+    "chaosValue": 0.47
+  },
+  {
+    "id": 192,
+    "name": "Bramblejack",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 252,
+    "name": "Chalice of Horrors",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 322,
+    "name": "Craghead",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 331,
+    "name": "Crown of Thorns",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 344,
+    "name": "Daresso's Courage",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 430,
+    "name": "Doedre's Tenure",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 515,
+    "name": "Fairgraves' Tricorne",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 542,
+    "name": "Foxshade",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 554,
+    "name": "Gang's Momentum",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 656,
+    "name": "Icetomb",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 726,
+    "name": "Kongming's Stratagem",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 745,
+    "name": "Lightbane Raiment",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1264,
+    "name": "Shavronne's Pace",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1328,
+    "name": "Solaris Lorica",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1382,
+    "name": "Sundance",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1474,
+    "name": "The Deep One's Hide",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1872,
+    "name": "Wheel of the Stormsail",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1894,
+    "name": "Wondertrap",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1896,
+    "name": "Wyrmsign",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 1902,
+    "name": "Zahndethus' Cassock",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 2261,
+    "name": "Stormcharger",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 7359,
+    "name": "The Eternal Apple",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 607,
+    "name": "Headhunter",
+    "chaosValue": 12609.39
+  },
+  {
+    "id": 44551,
+    "name": "Replica Headhunter",
+    "chaosValue": 1854.44
+  },
+  {
+    "id": 42668,
+    "name": "The Torrent's Reclamation",
+    "chaosValue": 1610.06
+  },
+  {
+    "id": 2078,
+    "name": "Ryslatha's Coil",
+    "chaosValue": 860.99
+  },
+  {
+    "id": 2019,
+    "name": "The Pandemonius",
+    "chaosValue": 770.11
+  },
+  {
+    "id": 1961,
+    "name": "The Halcyon",
+    "chaosValue": 715.28
+  },
+  {
+    "id": 1993,
+    "name": "Xoph's Blood",
+    "chaosValue": 556.33
+  },
+  {
+    "id": 44201,
+    "name": "Replica Soul Tether",
+    "chaosValue": 529.84
+  },
+  {
+    "id": 1959,
+    "name": "Xoph's Heart",
+    "chaosValue": 490.1
+  },
+  {
+    "id": 44497,
+    "name": "Replica Emberwake",
+    "chaosValue": 463.61
+  },
+  {
+    "id": 7760,
+    "name": "Putembo's Mountain",
+    "chaosValue": 387.01
+  },
+  {
+    "id": 7747,
+    "name": "Precursor's Emblem",
+    "chaosValue": 333.83
+  },
+  {
+    "id": 22499,
+    "name": "Badge of the Brotherhood",
+    "chaosValue": 304.66
+  },
+  {
+    "id": 7738,
+    "name": "Uzaza's Valley",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 25000,
+    "name": "Astral Projector",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 7526,
+    "name": "Coward's Legacy",
+    "chaosValue": 220.98
+  },
+  {
+    "id": 7765,
+    "name": "Precursor's Emblem",
+    "chaosValue": 212.35
+  },
+  {
+    "id": 6950,
+    "name": "Coward's Legacy",
+    "chaosValue": 211.94
+  },
+  {
+    "id": 7378,
+    "name": "The Primordial Chain",
+    "chaosValue": 211.94
+  },
+  {
+    "id": 1628,
+    "name": "The Taming",
+    "chaosValue": 198.69
+  },
+  {
+    "id": 155,
+    "name": "Berek's Respite",
+    "chaosValue": 185.44
+  },
+  {
+    "id": 7709,
+    "name": "Aul's Uprising",
+    "chaosValue": 184.37
+  },
+  {
+    "id": 2018,
+    "name": "Presence of Chayula",
+    "chaosValue": 172.2
+  },
+  {
+    "id": 44207,
+    "name": "Replica Hyrri's Truth",
+    "chaosValue": 172.2
+  },
+  {
+    "id": 7762,
+    "name": "Precursor's Emblem",
+    "chaosValue": 147.25
+  },
+  {
+    "id": 4759,
+    "name": "Impresence",
+    "chaosValue": 145.97
+  },
+  {
+    "id": 2229,
+    "name": "The Flow Untethered",
+    "chaosValue": 144.65
+  },
+  {
+    "id": 7620,
+    "name": "Uzaza's Mountain",
+    "chaosValue": 132.46
+  },
+  {
+    "id": 44436,
+    "name": "Replica Siegebreaker",
+    "chaosValue": 90
+  },
+  {
+    "id": 60218,
+    "name": "Atziri's Foible",
+    "chaosValue": 79.82
+  },
+  {
+    "id": 44217,
+    "name": "Replica Atziri's Foible",
+    "chaosValue": 78.72
+  },
+  {
+    "id": 123,
+    "name": "Atziri's Foible",
+    "chaosValue": 59.45
+  },
+  {
+    "id": 7761,
+    "name": "Ahkeli's Meadow",
+    "chaosValue": 54.09
+  },
+  {
+    "id": 7628,
+    "name": "Putembo's Meadow",
+    "chaosValue": 49.53
+  },
+  {
+    "id": 19071,
+    "name": "Vivinsect",
+    "chaosValue": 45
+  },
+  {
+    "id": 2225,
+    "name": "Second Piece of Time",
+    "chaosValue": 44.43
+  },
+  {
+    "id": 2226,
+    "name": "First Piece of Time",
+    "chaosValue": 43
+  },
+  {
+    "id": 4883,
+    "name": "Mark of the Shaper",
+    "chaosValue": 40
+  },
+  {
+    "id": 113,
+    "name": "Astramentis",
+    "chaosValue": 33
+  },
+  {
+    "id": 60172,
+    "name": "Doryani's Invitation",
+    "chaosValue": 31.08
+  },
+  {
+    "id": 42662,
+    "name": "Bear's Girdle",
+    "chaosValue": 30
+  },
+  {
+    "id": 4865,
+    "name": "The Nomad",
+    "chaosValue": 29
+  },
+  {
+    "id": 216,
+    "name": "Call of the Brotherhood",
+    "chaosValue": 28.89
+  },
+  {
+    "id": 7602,
+    "name": "Precursor's Emblem",
+    "chaosValue": 25.47
+  },
+  {
+    "id": 1917,
+    "name": "Doryani's Invitation",
+    "chaosValue": 25
+  },
+  {
+    "id": 4872,
+    "name": "Winterweave",
+    "chaosValue": 25
+  },
+  {
+    "id": 23098,
+    "name": "Circle of Anguish",
+    "chaosValue": 25
+  },
+  {
+    "id": 7599,
+    "name": "Precursor's Emblem",
+    "chaosValue": 21.76
+  },
+  {
+    "id": 1994,
+    "name": "Choir of the Storm",
+    "chaosValue": 17
+  },
+  {
+    "id": 4853,
+    "name": "The Tactician",
+    "chaosValue": 15
+  },
+  {
+    "id": 23099,
+    "name": "Circle of Guilt",
+    "chaosValue": 15
+  },
+  {
+    "id": 7070,
+    "name": "Zerphi's Heart",
+    "chaosValue": 14.6
+  },
+  {
+    "id": 4753,
+    "name": "Impresence",
+    "chaosValue": 14.42
+  },
+  {
+    "id": 54388,
+    "name": "Arn's Anguish",
+    "chaosValue": 14
+  },
+  {
+    "id": 7564,
+    "name": "Zerphi's Heart",
+    "chaosValue": 13
+  },
+  {
+    "id": 7626,
+    "name": "Ahkeli's Valley",
+    "chaosValue": 12.53
+  },
+  {
+    "id": 18948,
+    "name": "Solstice Vigil",
+    "chaosValue": 12
+  },
+  {
+    "id": 98,
+    "name": "Ascent From Flesh",
+    "chaosValue": 10
+  },
+  {
+    "id": 709,
+    "name": "Kaom's Way",
+    "chaosValue": 10
+  },
+  {
+    "id": 4870,
+    "name": "Mark of the Elder",
+    "chaosValue": 10
+  },
+  {
+    "id": 23103,
+    "name": "Circle of Nostalgia",
+    "chaosValue": 10
+  },
+  {
+    "id": 44282,
+    "name": "Replica Karui Ward",
+    "chaosValue": 10
+  },
+  {
+    "id": 7583,
+    "name": "Coward's Chains",
+    "chaosValue": 9.67
+  },
+  {
+    "id": 7407,
+    "name": "Ascent From Flesh",
+    "chaosValue": 9
+  },
+  {
+    "id": 24966,
+    "name": "Fury Valve",
+    "chaosValue": 9
+  },
+  {
+    "id": 24994,
+    "name": "Mother's Embrace",
+    "chaosValue": 8.39
+  },
+  {
+    "id": 4885,
+    "name": "The Effigon",
+    "chaosValue": 8.13
+  },
+  {
+    "id": 631,
+    "name": "Hinekora's Sight",
+    "chaosValue": 8.02
+  },
+  {
+    "id": 710,
+    "name": "Karui Charge",
+    "chaosValue": 8
+  },
+  {
+    "id": 6906,
+    "name": "Coward's Chains",
+    "chaosValue": 8
+  },
+  {
+    "id": 60234,
+    "name": "Doryani's Invitation",
+    "chaosValue": 7.07
+  },
+  {
+    "id": 1564,
+    "name": "The Pariah",
+    "chaosValue": 7
+  },
+  {
+    "id": 23100,
+    "name": "Circle of Fear",
+    "chaosValue": 6.65
+  },
+  {
+    "id": 864,
+    "name": "Ngamahu Tiki",
+    "chaosValue": 6
+  },
+  {
+    "id": 1809,
+    "name": "Voll's Devotion",
+    "chaosValue": 6
+  },
+  {
+    "id": 44283,
+    "name": "Replica Doedre's Damning",
+    "chaosValue": 6
+  },
+  {
+    "id": 1588,
+    "name": "The Retch",
+    "chaosValue": 5.95
+  },
+  {
+    "id": 497,
+    "name": "Essence Worm",
+    "chaosValue": 5
+  },
+  {
+    "id": 1422,
+    "name": "The Ascetic",
+    "chaosValue": 5
+  },
+  {
+    "id": 2080,
+    "name": "Bisco's Leash",
+    "chaosValue": 5
+  },
+  {
+    "id": 4754,
+    "name": "Impresence",
+    "chaosValue": 5
+  },
+  {
+    "id": 7523,
+    "name": "Putembo's Valley",
+    "chaosValue": 5
+  },
+  {
+    "id": 7531,
+    "name": "Uzaza's Meadow",
+    "chaosValue": 5
+  },
+  {
+    "id": 19058,
+    "name": "Hyperboreus",
+    "chaosValue": 5
+  },
+  {
+    "id": 23097,
+    "name": "Circle of Regret",
+    "chaosValue": 5
+  },
+  {
+    "id": 24537,
+    "name": "Warrior's Legacy",
+    "chaosValue": 5
+  },
+  {
+    "id": 44322,
+    "name": "Replica Prismweave",
+    "chaosValue": 5
+  },
+  {
+    "id": 44740,
+    "name": "Fated End",
+    "chaosValue": 5
+  },
+  {
+    "id": 54425,
+    "name": "Blackflame",
+    "chaosValue": 5
+  },
+  {
+    "id": 60195,
+    "name": "Triumvirate Authority",
+    "chaosValue": 5
+  },
+  {
+    "id": 60204,
+    "name": "Dream Fragments",
+    "chaosValue": 5
+  },
+  {
+    "id": 60211,
+    "name": "Timetwist",
+    "chaosValue": 5
+  },
+  {
+    "id": 60219,
+    "name": "Doryani's Invitation",
+    "chaosValue": 5
+  },
+  {
+    "id": 60249,
+    "name": "Soul Tether",
+    "chaosValue": 5
+  },
+  {
+    "id": 60270,
+    "name": "Doryani's Invitation",
+    "chaosValue": 5
+  },
+  {
+    "id": 7559,
+    "name": "Sacrificial Heart",
+    "chaosValue": 4.82
+  },
+  {
+    "id": 60166,
+    "name": "Mark of Submission",
+    "chaosValue": 4.66
+  },
+  {
+    "id": 4758,
+    "name": "Impresence",
+    "chaosValue": 4.29
+  },
+  {
+    "id": 507,
+    "name": "Eye of Chayula",
+    "chaosValue": 4.23
+  },
+  {
+    "id": 925,
+    "name": "Perandus Signet",
+    "chaosValue": 4
+  },
+  {
+    "id": 4756,
+    "name": "Impresence",
+    "chaosValue": 4
+  },
+  {
+    "id": 7521,
+    "name": "Ahkeli's Mountain",
+    "chaosValue": 4
+  },
+  {
+    "id": 42627,
+    "name": "The Felbog Fang",
+    "chaosValue": 4
+  },
+  {
+    "id": 44250,
+    "name": "Replica Tasalio's Sign",
+    "chaosValue": 4
+  },
+  {
+    "id": 60202,
+    "name": "Timeclasp",
+    "chaosValue": 4
+  },
+  {
+    "id": 2314,
+    "name": "Cyclopean Coil",
+    "chaosValue": 3.78
+  },
+  {
+    "id": 4922,
+    "name": "Timetwist",
+    "chaosValue": 3.71
+  },
+  {
+    "id": 44341,
+    "name": "Replica Winterheart",
+    "chaosValue": 3.66
+  },
+  {
+    "id": 1770,
+    "name": "Ventor's Gamble",
+    "chaosValue": 3.42
+  },
+  {
+    "id": 44220,
+    "name": "Replica Malachai's Artifice",
+    "chaosValue": 3.2
+  },
+  {
+    "id": 460,
+    "name": "Dyadian Dawn",
+    "chaosValue": 3
+  },
+  {
+    "id": 508,
+    "name": "Eye of Innocence",
+    "chaosValue": 3
+  },
+  {
+    "id": 741,
+    "name": "Le Heup of All",
+    "chaosValue": 3
+  },
+  {
+    "id": 1798,
+    "name": "Voidheart",
+    "chaosValue": 3
+  },
+  {
+    "id": 1965,
+    "name": "Voice of the Storm",
+    "chaosValue": 3
+  },
+  {
+    "id": 2319,
+    "name": "Darkness Enthroned",
+    "chaosValue": 3
+  },
+  {
+    "id": 20733,
+    "name": "Hyrri's Truth",
+    "chaosValue": 3
+  },
+  {
+    "id": 22414,
+    "name": "The Jinxed Juju",
+    "chaosValue": 3
+  },
+  {
+    "id": 43996,
+    "name": "The Ephemeral Bond",
+    "chaosValue": 3
+  },
+  {
+    "id": 44150,
+    "name": "Replica Voideye",
+    "chaosValue": 3
+  },
+  {
+    "id": 49375,
+    "name": "Chains of Emancipation",
+    "chaosValue": 3
+  },
+  {
+    "id": 54455,
+    "name": "Graven's Secret",
+    "chaosValue": 3
+  },
+  {
+    "id": 60078,
+    "name": "Soulthirst",
+    "chaosValue": 3
+  },
+  {
+    "id": 54442,
+    "name": "Olesya's Delight",
+    "chaosValue": 2.48
+  },
+  {
+    "id": 7496,
+    "name": "Umbilicus Immortalis",
+    "chaosValue": 2.07
+  },
+  {
+    "id": 227,
+    "name": "Carnage Heart",
+    "chaosValue": 2
+  },
+  {
+    "id": 984,
+    "name": "Pyre",
+    "chaosValue": 2
+  },
+  {
+    "id": 1265,
+    "name": "Shavronne's Revelation",
+    "chaosValue": 2
+  },
+  {
+    "id": 1326,
+    "name": "Snakepit",
+    "chaosValue": 2
+  },
+  {
+    "id": 1685,
+    "name": "Thief's Torment",
+    "chaosValue": 2
+  },
+  {
+    "id": 2077,
+    "name": "Bisco's Collar",
+    "chaosValue": 2
+  },
+  {
+    "id": 2094,
+    "name": "Auxium",
+    "chaosValue": 2
+  },
+  {
+    "id": 2311,
+    "name": "Yoke of Suffering",
+    "chaosValue": 2
+  },
+  {
+    "id": 4886,
+    "name": "Stormfire",
+    "chaosValue": 2
+  },
+  {
+    "id": 21576,
+    "name": "Tavukai",
+    "chaosValue": 2
+  },
+  {
+    "id": 40030,
+    "name": "Profane Proxy",
+    "chaosValue": 2
+  },
+  {
+    "id": 1728,
+    "name": "Umbilicus Immortalis",
+    "chaosValue": 1.98
+  },
+  {
+    "id": 1916,
+    "name": "Doryani's Invitation",
+    "chaosValue": 1.18
+  },
+  {
+    "id": 42246,
+    "name": "Storm Secret",
+    "chaosValue": 1.12
+  },
+  {
+    "id": 65,
+    "name": "Andvarius",
+    "chaosValue": 1
+  },
+  {
+    "id": 76,
+    "name": "Araku Tiki",
+    "chaosValue": 1
+  },
+  {
+    "id": 139,
+    "name": "Bated Breath",
+    "chaosValue": 1
+  },
+  {
+    "id": 152,
+    "name": "Belt of the Deceiver",
+    "chaosValue": 1
+  },
+  {
+    "id": 153,
+    "name": "Berek's Grip",
+    "chaosValue": 1
+  },
+  {
+    "id": 154,
+    "name": "Berek's Pass",
+    "chaosValue": 1
+  },
+  {
+    "id": 166,
+    "name": "Blackheart",
+    "chaosValue": 1
+  },
+  {
+    "id": 176,
+    "name": "Bloodboil",
+    "chaosValue": 1
+  },
+  {
+    "id": 199,
+    "name": "Brinerot Mark",
+    "chaosValue": 1
+  },
+  {
+    "id": 349,
+    "name": "Daresso's Salute",
+    "chaosValue": 1
+  },
+  {
+    "id": 391,
+    "name": "Death Rush",
+    "chaosValue": 1
+  },
+  {
+    "id": 426,
+    "name": "Doedre's Damning",
+    "chaosValue": 1
+  },
+  {
+    "id": 445,
+    "name": "Dream Fragments",
+    "chaosValue": 1
+  },
+  {
+    "id": 479,
+    "name": "Emberwake",
+    "chaosValue": 1
+  },
+  {
+    "id": 506,
+    "name": "Extractor Mentis",
+    "chaosValue": 1
+  },
+  {
+    "id": 517,
+    "name": "Faminebind",
+    "chaosValue": 1
+  },
+  {
+    "id": 520,
+    "name": "Feastbind",
+    "chaosValue": 1
+  },
+  {
+    "id": 569,
+    "name": "Gifts from Above",
+    "chaosValue": 1
+  },
+  {
+    "id": 610,
+    "name": "Heartbound Loop",
+    "chaosValue": 1
+  },
+  {
+    "id": 660,
+    "name": "Immortal Flesh",
+    "chaosValue": 1
+  },
+  {
+    "id": 708,
+    "name": "Kaom's Sign",
+    "chaosValue": 1
+  },
+  {
+    "id": 711,
+    "name": "Karui Ward",
+    "chaosValue": 1
+  },
+  {
+    "id": 713,
+    "name": "Kikazaru",
+    "chaosValue": 1
+  },
+  {
+    "id": 766,
+    "name": "Lori's Lantern",
+    "chaosValue": 1
+  },
+  {
+    "id": 774,
+    "name": "Malachai's Artifice",
+    "chaosValue": 1
+  },
+  {
+    "id": 782,
+    "name": "Maligaro's Restraint",
+    "chaosValue": 1
+  },
+  {
+    "id": 795,
+    "name": "Marylene's Fallacy",
+    "chaosValue": 1
+  },
+  {
+    "id": 807,
+    "name": "Meginord's Girdle",
+    "chaosValue": 1
+  },
+  {
+    "id": 819,
+    "name": "Ming's Heart",
+    "chaosValue": 1
+  },
+  {
+    "id": 822,
+    "name": "Mokou's Embrace",
+    "chaosValue": 1
+  },
+  {
+    "id": 845,
+    "name": "Mutewind Seal",
+    "chaosValue": 1
+  },
+  {
+    "id": 865,
+    "name": "Ngamahu's Sign",
+    "chaosValue": 1
+  },
+  {
+    "id": 923,
+    "name": "Perandus Blazon",
+    "chaosValue": 1
+  },
+  {
+    "id": 965,
+    "name": "Praxis",
+    "chaosValue": 1
+  },
+  {
+    "id": 976,
+    "name": "Prismweave",
+    "chaosValue": 1
+  },
+  {
+    "id": 1035,
+    "name": "Redblade Band",
+    "chaosValue": 1
+  },
+  {
+    "id": 1058,
+    "name": "Rigwald's Crest",
+    "chaosValue": 1
+  },
+  {
+    "id": 1067,
+    "name": "Romira's Banquet",
+    "chaosValue": 1
+  },
+  {
+    "id": 1259,
+    "name": "Shaper's Seed",
+    "chaosValue": 1
+  },
+  {
+    "id": 1303,
+    "name": "Sibyl's Lament",
+    "chaosValue": 1
+  },
+  {
+    "id": 1304,
+    "name": "Sidhebreath",
+    "chaosValue": 1
+  },
+  {
+    "id": 1336,
+    "name": "Soulthirst",
+    "chaosValue": 1
+  },
+  {
+    "id": 1381,
+    "name": "Sunblast",
+    "chaosValue": 1
+  },
+  {
+    "id": 1393,
+    "name": "Tasalio's Sign",
+    "chaosValue": 1
+  },
+  {
+    "id": 1395,
+    "name": "Tear of Purity",
+    "chaosValue": 1
+  },
+  {
+    "id": 1418,
+    "name": "The Anvil",
+    "chaosValue": 1
+  },
+  {
+    "id": 1424,
+    "name": "The Aylardex",
+    "chaosValue": 1
+  },
+  {
+    "id": 1528,
+    "name": "The Ignomon",
+    "chaosValue": 1
+  },
+  {
+    "id": 1551,
+    "name": "The Magnate",
+    "chaosValue": 1
+  },
+  {
+    "id": 1661,
+    "name": "The Warden's Brand",
+    "chaosValue": 1
+  },
+  {
+    "id": 1695,
+    "name": "Timeclasp",
+    "chaosValue": 1
+  },
+  {
+    "id": 1747,
+    "name": "Ungil's Harmony",
+    "chaosValue": 1
+  },
+  {
+    "id": 1763,
+    "name": "Valako's Sign",
+    "chaosValue": 1
+  },
+  {
+    "id": 1764,
+    "name": "Valyrium",
+    "chaosValue": 1
+  },
+  {
+    "id": 1776,
+    "name": "Victario's Acuity",
+    "chaosValue": 1
+  },
+  {
+    "id": 1797,
+    "name": "Voideye",
+    "chaosValue": 1
+  },
+  {
+    "id": 1839,
+    "name": "Warped Timepiece",
+    "chaosValue": 1
+  },
+  {
+    "id": 1890,
+    "name": "Winterheart",
+    "chaosValue": 1
+  },
+  {
+    "id": 1895,
+    "name": "Wurm's Molt",
+    "chaosValue": 1
+  },
+  {
+    "id": 1914,
+    "name": "Doryani's Invitation",
+    "chaosValue": 1
+  },
+  {
+    "id": 1915,
+    "name": "Doryani's Invitation",
+    "chaosValue": 1
+  },
+  {
+    "id": 1983,
+    "name": "Perseverance",
+    "chaosValue": 1
+  },
+  {
+    "id": 2179,
+    "name": "Bloodgrip",
+    "chaosValue": 1
+  },
+  {
+    "id": 2189,
+    "name": "Soul Tether",
+    "chaosValue": 1
+  },
+  {
+    "id": 2190,
+    "name": "Maligaro's Cruelty",
+    "chaosValue": 1
+  },
+  {
+    "id": 2300,
+    "name": "Gloomfang",
+    "chaosValue": 1
+  },
+  {
+    "id": 2312,
+    "name": "The Hungry Loop",
+    "chaosValue": 1
+  },
+  {
+    "id": 5973,
+    "name": "Gluttony",
+    "chaosValue": 1
+  },
+  {
+    "id": 6894,
+    "name": "Sacrificial Heart",
+    "chaosValue": 1
+  },
+  {
+    "id": 7361,
+    "name": "Mark of Submission",
+    "chaosValue": 1
+  },
+  {
+    "id": 7373,
+    "name": "Perquil's Toe",
+    "chaosValue": 1
+  },
+  {
+    "id": 22287,
+    "name": "Siegebreaker",
+    "chaosValue": 1
+  },
+  {
+    "id": 22419,
+    "name": "Venopuncture",
+    "chaosValue": 1
+  },
+  {
+    "id": 22444,
+    "name": "Icefang Orbit",
+    "chaosValue": 1
+  },
+  {
+    "id": 24989,
+    "name": "Leash of Oblation",
+    "chaosValue": 1
+  },
+  {
+    "id": 25192,
+    "name": "Willowgift",
+    "chaosValue": 1
+  },
+  {
+    "id": 42249,
+    "name": "Retaliation Charm",
+    "chaosValue": 1
+  },
+  {
+    "id": 43979,
+    "name": "Pyroshock Clasp",
+    "chaosValue": 1
+  },
+  {
+    "id": 44064,
+    "name": "The Highwayman",
+    "chaosValue": 1
+  },
+  {
+    "id": 44073,
+    "name": "The Druggery",
+    "chaosValue": 1
+  },
+  {
+    "id": 54394,
+    "name": "Rotblood Promise",
+    "chaosValue": 1
+  },
+  {
+    "id": 54429,
+    "name": "Survivor's Guilt",
+    "chaosValue": 1
+  },
+  {
+    "id": 60029,
+    "name": "Triumvirate Authority",
+    "chaosValue": 1
+  },
+  {
+    "id": 1013,
+    "name": "Rashkaldor's Patience",
+    "chaosValue": 0.87
+  },
+  {
+    "id": 1367,
+    "name": "Stone of Lazhwar",
+    "chaosValue": 0.45
+  },
+  {
+    "id": 45923,
+    "name": "Replica Cortex",
+    "chaosValue": 354.83
+  },
+  {
+    "id": 42239,
+    "name": "Cortex",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 54411,
+    "name": "Cortex",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 54725,
+    "name": "Cortex",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 54767,
+    "name": "Cortex",
+    "chaosValue": 264.92
+  },
+  {
+    "id": 42559,
+    "name": "Infused Beachhead",
+    "chaosValue": 198.16
+  },
+  {
+    "id": 44339,
+    "name": "Doryani's Machinarium",
+    "chaosValue": 100
+  },
+  {
+    "id": 44145,
+    "name": "The Coward's Trial",
+    "chaosValue": 48
+  },
+  {
+    "id": 20555,
+    "name": "The Putrid Cloister",
+    "chaosValue": 45
+  },
+  {
+    "id": 44286,
+    "name": "Altered Distant Memory",
+    "chaosValue": 44
+  },
+  {
+    "id": 42313,
+    "name": "Twisted Distant Memory",
+    "chaosValue": 43
+  },
+  {
+    "id": 42367,
+    "name": "Altered Distant Memory",
+    "chaosValue": 43
+  },
+  {
+    "id": 45331,
+    "name": "Altered Distant Memory",
+    "chaosValue": 43
+  },
+  {
+    "id": 41124,
+    "name": "Rewritten Distant Memory",
+    "chaosValue": 42
+  },
+  {
+    "id": 41132,
+    "name": "Rewritten Distant Memory",
+    "chaosValue": 42
+  },
+  {
+    "id": 41133,
+    "name": "Rewritten Distant Memory",
+    "chaosValue": 42
+  },
+  {
+    "id": 54403,
+    "name": "Twisted Distant Memory",
+    "chaosValue": 42
+  },
+  {
+    "id": 54745,
+    "name": "Rewritten Distant Memory",
+    "chaosValue": 42
+  },
+  {
+    "id": 41114,
+    "name": "Augmented Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 41125,
+    "name": "Augmented Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 42232,
+    "name": "Augmented Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 44361,
+    "name": "The Vinktar Square",
+    "chaosValue": 40
+  },
+  {
+    "id": 45823,
+    "name": "The Vinktar Square",
+    "chaosValue": 40
+  },
+  {
+    "id": 54311,
+    "name": "Rewritten Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 54702,
+    "name": "Augmented Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 54712,
+    "name": "Augmented Distant Memory",
+    "chaosValue": 40
+  },
+  {
+    "id": 2247,
+    "name": "The Beachhead",
+    "chaosValue": 39.13
+  },
+  {
+    "id": 2246,
+    "name": "The Beachhead",
+    "chaosValue": 35
+  },
+  {
+    "id": 41129,
+    "name": "The Perandus Manor",
+    "chaosValue": 35
+  },
+  {
+    "id": 2245,
+    "name": "The Beachhead",
+    "chaosValue": 34.1
+  },
+  {
+    "id": 44083,
+    "name": "Doryani's Machinarium",
+    "chaosValue": 28
+  },
+  {
+    "id": 23250,
+    "name": "The Perandus Manor",
+    "chaosValue": 27.23
+  },
+  {
+    "id": 41136,
+    "name": "The Perandus Manor",
+    "chaosValue": 25.49
+  },
+  {
+    "id": 20624,
+    "name": "The Perandus Manor",
+    "chaosValue": 25
+  },
+  {
+    "id": 20930,
+    "name": "The Vinktar Square",
+    "chaosValue": 24
+  },
+  {
+    "id": 44119,
+    "name": "The Putrid Cloister",
+    "chaosValue": 21
+  },
+  {
+    "id": 21534,
+    "name": "The Putrid Cloister",
+    "chaosValue": 20
+  },
+  {
+    "id": 22427,
+    "name": "The Putrid Cloister",
+    "chaosValue": 20
+  },
+  {
+    "id": 37937,
+    "name": "The Vinktar Square",
+    "chaosValue": 20
+  },
+  {
+    "id": 45185,
+    "name": "The Putrid Cloister",
+    "chaosValue": 20
+  },
+  {
+    "id": 45822,
+    "name": "Replica Poorjoy's Asylum",
+    "chaosValue": 20
+  },
+  {
+    "id": 44017,
+    "name": "The Putrid Cloister",
+    "chaosValue": 19.66
+  },
+  {
+    "id": 43826,
+    "name": "The Coward's Trial",
+    "chaosValue": 18
+  },
+  {
+    "id": 44090,
+    "name": "The Vinktar Square",
+    "chaosValue": 14
+  },
+  {
+    "id": 44507,
+    "name": "Mao Kun",
+    "chaosValue": 10
+  },
+  {
+    "id": 45029,
+    "name": "Caer Blaidd, Wolfpack's Den",
+    "chaosValue": 10
+  },
+  {
+    "id": 44494,
+    "name": "Mao Kun",
+    "chaosValue": 9
+  },
+  {
+    "id": 44718,
+    "name": "Mao Kun",
+    "chaosValue": 8.52
+  },
+  {
+    "id": 44452,
+    "name": "Mao Kun",
+    "chaosValue": 8.42
+  },
+  {
+    "id": 20766,
+    "name": "Mao Kun",
+    "chaosValue": 8
+  },
+  {
+    "id": 25432,
+    "name": "Poorjoy's Asylum",
+    "chaosValue": 8
+  },
+  {
+    "id": 25582,
+    "name": "The Twilight Temple",
+    "chaosValue": 8
+  },
+  {
+    "id": 20444,
+    "name": "The Twilight Temple",
+    "chaosValue": 5
+  },
+  {
+    "id": 25212,
+    "name": "Poorjoy's Asylum",
+    "chaosValue": 5
+  },
+  {
+    "id": 43655,
+    "name": "The Twilight Temple",
+    "chaosValue": 5
+  },
+  {
+    "id": 44468,
+    "name": "The Twilight Temple",
+    "chaosValue": 5
+  },
+  {
+    "id": 44563,
+    "name": "Caer Blaidd, Wolfpack's Den",
+    "chaosValue": 5
+  },
+  {
+    "id": 44643,
+    "name": "The Twilight Temple",
+    "chaosValue": 5
+  },
+  {
+    "id": 45485,
+    "name": "Replica Pillars of Arun",
+    "chaosValue": 5
+  },
+  {
+    "id": 25400,
+    "name": "Hallowed Ground",
+    "chaosValue": 4.51
+  },
+  {
+    "id": 21469,
+    "name": "Poorjoy's Asylum",
+    "chaosValue": 4
+  },
+  {
+    "id": 25347,
+    "name": "Maelström of Chaos",
+    "chaosValue": 4
+  },
+  {
+    "id": 43639,
+    "name": "Death and Taxes",
+    "chaosValue": 4
+  },
+  {
+    "id": 44498,
+    "name": "Maelström of Chaos",
+    "chaosValue": 4
+  },
+  {
+    "id": 20768,
+    "name": "Caer Blaidd, Wolfpack's Den",
+    "chaosValue": 3.64
+  },
+  {
+    "id": 20456,
+    "name": "Poorjoy's Asylum",
+    "chaosValue": 3
+  },
+  {
+    "id": 21496,
+    "name": "Hallowed Ground",
+    "chaosValue": 3
+  },
+  {
+    "id": 22305,
+    "name": "Vaults of Atziri",
+    "chaosValue": 3
+  },
+  {
+    "id": 23215,
+    "name": "Poorjoy's Asylum",
+    "chaosValue": 3
+  },
+  {
+    "id": 24980,
+    "name": "Vaults of Atziri",
+    "chaosValue": 3
+  },
+  {
+    "id": 25038,
+    "name": "Oba's Cursed Trove",
+    "chaosValue": 3
+  },
+  {
+    "id": 25260,
+    "name": "Hallowed Ground",
+    "chaosValue": 3
+  },
+  {
+    "id": 25364,
+    "name": "Hallowed Ground",
+    "chaosValue": 3
+  },
+  {
+    "id": 25399,
+    "name": "Vaults of Atziri",
+    "chaosValue": 3
+  },
+  {
+    "id": 25457,
+    "name": "Olmec's Sanctum",
+    "chaosValue": 3
+  },
+  {
+    "id": 25477,
+    "name": "Olmec's Sanctum",
+    "chaosValue": 3
+  },
+  {
+    "id": 25579,
+    "name": "Whakawairua Tuahu",
+    "chaosValue": 3
+  },
+  {
+    "id": 43654,
+    "name": "Caer Blaidd, Wolfpack's Den",
+    "chaosValue": 3
+  },
+  {
+    "id": 44234,
+    "name": "Pillars of Arun",
+    "chaosValue": 3
+  },
+  {
+    "id": 44499,
+    "name": "Acton's Nightmare",
+    "chaosValue": 3
+  },
+  {
+    "id": 45117,
+    "name": "Pillars of Arun",
+    "chaosValue": 3
+  },
+  {
+    "id": 45172,
+    "name": "Caer Blaidd, Wolfpack's Den",
+    "chaosValue": 3
+  },
+  {
+    "id": 45376,
+    "name": "Whakawairua Tuahu",
+    "chaosValue": 3
+  },
+  {
+    "id": 54724,
+    "name": "Hall of Grandmasters",
+    "chaosValue": 3
+  },
+  {
+    "id": 44999,
+    "name": "Maelström of Chaos",
+    "chaosValue": 2.82
+  },
+  {
+    "id": 24685,
+    "name": "Vaults of Atziri",
+    "chaosValue": 2.77
+  },
+  {
+    "id": 20496,
+    "name": "Hall of Grandmasters",
+    "chaosValue": 2
+  },
+  {
+    "id": 20548,
+    "name": "Hall of Grandmasters",
+    "chaosValue": 2
+  },
+  {
+    "id": 20551,
+    "name": "Olmec's Sanctum",
+    "chaosValue": 2
+  },
+  {
+    "id": 20554,
+    "name": "Oba's Cursed Trove",
+    "chaosValue": 2
+  },
+  {
+    "id": 20629,
+    "name": "Vaults of Atziri",
+    "chaosValue": 2
+  },
+  {
+    "id": 20774,
+    "name": "Pillars of Arun",
+    "chaosValue": 2
+  },
+  {
+    "id": 21410,
+    "name": "Oba's Cursed Trove",
+    "chaosValue": 2
+  },
+  {
+    "id": 23221,
+    "name": "Maelström of Chaos",
+    "chaosValue": 2
+  },
+  {
+    "id": 23222,
+    "name": "Hallowed Ground",
+    "chaosValue": 2
+  },
+  {
+    "id": 24498,
+    "name": "Oba's Cursed Trove",
+    "chaosValue": 2
+  },
+  {
+    "id": 24982,
+    "name": "Olmec's Sanctum",
+    "chaosValue": 2
+  },
+  {
+    "id": 25208,
+    "name": "Pillars of Arun",
+    "chaosValue": 2
+  },
+  {
+    "id": 25403,
+    "name": "Maelström of Chaos",
+    "chaosValue": 2
+  },
+  {
+    "id": 43676,
+    "name": "Pillars of Arun",
+    "chaosValue": 2
+  },
+  {
+    "id": 44570,
+    "name": "Whakawairua Tuahu",
+    "chaosValue": 2
+  },
+  {
+    "id": 45164,
+    "name": "Whakawairua Tuahu",
+    "chaosValue": 2
+  },
+  {
+    "id": 45294,
+    "name": "Acton's Nightmare",
+    "chaosValue": 2
+  },
+  {
+    "id": 22074,
+    "name": "Whakawairua Tuahu",
+    "chaosValue": 1.53
+  },
+  {
+    "id": 20449,
+    "name": "Acton's Nightmare",
+    "chaosValue": 1
+  },
+  {
+    "id": 23219,
+    "name": "Oba's Cursed Trove",
+    "chaosValue": 1
+  },
+  {
+    "id": 23220,
+    "name": "Olmec's Sanctum",
+    "chaosValue": 1
+  },
+  {
+    "id": 54270,
+    "name": "Hall of Grandmasters",
+    "chaosValue": 1
+  },
+  {
+    "id": 54517,
+    "name": "Hall of Grandmasters",
+    "chaosValue": 1
+  }
+]
