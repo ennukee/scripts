@@ -1,2173 +1,5202 @@
 [
   {
-    "gemName": "Anomalous Zealotry",
-    "lowConfidence": false,
+    "gemName": "Cast on Death Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 1438.05,
-      "21/20c": 1438.05,
-      "20/23c": 100.87,
-      "20/20c": 59.08,
-      "20/20": 101.01,
+      "21/23c": 9,
+      "21/20c": 0,
+      "20/23c": 2283.87,
+      "20/20c": 5,
+      "20/20": 20,
       "21/0c": 0
     },
-    "averageProfit": 244.3859574468085
+    "averageProfit": 419.421914893617
   },
   {
-    "gemName": "Anomalous Wrath",
-    "lowConfidence": false,
+    "gemName": "Awakened Blasphemy Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 1414.14,
-      "21/20c": 1414.14,
-      "20/23c": 54.83,
-      "20/20c": 36.38,
-      "20/20": 131.57,
-      "21/0c": 0
-    },
-    "averageProfit": 192.1948936170213
-  },
-  {
-    "gemName": "Awakened Controlled Destruction Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 4484.84,
-      "6/20c": 1334.48,
-      "5/23c": 505.05,
-      "5/20c": 505.05,
-      "5/20": 505.05,
+      "6/23c": 1512.77,
+      "6/20c": 724.66,
+      "5/23c": 755.06,
+      "5/20c": 755.06,
+      "5/20": 431.11,
       "6/0c": 0
     },
-    "averageProfit": 181.58340425531918
+    "averageProfit": 158.23723404255315
   },
   {
-    "gemName": "Awakened Melee Physical Damage Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Fire Penetration Support",
+    "lowConfidence": true,
     "prices": {
-      "6/23c": 5050.5,
-      "6/20c": 1405.02,
-      "5/23c": 549.72,
-      "5/20c": 549.72,
-      "5/20": 575.76,
+      "6/23c": 1477.51,
+      "6/20c": 1052.08,
+      "5/23c": 296.1,
+      "5/20c": 296.1,
+      "5/20": 295.84,
       "6/0c": 0
     },
-    "averageProfit": 170.7114893617021
+    "averageProfit": 103.61021276595744
   },
   {
-    "gemName": "Divergent Animate Guardian",
-    "lowConfidence": false,
+    "gemName": "Lightning Strike",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 1111.11,
-      "21/20c": 1111.11,
-      "20/23c": 343.43,
-      "20/20c": 187.98,
-      "20/20": 212.12,
+      "21/23c": 10,
+      "21/20c": 592.2,
+      "20/23c": 17.42,
+      "20/20c": 10,
+      "20/20": 22.12,
       "21/0c": 0
     },
-    "averageProfit": 154.04276595744682
-  },
-  {
-    "gemName": "Anomalous Flesh and Stone",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 706.31,
-      "21/20c": 706.31,
-      "20/23c": 651.97,
-      "20/20c": 189.45,
-      "20/20": 202.02,
-      "21/0c": 0
-    },
-    "averageProfit": 137.597659574468
-  },
-  {
-    "gemName": "Anomalous Ethereal Knives",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 760.1,
-      "21/20c": 760.1,
-      "20/23c": 35.52,
-      "20/20c": 20,
-      "20/20": 40,
-      "21/0c": 0
-    },
-    "averageProfit": 135.33361702127658
-  },
-  {
-    "gemName": "Anomalous Dash",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 606.06,
-      "21/20c": 606.06,
-      "20/23c": 303.03,
-      "20/20c": 83.86,
-      "20/20": 85,
-      "21/0c": 0
-    },
-    "averageProfit": 130.52404255319146
-  },
-  {
-    "gemName": "Awakened Cold Penetration Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 2097.78,
-      "6/20c": 642.93,
-      "5/23c": 141.41,
-      "5/20c": 141.41,
-      "5/20": 157.83,
-      "6/0c": 0
-    },
-    "averageProfit": 116.09021276595743
-  },
-  {
-    "gemName": "Anomalous Flame Wall",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 995.22,
-      "21/20c": 995.22,
-      "20/23c": 31.22,
-      "20/20c": 15,
-      "20/20": 107.64,
-      "21/0c": 0
-    },
-    "averageProfit": 115.19361702127658
-  },
-  {
-    "gemName": "Divergent Inspiration Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 650.28,
-      "21/20c": 650.28,
-      "20/23c": 196.26,
-      "20/20c": 100.97,
-      "20/20": 107.06,
-      "21/0c": 0
-    },
-    "averageProfit": 103.251914893617
-  },
-  {
-    "gemName": "Awakened Vicious Projectiles Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1870.2,
-      "6/20c": 707.07,
-      "5/23c": 190.59,
-      "5/20c": 190.59,
-      "5/20": 202.02,
-      "6/0c": 0
-    },
-    "averageProfit": 99.29297872340427
-  },
-  {
-    "gemName": "Divergent Flicker Strike",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 606.06,
-      "21/20c": 606.06,
-      "20/23c": 146.8,
-      "20/20c": 48.34,
-      "20/20": 76.41,
-      "21/0c": 0
-    },
-    "averageProfit": 97.10574468085105
-  },
-  {
-    "gemName": "Phantasmal Frost Bomb",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 676.66,
-      "21/20c": 676.66,
-      "20/23c": 240.44,
-      "20/20c": 65,
-      "20/20": 116.02,
-      "21/0c": 0
-    },
-    "averageProfit": 96.1195744680851
-  },
-  {
-    "gemName": "Awakened Added Cold Damage Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 2020.2,
-      "6/20c": 901.32,
-      "5/23c": 235.25,
-      "5/20c": 235.25,
-      "5/20": 272.73,
-      "6/0c": 0
-    },
-    "averageProfit": 91.78510638297871
-  },
-  {
-    "gemName": "Divergent Storm Brand",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 616.69,
-      "21/20c": 616.69,
-      "20/23c": 49.07,
-      "20/20c": 18.96,
-      "20/20": 58.49,
-      "21/0c": 0
-    },
-    "averageProfit": 88.57148936170213
-  },
-  {
-    "gemName": "Awakened Generosity Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1660.35,
-      "6/20c": 909.09,
-      "5/23c": 282.83,
-      "5/20c": 282.83,
-      "5/20": 289.41,
-      "6/0c": 0
-    },
-    "averageProfit": 86.4234042553191
-  },
-  {
-    "gemName": "Anomalous Summon Stone Golem",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 686.87,
-      "21/20c": 686.87,
-      "20/23c": 222.22,
-      "20/20c": 141.41,
-      "20/20": 151.52,
-      "21/0c": 0
-    },
-    "averageProfit": 85.31489361702126
-  },
-  {
-    "gemName": "Anomalous Fireball",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 575.86,
-      "21/20c": 575.86,
-      "20/23c": 80,
-      "20/20c": 75,
-      "20/20": 79.43,
-      "21/0c": 0
-    },
-    "averageProfit": 83.9444680851064
-  },
-  {
-    "gemName": "Divergent Volatile Dead",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 906.49,
-      "21/20c": 906.49,
-      "20/23c": 30,
-      "20/20c": 18,
-      "20/20": 120.95,
-      "21/0c": 0
-    },
-    "averageProfit": 83.79255319148935
-  },
-  {
-    "gemName": "Anomalous Trap and Mine Damage Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 546.7,
-      "21/20c": 546.7,
-      "20/23c": 172.08,
-      "20/20c": 50,
-      "20/20": 82.52,
-      "21/0c": 0
-    },
-    "averageProfit": 83.77191489361705
-  },
-  {
-    "gemName": "Anomalous Volatile Dead",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 671.51,
-      "21/20c": 671.51,
-      "20/23c": 30,
-      "20/20c": 12,
-      "20/20": 70,
-      "21/0c": 0
-    },
-    "averageProfit": 82.70425531914893
-  },
-  {
-    "gemName": "Anomalous Physical to Lightning Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 494.73,
-      "21/20c": 494.73,
-      "20/23c": 86.44,
-      "20/20c": 50,
-      "20/20": 59.66,
-      "21/0c": 0
-    },
-    "averageProfit": 79.17531914893618
-  },
-  {
-    "gemName": "Anomalous Ruthless Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 483.77,
-      "21/20c": 483.77,
-      "20/23c": 194.99,
-      "20/20c": 71.8,
-      "20/20": 85.63,
-      "21/0c": 0
-    },
-    "averageProfit": 79.08085106382981
-  },
-  {
-    "gemName": "Divergent Herald of Ash",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 505.05,
-      "21/20c": 505.05,
-      "20/23c": 202.02,
-      "20/20c": 58.29,
-      "20/20": 87.9,
-      "21/0c": 0
-    },
-    "averageProfit": 78.08553191489361
-  },
-  {
-    "gemName": "Divergent Melee Splash Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 303.03,
-      "21/20c": 303.03,
-      "20/23c": 323.23,
-      "20/20c": 90,
-      "20/20": 80,
-      "21/0c": 0
-    },
-    "averageProfit": 77.00787234042551
-  },
-  {
-    "gemName": "Anomalous Trinity Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 509.69,
-      "21/20c": 509.69,
-      "20/23c": 303.03,
-      "20/20c": 112.23,
-      "20/20": 139.35,
-      "21/0c": 0
-    },
-    "averageProfit": 65.32765957446807
-  },
-  {
-    "gemName": "Phantasmal Blade Blast",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 651.04,
-      "21/20c": 651.04,
-      "20/23c": 15.55,
-      "20/20c": 9.61,
-      "20/20": 80,
-      "21/0c": 0
-    },
-    "averageProfit": 64.76829787234038
-  },
-  {
-    "gemName": "Divergent Dread Banner",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 505.05,
-      "21/20c": 505.05,
-      "20/23c": 120.8,
-      "20/20c": 90.47,
-      "20/20": 101.01,
-      "21/0c": 0
-    },
-    "averageProfit": 60.37765957446807
-  },
-  {
-    "gemName": "Anomalous Summon Carrion Golem",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 498.47,
-      "21/20c": 498.47,
-      "20/23c": 39.05,
-      "20/20c": 19.19,
-      "20/20": 60,
-      "21/0c": 0
-    },
-    "averageProfit": 60.067872340425524
+    "averageProfit": 85.84553191489361
   },
   {
     "gemName": "Awakened Lightning Penetration Support",
-    "lowConfidence": false,
+    "lowConfidence": true,
     "prices": {
-      "6/23c": 1723.29,
-      "6/20c": 505.05,
-      "5/23c": 187.64,
-      "5/20c": 187.64,
-      "5/20": 199.27,
+      "6/23c": 1354.43,
+      "6/20c": 888.3,
+      "5/23c": 444.15,
+      "5/20c": 444.15,
+      "5/20": 370.12,
       "6/0c": 0
     },
-    "averageProfit": 59.83595744680852
+    "averageProfit": 74.96531914893615
   },
   {
-    "gemName": "Awakened Added Chaos Damage Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Vicious Projectiles Support",
+    "lowConfidence": true,
     "prices": {
-      "6/23c": 1384.85,
-      "6/20c": 347.42,
-      "5/23c": 95,
-      "5/20c": 95,
-      "5/20": 112.1,
+      "6/23c": 1165.45,
+      "6/20c": 822.76,
+      "5/23c": 427.79,
+      "5/20c": 427.79,
+      "5/20": 347.02,
       "6/0c": 0
     },
-    "averageProfit": 56.497021276595746
+    "averageProfit": 70.16574468085105
   },
   {
-    "gemName": "Anomalous Arcane Cloak",
-    "lowConfidence": false,
+    "gemName": "Hexblast",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 400.52,
-      "21/20c": 400.52,
-      "20/23c": 53.03,
-      "20/20c": 51.83,
-      "20/20": 60,
+      "21/23c": 577.4,
+      "21/20c": 577.4,
+      "20/23c": 67.15,
+      "20/20c": 40,
+      "20/20": 85.99,
       "21/0c": 0
     },
-    "averageProfit": 53.0159574468085
+    "averageProfit": 63.33659574468088
   },
   {
-    "gemName": "Anomalous Toxic Rain",
-    "lowConfidence": false,
+    "gemName": "Elemental Penetration Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 509.47,
-      "21/20c": 509.47,
-      "20/23c": 15.92,
-      "20/20c": 8,
-      "20/20": 61.45,
+      "21/23c": 599.6,
+      "21/20c": 599.6,
+      "20/23c": 236.81,
+      "20/20c": 110,
+      "20/20": 148.05,
       "21/0c": 0
     },
-    "averageProfit": 52.719787234042556
+    "averageProfit": 62.31787234042551
   },
   {
-    "gemName": "Divergent Hypothermia Support",
+    "gemName": "Awakened Added Lightning Damage Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 909.09,
-      "21/20c": 909.09,
-      "20/23c": 249.28,
-      "20/20c": 222.22,
-      "20/20": 264.95,
-      "21/0c": 0
-    },
-    "averageProfit": 51.857234042553216
-  },
-  {
-    "gemName": "Awakened Ancestral Call Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1354.54,
-      "6/20c": 432.12,
-      "5/23c": 191.92,
-      "5/20c": 191.92,
-      "5/20": 181.82,
+      "6/23c": 905.36,
+      "6/20c": 905.36,
+      "5/23c": 356.14,
+      "5/20c": 356.14,
+      "5/20": 331.65,
       "6/0c": 0
     },
-    "averageProfit": 51.45744680851064
+    "averageProfit": 50.415957446808534
   },
   {
-    "gemName": "Divergent Tornado Shot",
-    "lowConfidence": false,
+    "gemName": "Awakened Generosity Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 426.51,
-      "21/20c": 426.51,
-      "20/23c": 96.54,
-      "20/20c": 49,
-      "20/20": 75,
-      "21/0c": 0
+      "6/23c": 2961,
+      "6/20c": 888.3,
+      "5/23c": 503.37,
+      "5/20c": 503.37,
+      "5/20": 494.61,
+      "6/0c": 0
     },
-    "averageProfit": 50.91404255319149
-  },
-  {
-    "gemName": "Divergent Power Siphon",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 243.43,
-      "21/20c": 243.43,
-      "20/23c": 97.57,
-      "20/20c": 30,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 50.68999999999998
-  },
-  {
-    "gemName": "Divergent Split Arrow",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 474.75,
-      "21/20c": 474.75,
-      "20/23c": 69.08,
-      "20/20c": 15.39,
-      "20/20": 69,
-      "21/0c": 0
-    },
-    "averageProfit": 50.477872340425535
+    "averageProfit": 50.33999999999992
   },
   {
     "gemName": "Elemental Weakness",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 655.78,
-      "21/20c": 252.52,
-      "20/23c": 28,
-      "20/20c": 20,
+      "21/23c": 341.62,
+      "21/20c": 281.3,
+      "20/23c": 56.89,
+      "20/20c": 35,
       "20/20": 35,
       "21/0c": 0
     },
-    "averageProfit": 48.05787234042552
+    "averageProfit": 50.22659574468085
   },
   {
-    "gemName": "Anomalous Infused Channelling Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Void Manipulation Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 458.63,
-      "21/20c": 458.63,
-      "20/23c": 136.16,
-      "20/20c": 67.16,
-      "20/20": 99.18,
-      "21/0c": 0
-    },
-    "averageProfit": 47.33702127659575
-  },
-  {
-    "gemName": "Hypothermia Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 398.98,
-      "21/20c": 242.42,
-      "20/23c": 25,
-      "20/20c": 23.15,
-      "20/20": 25,
-      "21/0c": 0
-    },
-    "averageProfit": 45.908936170212755
-  },
-  {
-    "gemName": "Awakened Elemental Focus Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1979.48,
-      "6/20c": 1010.1,
-      "5/23c": 358.59,
-      "5/20c": 358.59,
-      "5/20": 404.04,
+      "6/23c": 1609.6,
+      "6/20c": 1011.18,
+      "5/23c": 330.52,
+      "5/20c": 330.52,
+      "5/20": 370.12,
       "6/0c": 0
     },
-    "averageProfit": 42.86446808510635
+    "averageProfit": 46.29787234042544
   },
   {
-    "gemName": "Anomalous Damage on Full Life Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Cold Penetration Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 363.58,
-      "21/20c": 363.58,
-      "20/23c": 202.02,
-      "20/20c": 80,
-      "20/20": 101.01,
-      "21/0c": 0
-    },
-    "averageProfit": 42.26617021276594
-  },
-  {
-    "gemName": "Anomalous Firestorm",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 303.03,
-      "21/20c": 303.03,
-      "20/23c": 49.51,
-      "20/20c": 31.09,
-      "20/20": 43,
-      "21/0c": 0
-    },
-    "averageProfit": 41.538936170212736
-  },
-  {
-    "gemName": "Divergent Plague Bearer",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 474.44,
-      "21/20c": 474.44,
-      "20/23c": 57,
-      "20/20c": 57,
-      "20/20": 89.89,
-      "21/0c": 0
-    },
-    "averageProfit": 41.373829787234044
-  },
-  {
-    "gemName": "Anomalous Withering Step",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 301.65,
-      "21/20c": 301.65,
-      "20/23c": 67.29,
-      "20/20c": 42.96,
-      "20/20": 50.53,
-      "21/0c": 0
-    },
-    "averageProfit": 41.16085106382978
-  },
-  {
-    "gemName": "Temporal Chains",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 505.05,
-      "21/20c": 145.48,
-      "20/23c": 90,
-      "20/20c": 19,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 39.956170212765954
-  },
-  {
-    "gemName": "Awakened Melee Splash Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1090.14,
-      "6/20c": 404.04,
-      "5/23c": 143.4,
-      "5/20c": 143.4,
-      "5/20": 151.52,
+      "6/23c": 1394.88,
+      "6/20c": 548.08,
+      "5/23c": 292.69,
+      "5/20c": 292.69,
+      "5/20": 262.21,
       "6/0c": 0
     },
-    "averageProfit": 39.91829787234042
+    "averageProfit": 46.12297872340429
   },
   {
-    "gemName": "Divergent Flesh Offering",
-    "lowConfidence": false,
+    "gemName": "Awakened Unbound Ailments Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 303.03,
-      "21/20c": 303.03,
-      "20/23c": 180.44,
-      "20/20c": 85,
-      "20/20": 88.69,
-      "21/0c": 0
+      "6/23c": 1335.32,
+      "6/20c": 1165.52,
+      "5/23c": 525.11,
+      "5/20c": 525.11,
+      "5/20": 492.16,
+      "6/0c": 0
     },
-    "averageProfit": 39.27297872340425
+    "averageProfit": 42.36234042553184
   },
   {
-    "gemName": "Anomalous Raise Spectre",
+    "gemName": "Awakened Added Cold Damage Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 808.08,
-      "21/20c": 808.08,
-      "20/23c": 60.11,
-      "20/20c": 20.69,
-      "20/20": 151.52,
-      "21/0c": 0
+      "6/23c": 1095.57,
+      "6/20c": 1095.57,
+      "5/23c": 518.18,
+      "5/20c": 518.18,
+      "5/20": 473.76,
+      "6/0c": 0
     },
-    "averageProfit": 38.96574468085109
+    "averageProfit": 34.96765957446803
   },
   {
     "gemName": "Storm Brand",
-    "lowConfidence": false,
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 282.35,
-      "21/20c": 250.91,
-      "20/23c": 10,
-      "20/20c": 8,
-      "20/20": 20.78,
+      "21/23c": 319.3,
+      "21/20c": 251.68,
+      "20/23c": 7,
+      "20/20c": 5,
+      "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": 38.581276595744676
+    "averageProfit": 34.468936170212764
+  },
+  {
+    "gemName": "Herald of Ice",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 541.86,
+      "21/20c": 207.27,
+      "20/23c": 20,
+      "20/20c": 14.68,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": 32.165106382978735
+  },
+  {
+    "gemName": "Summon Carrion Golem",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 370.12,
+      "21/20c": 222.08,
+      "20/23c": 6.34,
+      "20/20c": 3,
+      "20/20": 24,
+      "21/0c": 0
+    },
+    "averageProfit": 31.78595744680851
+  },
+  {
+    "gemName": "Concentrated Effect Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 316.55,
+      "21/20c": 193.54,
+      "20/23c": 33.67,
+      "20/20c": 29.9,
+      "20/20": 31.63,
+      "21/0c": 0
+    },
+    "averageProfit": 31.409361702127665
+  },
+  {
+    "gemName": "Raise Zombie",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 222.08,
+      "21/20c": 199.93,
+      "20/23c": 15,
+      "20/20c": 9.03,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 29.427234042553195
+  },
+  {
+    "gemName": "Ball Lightning",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 222.08,
+      "21/20c": 205.17,
+      "20/23c": 15,
+      "20/20c": 10,
+      "20/20": 23.01,
+      "21/0c": 0
+    },
+    "averageProfit": 27.639361702127655
   },
   {
     "gemName": "Damage on Full Life Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 373.95,
-      "21/20c": 262.63,
-      "20/23c": 29,
-      "20/20c": 21,
-      "20/20": 35,
+      "21/23c": 226.7,
+      "21/20c": 222.08,
+      "20/23c": 40,
+      "20/20c": 35.24,
+      "20/20": 39.53,
       "21/0c": 0
     },
-    "averageProfit": 38.317872340425524
+    "averageProfit": 27.573829787234047
   },
   {
-    "gemName": "Slower Projectiles Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Fork Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 303.03,
-      "21/20c": 240.23,
-      "20/23c": 45,
-      "20/20c": 34,
-      "20/20": 38,
-      "21/0c": 0
+      "6/23c": 889.06,
+      "6/20c": 568.94,
+      "5/23c": 148.05,
+      "5/20c": 148.05,
+      "5/20": 186.1,
+      "6/0c": 0
     },
-    "averageProfit": 35.97659574468085
+    "averageProfit": 27.323191489361704
   },
   {
-    "gemName": "Anomalous Spark",
+    "gemName": "Impale Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 342.82,
-      "21/20c": 342.82,
-      "20/23c": 19.66,
-      "20/20c": 47.79,
-      "20/20": 58.13,
+      "21/23c": 435.6,
+      "21/20c": 187.25,
+      "20/23c": 23.63,
+      "20/20c": 15,
+      "20/20": 33,
       "21/0c": 0
     },
-    "averageProfit": 34.84404255319149
-  },
-  {
-    "gemName": "Sniper's Mark",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 318.45,
-      "21/20c": 202.02,
-      "20/23c": 24,
-      "20/20c": 15.6,
-      "20/20": 23,
-      "21/0c": 0
-    },
-    "averageProfit": 34.843829787234036
+    "averageProfit": 27.03978723404255
   },
   {
     "gemName": "Hatred",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 404.04,
-      "21/20c": 232.32,
-      "20/23c": 12,
-      "20/20c": 9,
-      "20/20": 28,
+      "21/23c": 222.08,
+      "21/20c": 192.46,
+      "20/23c": 27,
+      "20/20c": 20,
+      "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": 34.09872340425532
+    "averageProfit": 24.188085106382978
   },
   {
-    "gemName": "Anomalous Vortex",
-    "lowConfidence": false,
+    "gemName": "Summon Stone Golem",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 397.24,
-      "21/20c": 397.24,
-      "20/23c": 52.55,
-      "20/20c": 20,
-      "20/20": 68.74,
+      "21/23c": 222.08,
+      "21/20c": 148.05,
+      "20/23c": 20,
+      "20/20c": 10.41,
+      "20/20": 18,
       "21/0c": 0
     },
-    "averageProfit": 32.650425531914905
+    "averageProfit": 24.02382978723405
   },
   {
-    "gemName": "High-Impact Mine Support",
-    "lowConfidence": false,
+    "gemName": "Raise Spectre",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 327.98,
-      "21/20c": 181.82,
-      "20/23c": 33.93,
-      "20/20c": 20,
+      "21/23c": 340.52,
+      "21/20c": 192.46,
+      "20/23c": 5,
+      "20/20c": 4,
       "20/20": 26,
       "21/0c": 0
     },
-    "averageProfit": 32.21042553191489
+    "averageProfit": 23.568510638297873
   },
   {
-    "gemName": "Herald of Ice",
+    "gemName": "Hypothermia Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 909.09,
-      "21/20c": 141.41,
-      "20/23c": 10,
-      "20/20c": 7,
-      "20/20": 35,
+      "21/23c": 330.62,
+      "21/20c": 166.54,
+      "20/23c": 38,
+      "20/20c": 31.18,
+      "20/20": 37,
       "21/0c": 0
     },
-    "averageProfit": 32.05234042553191
+    "averageProfit": 23.30723404255319
   },
   {
-    "gemName": "Pride",
-    "lowConfidence": false,
+    "gemName": "Herald of Ash",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 202.02,
-      "21/20c": 191.92,
-      "20/23c": 23,
-      "20/20c": 14,
+      "21/23c": 254,
+      "21/20c": 120,
+      "20/23c": 35.16,
+      "20/20c": 15,
       "20/20": 20,
       "21/0c": 0
     },
-    "averageProfit": 30.43404255319149
+    "averageProfit": 23.073191489361697
   },
   {
-    "gemName": "Divergent Vortex",
+    "gemName": "Archmage Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 259.14,
-      "21/20c": 259.14,
-      "20/23c": 69.84,
-      "20/20c": 69.84,
-      "20/20": 61.94,
+      "21/23c": 344.19,
+      "21/20c": 148.05,
+      "20/23c": 18.32,
+      "20/20c": 10,
+      "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": 30.345106382978713
+    "averageProfit": 21.75872340425532
   },
   {
-    "gemName": "Intensify Support",
-    "lowConfidence": false,
+    "gemName": "Less Duration Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 202.02,
-      "21/20c": 189.85,
-      "20/23c": 22,
-      "20/20c": 18.55,
-      "20/20": 21.32,
+      "21/23c": 207.27,
+      "21/20c": 148.05,
+      "20/23c": 60,
+      "20/20c": 40,
+      "20/20": 38,
       "21/0c": 0
     },
-    "averageProfit": 30.119148936170205
+    "averageProfit": 21.126382978723406
   },
   {
-    "gemName": "Anomalous Summon Skitterbots",
+    "gemName": "Herald of Thunder",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 352.4,
-      "21/20c": 352.4,
-      "20/23c": 47.22,
-      "20/20c": 75,
-      "20/20": 80,
-      "21/0c": 0
-    },
-    "averageProfit": 29.55276595744681
-  },
-  {
-    "gemName": "Freezing Pulse",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 402.68,
-      "21/20c": 222.22,
-      "20/23c": 9.38,
-      "20/20c": 5,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 28.458297872340424
-  },
-  {
-    "gemName": "Anomalous Arctic Armour",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 172,
-      "21/20c": 172,
-      "20/23c": 101.01,
-      "20/20c": 36.64,
+      "21/23c": 270.97,
+      "21/20c": 250.09,
+      "20/23c": 18.27,
+      "20/20c": 10,
       "20/20": 40,
       "21/0c": 0
     },
-    "averageProfit": 28.41127659574468
+    "averageProfit": 21.001914893617027
   },
   {
-    "gemName": "Barrage Support",
-    "lowConfidence": false,
+    "gemName": "Wrath",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 292.93,
-      "21/20c": 161.62,
-      "20/23c": 55,
-      "20/20c": 30,
-      "20/20": 33,
-      "21/0c": 0
-    },
-    "averageProfit": 27.7195744680851
-  },
-  {
-    "gemName": "Anger",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 252.52,
-      "21/20c": 208.92,
+      "21/23c": 193,
+      "21/20c": 207.27,
       "20/23c": 30,
       "20/20c": 25,
-      "20/20": 33,
+      "20/20": 36.98,
       "21/0c": 0
     },
-    "averageProfit": 27.56170212765958
+    "averageProfit": 20.768085106382983
   },
   {
-    "gemName": "Anomalous Herald of Ice",
+    "gemName": "Elemental Hit",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 316.34,
-      "21/20c": 316.34,
-      "20/23c": 90.65,
-      "20/20c": 40,
-      "20/20": 71.05,
+      "21/23c": 412.42,
+      "21/20c": 222.08,
+      "20/23c": 5,
+      "20/20c": 4,
+      "20/20": 36.95,
       "21/0c": 0
     },
-    "averageProfit": 27.23191489361703
+    "averageProfit": 20.719787234042556
   },
   {
-    "gemName": "Ethereal Knives",
-    "lowConfidence": false,
+    "gemName": "Purity of Ice",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 179.6,
-      "21/20c": 202.02,
-      "20/23c": 22.74,
-      "20/20c": 14.9,
-      "20/20": 24.59,
+      "21/23c": 148.05,
+      "21/20c": 216.15,
+      "20/23c": 30,
+      "20/20c": 20,
+      "20/20": 35.07,
       "21/0c": 0
     },
-    "averageProfit": 26.865744680851062
+    "averageProfit": 20.57468085106384
   },
   {
-    "gemName": "Phantasmal Ancestral Protector",
+    "gemName": "Awakened Added Chaos Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "6/23c": 740.25,
+      "6/20c": 423.42,
+      "5/23c": 148.05,
+      "5/20c": 148.05,
+      "5/20": 161.86,
+      "6/0c": 0
+    },
+    "averageProfit": 20.46148936170212
+  },
+  {
+    "gemName": "Caustic Arrow",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 368.17,
-      "21/20c": 368.17,
-      "20/23c": 92.57,
-      "20/20c": 92.57,
-      "20/20": 101.01,
+      "21/23c": 207.27,
+      "21/20c": 207.27,
+      "20/23c": 11,
+      "20/20c": 7,
+      "20/20": 28.82,
       "21/0c": 0
     },
-    "averageProfit": 26.563404255319156
+    "averageProfit": 19.76936170212766
   },
   {
-    "gemName": "Purity of Fire",
-    "lowConfidence": false,
+    "gemName": "Blade Blast",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 180.35,
-      "21/20c": 183.28,
-      "20/23c": 29,
-      "20/20c": 24.47,
-      "20/20": 26.2,
+      "21/23c": 325.39,
+      "21/20c": 192.46,
+      "20/23c": 5,
+      "20/20c": 3,
+      "20/20": 29,
       "21/0c": 0
     },
-    "averageProfit": 26.554468085106382
+    "averageProfit": 19.584255319148937
   },
   {
-    "gemName": "Ice Nova",
+    "gemName": "Infused Channelling Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 292.93,
-      "21/20c": 220.34,
-      "20/23c": 15,
-      "20/20c": 10,
+      "21/23c": 222.08,
+      "21/20c": 146.59,
+      "20/23c": 30,
+      "20/20c": 25.27,
       "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": 26.24638297872341
+    "averageProfit": 18.748936170212772
   },
   {
-    "gemName": "Ice Spear",
-    "lowConfidence": false,
+    "gemName": "Vortex",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 372.51,
-      "21/20c": 216.71,
-      "20/23c": 14.21,
-      "20/20c": 10,
-      "20/20": 33.2,
+      "21/23c": 251.68,
+      "21/20c": 177.66,
+      "20/23c": 8,
+      "20/20c": 5,
+      "20/20": 25.55,
       "21/0c": 0
     },
-    "averageProfit": 25.663617021276593
+    "averageProfit": 18.63382978723404
   },
   {
-    "gemName": "Divergent Multistrike Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Deadly Ailments Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 404.04,
-      "21/20c": 404.04,
-      "20/23c": 202.02,
-      "20/20c": 121.21,
-      "20/20": 141.41,
+      "6/23c": 2664.9,
+      "6/20c": 1332.45,
+      "5/23c": 592.2,
+      "5/20c": 592.2,
+      "5/20": 636.62,
+      "6/0c": 0
+    },
+    "averageProfit": 18.58000000000004
+  },
+  {
+    "gemName": "Exsanguinate",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 192.46,
+      "21/20c": 148.05,
+      "20/23c": 4,
+      "20/20c": 3,
+      "20/20": 17,
       "21/0c": 0
     },
-    "averageProfit": 24.503617021276597
+    "averageProfit": 18.177021276595752
+  },
+  {
+    "gemName": "Awakened Minion Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "6/23c": 1036.35,
+      "6/20c": 1036.35,
+      "5/23c": 435.18,
+      "5/20c": 435.18,
+      "5/20": 433.83,
+      "6/0c": 0
+    },
+    "averageProfit": 18.148723404255293
+  },
+  {
+    "gemName": "Freezing Pulse",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 266.49,
+      "21/20c": 220.16,
+      "20/23c": 7,
+      "20/20c": 4,
+      "20/20": 34.01,
+      "21/0c": 0
+    },
+    "averageProfit": 17.50617021276596
+  },
+  {
+    "gemName": "Vile Toxins Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 148.05,
+      "21/20c": 148.05,
+      "20/23c": 30,
+      "20/20c": 26.48,
+      "20/20": 29,
+      "21/0c": 0
+    },
+    "averageProfit": 17.25914893617022
   },
   {
     "gemName": "Efficacy Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 303.03,
-      "21/20c": 101.01,
+      "21/23c": 191.31,
+      "21/20c": 87.57,
       "20/23c": 20,
-      "20/20c": 14.67,
-      "20/20": 15,
+      "20/20c": 12,
+      "20/20": 14,
       "21/0c": 0
     },
-    "averageProfit": 23.911914893617023
+    "averageProfit": 16.961276595744675
   },
   {
-    "gemName": "Wrath",
-    "lowConfidence": false,
+    "gemName": "Cyclone",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 212.12,
-      "21/20c": 193.76,
-      "20/23c": 24,
-      "20/20c": 18,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 22.73021276595744
-  },
-  {
-    "gemName": "Hexblast",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 232.32,
-      "21/20c": 232.32,
-      "20/23c": 35.91,
+      "21/23c": 444.15,
+      "21/20c": 148.05,
+      "20/23c": 11.04,
       "20/20c": 10,
-      "20/20": 37.58,
+      "20/20": 32.89,
       "21/0c": 0
     },
-    "averageProfit": 22.130425531914895
+    "averageProfit": 16.728297872340427
   },
   {
-    "gemName": "Trap and Mine Damage Support",
+    "gemName": "Purity of Lightning",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 202.02,
-      "21/20c": 139.53,
-      "20/23c": 25.36,
+      "21/23c": 100,
+      "21/20c": 134.36,
+      "20/23c": 19.07,
+      "20/20c": 13.48,
+      "20/20": 18.94,
+      "21/0c": 0
+    },
+    "averageProfit": 16.425744680851064
+  },
+  {
+    "gemName": "Blade Flurry",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 179.35,
+      "21/20c": 148.05,
+      "20/23c": 17.81,
+      "20/20c": 14,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": 16.008297872340435
+  },
+  {
+    "gemName": "Combustion Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 164.65,
+      "21/20c": 110,
+      "20/23c": 30,
+      "20/20c": 23.59,
+      "20/20": 24,
+      "21/0c": 0
+    },
+    "averageProfit": 15.505106382978724
+  },
+  {
+    "gemName": "Ice Nova",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 296.1,
+      "21/20c": 192.46,
+      "20/23c": 10,
+      "20/20c": 9,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": 15.337872340425534
+  },
+  {
+    "gemName": "Slower Projectiles Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 148.05,
+      "21/20c": 134.65,
+      "20/23c": 39,
+      "20/20c": 33.35,
+      "20/20": 33,
+      "21/0c": 0
+    },
+    "averageProfit": 15.040425531914892
+  },
+  {
+    "gemName": "Corrupting Fever",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 143.79,
+      "21/20c": 117.8,
+      "20/23c": 10,
+      "20/20c": 8,
+      "20/20": 17,
+      "21/0c": 0
+    },
+    "averageProfit": 13.808085106382979
+  },
+  {
+    "gemName": "Purity of Fire",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 131.8,
+      "21/20c": 124.42,
+      "20/23c": 27.03,
       "20/20c": 20,
-      "20/20": 22,
+      "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": 22.01106382978724
-  },
-  {
-    "gemName": "Hydrosphere",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 191.92,
-      "21/20c": 179.97,
-      "20/23c": 50.45,
-      "20/20c": 38,
-      "20/20": 40,
-      "21/0c": 0
-    },
-    "averageProfit": 21.396808510638294
-  },
-  {
-    "gemName": "Frostbolt",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 171.72,
-      "21/20c": 162.71,
-      "20/23c": 30,
-      "20/20c": 28.39,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 20.411914893617016
-  },
-  {
-    "gemName": "Second Wind Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 303.03,
-      "21/20c": 119.53,
-      "20/23c": 30,
-      "20/20c": 29.35,
-      "20/20": 30,
-      "21/0c": 0
-    },
-    "averageProfit": 18.976595744680857
-  },
-  {
-    "gemName": "Berserk",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 202.02,
-      "21/20c": 151.52,
-      "20/23c": 50.89,
-      "20/20c": 38,
-      "20/20": 38.34,
-      "21/0c": 0
-    },
-    "averageProfit": 18.72829787234042
-  },
-  {
-    "gemName": "Inspiration Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 314.14,
-      "21/20c": 150.25,
-      "20/23c": 40,
-      "20/20c": 35,
-      "20/20": 40,
-      "21/0c": 0
-    },
-    "averageProfit": 18.51659574468085
-  },
-  {
-    "gemName": "Maim Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 188.75,
-      "21/20c": 99.59,
-      "20/23c": 30,
-      "20/20c": 19,
-      "20/20": 20,
-      "21/0c": 0
-    },
-    "averageProfit": 17.196170212765956
+    "averageProfit": 13.770851063829788
   },
   {
     "gemName": "Spellslinger",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 140.58,
-      "21/20c": 121.21,
-      "20/23c": 19.06,
-      "20/20c": 14.03,
-      "20/20": 18.96,
+      "21/23c": 114.39,
+      "21/20c": 90,
+      "20/23c": 19.91,
+      "20/20c": 14,
+      "20/20": 15,
       "21/0c": 0
     },
-    "averageProfit": 16.079574468085106
+    "averageProfit": 13.765319148936168
   },
   {
-    "gemName": "Less Duration Support",
+    "gemName": "Trap and Mine Damage Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 194.6,
-      "21/20c": 96.89,
+      "21/23c": 137.68,
+      "21/20c": 92.44,
+      "20/23c": 22.26,
+      "20/20c": 17,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": 13.642978723404251
+  },
+  {
+    "gemName": "High-Impact Mine Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 116.03,
+      "21/20c": 108.15,
+      "20/23c": 33.05,
+      "20/20c": 25.97,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": 13.515531914893614
+  },
+  {
+    "gemName": "Maim Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 159.96,
+      "21/20c": 110.78,
       "20/23c": 40,
-      "20/20c": 25,
+      "20/20c": 29.86,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 13.487659574468083
+  },
+  {
+    "gemName": "Fortify Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 188.14,
+      "21/20c": 86.18,
+      "20/23c": 30,
+      "20/20c": 20,
+      "20/20": 22,
+      "21/0c": 0
+    },
+    "averageProfit": 13.228085106382977
+  },
+  {
+    "gemName": "Pride",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 132,
+      "21/20c": 109.25,
+      "20/23c": 30,
+      "20/20c": 24,
       "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": 15.942978723404252
+    "averageProfit": 13.127659574468083
   },
   {
-    "gemName": "Divergent Melee Physical Damage Support",
+    "gemName": "Arrogance Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 130.95,
-      "21/20c": 130.95,
-      "20/23c": 62.39,
-      "20/20c": 25,
-      "20/20": 32.4,
+      "21/23c": 162.86,
+      "21/20c": 148.05,
+      "20/23c": 40,
+      "20/20c": 39.09,
+      "20/20": 40,
       "21/0c": 0
     },
-    "averageProfit": 15.91936170212766
+    "averageProfit": 13.097021276595747
   },
   {
-    "gemName": "Anomalous Glacial Cascade",
+    "gemName": "Shockwave Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 227.01,
-      "21/20c": 227.01,
-      "20/23c": 68.86,
-      "20/20c": 9.07,
-      "20/20": 49.24,
+      "21/23c": 97.35,
+      "21/20c": 116.05,
+      "20/23c": 28.11,
+      "20/20c": 17.77,
+      "20/20": 22.52,
       "21/0c": 0
     },
-    "averageProfit": 15.333617021276588
+    "averageProfit": 12.80787234042553
   },
   {
-    "gemName": "Chance to Bleed Support",
+    "gemName": "Ignite Proliferation Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 147.56,
-      "21/20c": 86.87,
-      "20/23c": 14,
-      "20/20c": 10,
-      "20/20": 12,
+      "21/23c": 78.6,
+      "21/20c": 87.78,
+      "20/23c": 19.86,
+      "20/20c": 15.88,
+      "20/20": 15,
       "21/0c": 0
     },
-    "averageProfit": 15.150638297872344
+    "averageProfit": 12.494893617021276
   },
   {
-    "gemName": "Swiftbrand Support",
+    "gemName": "Despair",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 120,
+      "21/20c": 100,
+      "20/23c": 27.08,
+      "20/20c": 20,
+      "20/20": 22,
+      "21/0c": 0
+    },
+    "averageProfit": 12.121702127659574
+  },
+  {
+    "gemName": "Predator Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 181.5,
-      "21/20c": 142.77,
+      "21/23c": 120,
+      "21/20c": 117.03,
       "20/23c": 35,
-      "20/20c": 37.2,
-      "20/20": 36.34,
+      "20/20c": 29,
+      "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": 15.050638297872332
-  },
-  {
-    "gemName": "Winter Orb",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 121.21,
-      "21/20c": 123.19,
-      "20/23c": 15.39,
-      "20/20c": 14.85,
-      "20/20": 20,
-      "21/0c": 0
-    },
-    "averageProfit": 14.128723404255318
-  },
-  {
-    "gemName": "Ice Shot",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 181.82,
-      "21/20c": 141.41,
-      "20/23c": 15,
-      "20/20c": 10,
-      "20/20": 25,
-      "21/0c": 0
-    },
-    "averageProfit": 13.083404255319145
-  },
-  {
-    "gemName": "Kinetic Bolt",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 131.31,
-      "21/20c": 100.65,
-      "20/23c": 20.57,
-      "20/20c": 13,
-      "20/20": 19,
-      "21/0c": 0
-    },
-    "averageProfit": 12.084042553191491
+    "averageProfit": 11.600851063829786
   },
   {
     "gemName": "Vitality",
     "lowConfidence": false,
     "prices": {
       "21/23c": 120,
-      "21/20c": 101.01,
-      "20/23c": 28.78,
-      "20/20c": 25,
-      "20/20": 25,
-      "21/0c": 0
-    },
-    "averageProfit": 11.321276595744678
-  },
-  {
-    "gemName": "Anomalous General's Cry",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 87.13,
-      "21/20c": 87.13,
-      "20/23c": 64.4,
-      "20/20c": 28.4,
-      "20/20": 29.28,
-      "21/0c": 0
-    },
-    "averageProfit": 11.258297872340421
-  },
-  {
-    "gemName": "Lancing Steel",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 90,
-      "21/20c": 101.01,
-      "20/23c": 29.85,
-      "20/20c": 20,
-      "20/20": 22.47,
-      "21/0c": 0
-    },
-    "averageProfit": 11.077446808510636
-  },
-  {
-    "gemName": "Mirage Archer Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 90,
-      "21/20c": 80,
-      "20/23c": 18,
-      "20/20c": 15,
-      "20/20": 15,
-      "21/0c": 0
-    },
-    "averageProfit": 11
-  },
-  {
-    "gemName": "Phase Run",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 50,
-      "21/20c": 80,
-      "20/23c": 70,
-      "20/20c": 34,
-      "20/20": 30.95,
-      "21/0c": 0
-    },
-    "averageProfit": 9.773404255319146
-  },
-  {
-    "gemName": "Bonechill Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 151.52,
-      "21/20c": 121.21,
-      "20/23c": 39.24,
-      "20/20c": 35.56,
-      "20/20": 37,
-      "21/0c": 0
-    },
-    "averageProfit": 9.698723404255318
-  },
-  {
-    "gemName": "Vortex",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 130.1,
-      "21/20c": 101.01,
-      "20/23c": 13.41,
-      "20/20c": 9.37,
-      "20/20": 19,
-      "21/0c": 0
-    },
-    "averageProfit": 9.48702127659574
-  },
-  {
-    "gemName": "Creeping Frost",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 75.62,
-      "21/20c": 75.16,
-      "20/23c": 18.14,
-      "20/20c": 10,
-      "20/20": 14.02,
-      "21/0c": 0
-    },
-    "averageProfit": 8.868936170212766
-  },
-  {
-    "gemName": "Divergent Blood Rage",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 101.01,
-      "20/23c": 61.46,
-      "20/20c": 31.02,
-      "20/20": 35,
-      "21/0c": 0
-    },
-    "averageProfit": 8.820425531914893
-  },
-  {
-    "gemName": "Lightning Arrow",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 101.01,
-      "20/23c": 36.73,
-      "20/20c": 25,
-      "20/20": 29.63,
-      "21/0c": 0
-    },
-    "averageProfit": 7.4055319148936185
-  },
-  {
-    "gemName": "Malevolence",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 76.71,
-      "21/20c": 64.36,
-      "20/23c": 17,
-      "20/20c": 14,
-      "20/20": 15,
-      "21/0c": 0
-    },
-    "averageProfit": 7.240425531914891
-  },
-  {
-    "gemName": "Increased Critical Strikes Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 70,
-      "20/23c": 20,
-      "20/20c": 19,
-      "20/20": 20,
-      "21/0c": 0
-    },
-    "averageProfit": 6.511063829787233
-  },
-  {
-    "gemName": "Dash",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 141.41,
-      "21/20c": 70,
-      "20/23c": 26.89,
-      "20/20c": 24,
-      "20/20": 25,
-      "21/0c": 0
-    },
-    "averageProfit": 6.25170212765957
-  },
-  {
-    "gemName": "Close Combat Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 89.86,
-      "21/20c": 89.53,
-      "20/23c": 28,
-      "20/20c": 25.67,
-      "20/20": 27,
-      "21/0c": 0
-    },
-    "averageProfit": 6.1634042553191435
-  },
-  {
-    "gemName": "Charged Mines Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 90,
-      "20/23c": 50,
-      "20/20c": 35,
-      "20/20": 35,
-      "21/0c": 0
-    },
-    "averageProfit": 6.106808510638295
-  },
-  {
-    "gemName": "Swift Assembly Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 87.57,
-      "20/23c": 40,
-      "20/20c": 29.45,
-      "20/20": 31.51,
-      "21/0c": 0
-    },
-    "averageProfit": 5.378936170212757
-  },
-  {
-    "gemName": "Awakened Arrow Nova Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 727.48,
-      "6/20c": 329.66,
-      "5/23c": 122.34,
-      "5/20c": 122.34,
-      "5/20": 147.04,
-      "6/0c": 0
-    },
-    "averageProfit": 5.1034042553191625
-  },
-  {
-    "gemName": "Item Rarity Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 90,
-      "21/20c": 95.27,
-      "20/23c": 93.49,
-      "20/20c": 45.85,
-      "20/20": 50,
-      "21/0c": 0
-    },
-    "averageProfit": 3.556808510638291
-  },
-  {
-    "gemName": "Caustic Arrow",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 65,
-      "21/20c": 70,
-      "20/23c": 9,
-      "20/20c": 5,
-      "20/20": 14.84,
-      "21/0c": 0
-    },
-    "averageProfit": 3.266382978723403
-  },
-  {
-    "gemName": "Awakened Cast While Channelling Support",
-    "lowConfidence": false,
-    "prices": {
-      "6/23c": 1024.63,
-      "6/20c": 309.45,
-      "5/23c": 151.52,
-      "5/20c": 151.52,
-      "5/20": 173.92,
-      "6/0c": 0
-    },
-    "averageProfit": 2.949361702127675
-  },
-  {
-    "gemName": "General's Cry",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 69.15,
-      "21/20c": 48.76,
-      "20/23c": 40.99,
-      "20/20c": 20,
-      "20/20": 23.04,
-      "21/0c": 0
-    },
-    "averageProfit": 2.859787234042553
-  },
-  {
-    "gemName": "Ignite Proliferation Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 101.01,
-      "21/20c": 73.82,
-      "20/23c": 30,
-      "20/20c": 21.91,
-      "20/20": 28,
-      "21/0c": 0
-    },
-    "averageProfit": 2.066808510638296
-  },
-  {
-    "gemName": "Cast when Damage Taken Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 65,
-      "21/20c": 59,
-      "20/23c": 30,
-      "20/20c": 25,
-      "20/20": 25.08,
-      "21/0c": 0
-    },
-    "averageProfit": 1.9838297872340434
-  },
-  {
-    "gemName": "Arcane Cloak",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 70,
-      "21/20c": 66.22,
-      "20/23c": 25,
-      "20/20c": 20,
-      "20/20": 24,
-      "21/0c": 0
-    },
-    "averageProfit": 1.8459574468085087
-  },
-  {
-    "gemName": "Blastchain Mine Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 40,
-      "21/20c": 40,
-      "20/23c": 19.99,
-      "20/20c": 15,
-      "20/20": 16,
-      "21/0c": 0
-    },
-    "averageProfit": 1.444893617021279
-  },
-  {
-    "gemName": "Arc",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 69,
-      "21/20c": 65,
-      "20/23c": 10.4,
-      "20/20c": 8.47,
-      "20/20": 18,
-      "21/0c": 0
-    },
-    "averageProfit": 0.8748936170212751
-  },
-  {
-    "gemName": "Crackling Lance",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 25,
-      "21/20c": 46.5,
-      "20/23c": 15,
-      "20/20c": 9.05,
-      "20/20": 14.08,
-      "21/0c": 0
-    },
-    "averageProfit": 0.8519148936170211
-  },
-  {
-    "gemName": "Galvanic Arrow",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 40,
-      "21/20c": 45.89,
-      "20/23c": 25,
-      "20/20c": 18.5,
-      "20/20": 20,
-      "21/0c": 0
-    },
-    "averageProfit": 0.5982978723404244
-  },
-  {
-    "gemName": "Pierce Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 43.86,
-      "21/20c": 40,
-      "20/23c": 20,
-      "20/20c": 14.27,
-      "20/20": 17,
-      "21/0c": 0
-    },
-    "averageProfit": 0.3625531914893614
-  },
-  {
-    "gemName": "Steelskin",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 65,
-      "21/20c": 60,
-      "20/23c": 32.01,
+      "21/20c": 120,
+      "20/23c": 33.4,
       "20/20c": 28,
-      "20/20": 29,
+      "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": -0.3597872340425532
+    "averageProfit": 11.459574468085108
   },
   {
-    "gemName": "Greater Volley Support",
+    "gemName": "Pulverise Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 35,
-      "21/20c": 29.32,
+      "21/23c": 162.86,
+      "21/20c": 118.98,
       "20/23c": 30,
-      "20/20c": 18.18,
-      "20/20": 19.19,
+      "20/20c": 25,
+      "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": -0.7763829787234044
+    "averageProfit": 11.437446808510636
   },
   {
-    "gemName": "Ice Bite Support",
+    "gemName": "Greater Multiple Projectiles Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 70,
-      "21/20c": 54.28,
-      "20/23c": 26.17,
-      "20/20c": 19.73,
-      "20/20": 24.74,
+      "21/23c": 177.66,
+      "21/20c": 100,
+      "20/23c": 39.54,
+      "20/20c": 33,
+      "20/20": 32,
       "21/0c": 0
     },
-    "averageProfit": -0.7942553191489345
+    "averageProfit": 11.38680851063829
   },
   {
-    "gemName": "Added Cold Damage Support",
+    "gemName": "Animate Guardian",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 35,
-      "21/20c": 30,
-      "20/23c": 15,
-      "20/20c": 12.07,
-      "20/20": 15,
-      "21/0c": 0
-    },
-    "averageProfit": -1.4229787234042561
-  },
-  {
-    "gemName": "Purifying Flame",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 16.06,
-      "21/20c": 19.43,
-      "20/23c": 10,
-      "20/20c": 9.91,
-      "20/20": 10.78,
-      "21/0c": 0
-    },
-    "averageProfit": -1.5008510638297867
-  },
-  {
-    "gemName": "Increased Area of Effect Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 35,
-      "21/20c": 24,
-      "20/23c": 15,
-      "20/20c": 14,
-      "20/20": 15,
-      "21/0c": 0
-    },
-    "averageProfit": -1.787234042553191
-  },
-  {
-    "gemName": "Molten Strike",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 30,
-      "21/20c": 31.2,
-      "20/23c": 15,
-      "20/20c": 5,
-      "20/20": 13,
-      "21/0c": 0
-    },
-    "averageProfit": -1.8382978723404246
-  },
-  {
-    "gemName": "Spark",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 22.84,
-      "21/20c": 28.79,
+      "21/23c": 177.66,
+      "21/20c": 177.66,
       "20/23c": 16.37,
-      "20/20c": 14.57,
-      "20/20": 16.1,
+      "20/20c": 13,
+      "20/20": 34,
       "21/0c": 0
     },
-    "averageProfit": -2.132978723404257
+    "averageProfit": 11.360212765957442
   },
   {
-    "gemName": "Tectonic Slam",
+    "gemName": "Anger",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 17,
-      "21/20c": 15.31,
-      "20/23c": 8.7,
-      "20/20c": 5,
-      "20/20": 9,
+      "21/23c": 141.61,
+      "21/20c": 101.9,
+      "20/23c": 26.75,
+      "20/20c": 22,
+      "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": -2.3025531914893618
+    "averageProfit": 10.982340425531916
   },
   {
-    "gemName": "Armageddon Brand",
-    "lowConfidence": false,
+    "gemName": "Sniper's Mark",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 14,
-      "21/20c": 14.51,
-      "20/23c": 7.48,
-      "20/20c": 6,
-      "20/20": 9,
+      "21/23c": 129.63,
+      "21/20c": 120,
+      "20/23c": 39.97,
+      "20/20c": 35,
+      "20/20": 34.8,
       "21/0c": 0
     },
-    "averageProfit": -2.4595744680851066
+    "averageProfit": 10.7104255319149
   },
   {
-    "gemName": "Ice Crash",
+    "gemName": "Flame Wall",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 40,
-      "21/20c": 34.18,
-      "20/23c": 18.57,
-      "20/20c": 10,
-      "20/20": 17.15,
+      "21/23c": 110,
+      "21/20c": 80,
+      "20/23c": 5,
+      "20/20c": 4,
+      "20/20": 10,
       "21/0c": 0
     },
-    "averageProfit": -2.669787234042552
+    "averageProfit": 10.617021276595743
   },
   {
-    "gemName": "Elemental Army Support",
-    "lowConfidence": false,
+    "gemName": "Swiftbrand Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 80.86,
-      "21/20c": 70,
+      "21/23c": 148.05,
+      "21/20c": 130.52,
       "20/23c": 35,
       "20/20c": 30,
       "20/20": 35,
       "21/0c": 0
     },
-    "averageProfit": -2.7293617021276617
+    "averageProfit": 10.431063829787234
   },
   {
-    "gemName": "Infernal Blow",
+    "gemName": "Essence Drain",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 14,
-      "21/20c": 13.47,
-      "20/23c": 12.87,
-      "20/20c": 8,
-      "20/20": 11.02,
-      "21/0c": 0
-    },
-    "averageProfit": -2.9436170212765944
-  },
-  {
-    "gemName": "Wither",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 17,
-      "21/20c": 15.08,
-      "20/23c": 13,
-      "20/20c": 12,
-      "20/20": 13,
-      "21/0c": 0
-    },
-    "averageProfit": -3.135319148936169
-  },
-  {
-    "gemName": "Detonate Dead",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 10,
-      "21/20c": 8.44,
+      "21/23c": 177.66,
+      "21/20c": 147.94,
       "20/23c": 5,
-      "20/20c": 5,
-      "20/20": 8,
+      "20/20c": 3,
+      "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": -3.478297872340426
+    "averageProfit": 9.719999999999999
   },
   {
-    "gemName": "Frost Shield",
+    "gemName": "General's Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 118.44,
+      "21/20c": 96.3,
+      "20/23c": 25.1,
+      "20/20c": 20,
+      "20/20": 24,
+      "21/0c": 0
+    },
+    "averageProfit": 9.046382978723408
+  },
+  {
+    "gemName": "Brutality Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 14,
-      "21/20c": 15,
-      "20/23c": 12.92,
+      "21/23c": 120,
+      "21/20c": 44.04,
+      "20/23c": 28.41,
+      "20/20c": 15,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": 8.149148936170214
+  },
+  {
+    "gemName": "Arcane Surge Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 135.87,
+      "21/20c": 100,
+      "20/23c": 30,
+      "20/20c": 28,
+      "20/20": 29.99,
+      "21/0c": 0
+    },
+    "averageProfit": 8.089574468085107
+  },
+  {
+    "gemName": "Inspiration Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 196.43,
+      "21/20c": 110,
+      "20/23c": 40,
+      "20/20c": 38,
+      "20/20": 40,
+      "21/0c": 0
+    },
+    "averageProfit": 7.67787234042553
+  },
+  {
+    "gemName": "Malevolence",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 118.44,
+      "21/20c": 83.13,
+      "20/23c": 24.24,
+      "20/20c": 20,
+      "20/20": 23.17,
+      "21/0c": 0
+    },
+    "averageProfit": 7.469999999999995
+  },
+  {
+    "gemName": "Barrage Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 120.96,
+      "21/20c": 100,
+      "20/23c": 55.29,
+      "20/20c": 37,
+      "20/20": 38,
+      "21/0c": 0
+    },
+    "averageProfit": 7.351702127659571
+  },
+  {
+    "gemName": "Herald of Purity",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 85,
+      "21/20c": 78.5,
+      "20/23c": 20,
+      "20/20c": 18,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 6.936170212765958
+  },
+  {
+    "gemName": "Summon Phantasm Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 141.51,
+      "21/20c": 94.84,
+      "20/23c": 10.37,
       "20/20c": 8,
-      "20/20": 12.36,
+      "20/20": 20,
       "21/0c": 0
     },
-    "averageProfit": -4.013617021276595
+    "averageProfit": 6.87382978723404
   },
   {
-    "gemName": "Life Leech Support",
-    "lowConfidence": false,
+    "gemName": "Second Wind Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 14,
-      "21/20c": 11.98,
-      "20/23c": 11.88,
-      "20/20c": 10,
-      "20/20": 12.43,
+      "21/23c": 148.05,
+      "21/20c": 80,
+      "20/23c": 35,
+      "20/20c": 30,
+      "20/20": 30,
       "21/0c": 0
     },
-    "averageProfit": -4.11595744680851
+    "averageProfit": 6.831914893617025
   },
   {
-    "gemName": "Immolate Support",
-    "lowConfidence": false,
+    "gemName": "Herald of Agony",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 18,
-      "21/20c": 17.47,
-      "20/23c": 13.9,
-      "20/20c": 12,
-      "20/20": 14.66,
+      "21/23c": 50,
+      "21/20c": 56.58,
+      "20/23c": 14.94,
+      "20/20c": 8,
+      "20/20": 10.86,
       "21/0c": 0
     },
-    "averageProfit": -4.173617021276597
+    "averageProfit": 6.482553191489362
   },
   {
-    "gemName": "Spectral Shield Throw",
-    "lowConfidence": false,
+    "gemName": "Glacial Cascade",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 10,
-      "21/20c": 5,
-      "20/23c": 4.58,
-      "20/20c": 4.11,
-      "20/20": 8,
+      "21/23c": 117.5,
+      "21/20c": 81.95,
+      "20/23c": 9.51,
+      "20/20c": 5,
+      "20/20": 16.32,
       "21/0c": 0
     },
-    "averageProfit": -4.447234042553191
+    "averageProfit": 6.152127659574472
   },
   {
-    "gemName": "Fork Support",
+    "gemName": "Chance to Bleed Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 11.31,
-      "21/20c": 11.01,
-      "20/23c": 12,
-      "20/20c": 7.38,
-      "20/20": 12,
-      "21/0c": 0
-    },
-    "averageProfit": -4.834468085106383
-  },
-  {
-    "gemName": "Volley Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 18.36,
-      "21/20c": 19.42,
+      "21/23c": 90,
+      "21/20c": 54.84,
       "20/23c": 15,
-      "20/20c": 14.41,
-      "20/20": 17.37,
+      "20/20c": 12,
+      "20/20": 14,
       "21/0c": 0
     },
-    "averageProfit": -5.505319148936172
+    "averageProfit": 6.121702127659574
   },
   {
-    "gemName": "Bear Trap",
+    "gemName": "Multistrike Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 7.16,
-      "21/20c": 0,
-      "20/23c": 7.5,
-      "20/20c": 7.5,
+      "21/23c": 168.17,
+      "21/20c": 98.34,
+      "20/23c": 35,
+      "20/20c": 26.84,
+      "20/20": 34,
+      "21/0c": 0
+    },
+    "averageProfit": 5.734042553191493
+  },
+  {
+    "gemName": "Penance Brand",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 90,
+      "21/20c": 96.59,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 18.16,
+      "21/0c": 0
+    },
+    "averageProfit": 5.727659574468085
+  },
+  {
+    "gemName": "Bladefall",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 58.9,
+      "20/23c": 16,
+      "20/20c": 9.62,
+      "20/20": 13.29,
+      "21/0c": 0
+    },
+    "averageProfit": 5.627446808510637
+  },
+  {
+    "gemName": "Spell Echo Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 105.87,
+      "21/20c": 85,
+      "20/23c": 35,
+      "20/20c": 28,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 5.207234042553196
+  },
+  {
+    "gemName": "Cast when Stunned Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 70,
+      "20/23c": 5,
+      "20/20c": 5.32,
       "20/20": 10,
       "21/0c": 0
     },
-    "averageProfit": -5.70595744680851
+    "averageProfit": 4.853617021276595
+  },
+  {
+    "gemName": "Elemental Proliferation Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 70,
+      "20/23c": 18.11,
+      "20/20c": 7.06,
+      "20/20": 13.58,
+      "21/0c": 0
+    },
+    "averageProfit": 4.631702127659571
+  },
+  {
+    "gemName": "Dread Banner",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 80,
+      "21/20c": 79.83,
+      "20/23c": 28,
+      "20/20c": 25,
+      "20/20": 26.24,
+      "21/0c": 0
+    },
+    "averageProfit": 4.624680851063832
+  },
+  {
+    "gemName": "Controlled Destruction Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 100,
+      "21/20c": 49,
+      "20/23c": 20,
+      "20/20c": 18,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": 4.553191489361701
+  },
+  {
+    "gemName": "Intensify Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 80,
+      "21/20c": 79,
+      "20/23c": 27.02,
+      "20/20c": 21.81,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": 4.4497872340425495
+  },
+  {
+    "gemName": "Arcane Cloak",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 103.64,
+      "21/20c": 87.61,
+      "20/23c": 30,
+      "20/20c": 27.38,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 4.388085106382981
+  },
+  {
+    "gemName": "Increased Critical Strikes Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 90,
+      "21/20c": 80.26,
+      "20/23c": 32,
+      "20/20c": 28,
+      "20/20": 28.78,
+      "21/0c": 0
+    },
+    "averageProfit": 4.37063829787234
+  },
+  {
+    "gemName": "Zealotry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 120,
+      "21/20c": 78.56,
+      "20/23c": 30,
+      "20/20c": 20,
+      "20/20": 27.28,
+      "21/0c": 0
+    },
+    "averageProfit": 3.751489361702127
+  },
+  {
+    "gemName": "Immolate Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 13.32,
+      "21/20c": 63.45,
+      "20/23c": 13.85,
+      "20/20c": 10,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": 3.4231914893617024
+  },
+  {
+    "gemName": "Plague Bearer",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 132.6,
+      "21/20c": 106.21,
+      "20/23c": 15,
+      "20/20c": 9,
+      "20/20": 26.33,
+      "21/0c": 0
+    },
+    "averageProfit": 3.327021276595744
+  },
+  {
+    "gemName": "Reap",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 55,
+      "21/20c": 50,
+      "20/23c": 4.76,
+      "20/20c": 4,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": 3.1242553191489364
+  },
+  {
+    "gemName": "Bane",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 39.78,
+      "20/23c": 10,
+      "20/20c": 8,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": 3.1114893617021284
+  },
+  {
+    "gemName": "Life Gain on Hit Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 45,
+      "21/20c": 55.84,
+      "20/23c": 34.12,
+      "20/20c": 33.3,
+      "20/20": 26.2,
+      "21/0c": 0
+    },
+    "averageProfit": 3.0893617021276576
+  },
+  {
+    "gemName": "Frostbolt",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 95,
+      "21/20c": 80.71,
+      "20/23c": 38.21,
+      "20/20c": 30,
+      "20/20": 32.23,
+      "21/0c": 0
+    },
+    "averageProfit": 3.0800000000000054
+  },
+  {
+    "gemName": "Flame Dash",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 52.95,
+      "21/20c": 40,
+      "20/23c": 22,
+      "20/20c": 14,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": 3.0404255319148916
+  },
+  {
+    "gemName": "Lancing Steel",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 111.6,
+      "21/20c": 95.89,
+      "20/23c": 13.71,
+      "20/20c": 10,
+      "20/20": 24.06,
+      "21/0c": 0
+    },
+    "averageProfit": 3.040212765957449
+  },
+  {
+    "gemName": "Cast On Critical Strike Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 100,
+      "21/20c": 88.9,
+      "20/23c": 41.26,
+      "20/20c": 30.7,
+      "20/20": 34.95,
+      "21/0c": 0
+    },
+    "averageProfit": 2.789148936170207
+  },
+  {
+    "gemName": "Deadly Ailments Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 30,
+      "20/23c": 15,
+      "20/20c": 10,
+      "20/20": 11,
+      "21/0c": 0
+    },
+    "averageProfit": 2.5106382978723403
+  },
+  {
+    "gemName": "Frostbite",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 86.15,
+      "20/23c": 29.02,
+      "20/20c": 26.46,
+      "20/20": 28.86,
+      "21/0c": 0
+    },
+    "averageProfit": 2.496170212765957
+  },
+  {
+    "gemName": "Summon Raging Spirit",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 59.68,
+      "20/23c": 10,
+      "20/20c": 4,
+      "20/20": 13.58,
+      "21/0c": 0
+    },
+    "averageProfit": 2.4080851063829787
+  },
+  {
+    "gemName": "Steelskin",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 75,
+      "21/20c": 70,
+      "20/23c": 30,
+      "20/20c": 28,
+      "20/20": 28,
+      "21/0c": 0
+    },
+    "averageProfit": 2.3829787234042534
+  },
+  {
+    "gemName": "Melee Physical Damage Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 72.63,
+      "21/20c": 47.42,
+      "20/23c": 21.22,
+      "20/20c": 18,
+      "20/20": 19,
+      "21/0c": 0
+    },
+    "averageProfit": 2.3531914893616985
+  },
+  {
+    "gemName": "Pierce Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 76.31,
+      "21/20c": 49.04,
+      "20/23c": 20.32,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 2.2940425531914883
+  },
+  {
+    "gemName": "Purifying Flame",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 73.44,
+      "21/20c": 75,
+      "20/23c": 14.8,
+      "20/20c": 10,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 2.1293617021276603
+  },
+  {
+    "gemName": "Void Manipulation Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 39.5,
+      "21/20c": 30,
+      "20/23c": 11,
+      "20/20c": 9.35,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": 2.0765957446808514
+  },
+  {
+    "gemName": "Swift Affliction Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 73.3,
+      "21/20c": 45,
+      "20/23c": 23,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 1.9914893617021256
+  },
+  {
+    "gemName": "Elemental Focus Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 70,
+      "21/20c": 40,
+      "20/23c": 20,
+      "20/20c": 15.77,
+      "20/20": 17,
+      "21/0c": 0
+    },
+    "averageProfit": 1.9855319148936132
+  },
+  {
+    "gemName": "Lifetap Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 84.54,
+      "21/20c": 70,
+      "20/23c": 34,
+      "20/20c": 26.03,
+      "20/20": 29,
+      "21/0c": 0
+    },
+    "averageProfit": 1.8842553191489344
+  },
+  {
+    "gemName": "Summon Chaos Golem",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 55.57,
+      "21/20c": 50.43,
+      "20/23c": 25,
+      "20/20c": 17.82,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 1.8021276595744666
+  },
+  {
+    "gemName": "Multiple Totems Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 79.98,
+      "21/20c": 75,
+      "20/23c": 30,
+      "20/20c": 29,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 1.7863829787234025
+  },
+  {
+    "gemName": "Swift Assembly Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 33,
+      "20/23c": 15.83,
+      "20/20c": 10,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": 1.7546808510638296
+  },
+  {
+    "gemName": "Minion Life Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 80,
+      "21/20c": 70,
+      "20/23c": 32.91,
+      "20/20c": 29.52,
+      "20/20": 29.99,
+      "21/0c": 0
+    },
+    "averageProfit": 1.6804255319148922
+  },
+  {
+    "gemName": "Toxic Rain",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 162.86,
+      "21/20c": 133.24,
+      "20/23c": 5,
+      "20/20c": 3,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 1.5880851063829802
+  },
+  {
+    "gemName": "Split Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 43.95,
+      "20/23c": 7,
+      "20/20c": 4.77,
+      "20/20": 11,
+      "21/0c": 0
+    },
+    "averageProfit": 1.5727659574468085
+  },
+  {
+    "gemName": "Ice Spear",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 65,
+      "21/20c": 59.44,
+      "20/23c": 19.12,
+      "20/20c": 14,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": 1.310638297872341
+  },
+  {
+    "gemName": "Elemental Damage with Attacks Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 89,
+      "21/20c": 60,
+      "20/23c": 30,
+      "20/20c": 25,
+      "20/20": 27,
+      "21/0c": 0
+    },
+    "averageProfit": 1.2553191489361701
+  },
+  {
+    "gemName": "Minion Damage Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 42.19,
+      "21/20c": 25,
+      "20/23c": 12.9,
+      "20/20c": 8,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": 1.2442553191489374
+  },
+  {
+    "gemName": "Item Rarity Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 47.58,
+      "20/23c": 29.69,
+      "20/20c": 23.15,
+      "20/20": 23,
+      "21/0c": 0
+    },
+    "averageProfit": 1.2180851063829792
+  },
+  {
+    "gemName": "Flicker Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 50,
+      "20/23c": 23,
+      "20/20c": 15,
+      "20/20": 19,
+      "21/0c": 0
+    },
+    "averageProfit": 1.1489361702127638
+  },
+  {
+    "gemName": "Blazing Salvo",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 49.79,
+      "21/20c": 45,
+      "20/23c": 5,
+      "20/20c": 3,
+      "20/20": 10.66,
+      "21/0c": 0
+    },
+    "averageProfit": 1.0970212765957434
+  },
+  {
+    "gemName": "Faster Attacks Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 77.07,
+      "21/20c": 59.7,
+      "20/23c": 40,
+      "20/20c": 29.05,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": 0.9902127659574447
+  },
+  {
+    "gemName": "Vicious Projectiles Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 39,
+      "21/20c": 30,
+      "20/23c": 18,
+      "20/20c": 14,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": 0.9787234042553195
+  },
+  {
+    "gemName": "Increased Duration Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 120.56,
+      "21/20c": 64.7,
+      "20/23c": 45,
+      "20/20c": 32.91,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": 0.9634042553191478
+  },
+  {
+    "gemName": "Summon Skitterbots",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 58,
+      "20/23c": 27.79,
+      "20/20c": 24,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": 0.91723404255319
+  },
+  {
+    "gemName": "Lightning Warp",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 50,
+      "20/23c": 9,
+      "20/20c": 7,
+      "20/20": 12.08,
+      "21/0c": 0
+    },
+    "averageProfit": 0.7923404255319149
+  },
+  {
+    "gemName": "Flammability",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 35,
+      "21/20c": 34.58,
+      "20/23c": 17,
+      "20/20c": 15,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": 0.7370212765957458
+  },
+  {
+    "gemName": "Cruelty Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 30,
+      "20/23c": 18.6,
+      "20/20c": 14,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": 0.7106382978723396
+  },
+  {
+    "gemName": "Culling Strike Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 55.63,
+      "21/20c": 43.67,
+      "20/23c": 35,
+      "20/20c": 27,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": 0.6940425531914869
+  },
+  {
+    "gemName": "Lesser Multiple Projectiles Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 60,
+      "20/23c": 26.37,
+      "20/20c": 20,
+      "20/20": 24,
+      "21/0c": 0
+    },
+    "averageProfit": 0.6240425531914902
+  },
+  {
+    "gemName": "Purity of Elements",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 22.46,
+      "21/20c": 21,
+      "20/23c": 16.21,
+      "20/20c": 11.3,
+      "20/20": 11,
+      "21/0c": 0
+    },
+    "averageProfit": 0.48106382978723516
+  },
+  {
+    "gemName": "Bonechill Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 60.87,
+      "21/20c": 61.41,
+      "20/23c": 45,
+      "20/20c": 40,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": 0.2770212765957396
+  },
+  {
+    "gemName": "Awakened Elemental Damage with Attacks Support",
+    "lowConfidence": true,
+    "prices": {
+      "6/23c": 2842.41,
+      "6/20c": 1040.99,
+      "5/23c": 720.29,
+      "5/20c": 720.29,
+      "5/20": 681.03,
+      "6/0c": 0
+    },
+    "averageProfit": 0.24638297872331805
+  },
+  {
+    "gemName": "Discharge",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40.45,
+      "21/20c": 39.22,
+      "20/23c": 10,
+      "20/20c": 5.65,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": 0.2353191489361688
+  },
+  {
+    "gemName": "Winter Orb",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 47.14,
+      "20/23c": 10,
+      "20/20c": 8,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": 0.2153191489361692
+  },
+  {
+    "gemName": "Burning Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 17,
+      "20/23c": 10,
+      "20/20c": 8,
+      "20/20": 8.68,
+      "21/0c": 0
+    },
+    "averageProfit": 0.1285106382978718
+  },
+  {
+    "gemName": "Puncture",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 29.76,
+      "21/20c": 30,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -0.010212765957446024
+  },
+  {
+    "gemName": "Ice Shot",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 56.07,
+      "21/20c": 42.63,
+      "20/23c": 12.98,
+      "20/20c": 8,
+      "20/20": 14.87,
+      "21/0c": 0
+    },
+    "averageProfit": -0.018936170212764836
+  },
+  {
+    "gemName": "Spark",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 40.45,
+      "20/23c": 19,
+      "20/20c": 18.49,
+      "20/20": 19,
+      "21/0c": 0
+    },
+    "averageProfit": -0.05446808510638235
+  },
+  {
+    "gemName": "Summon Lightning Golem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 40,
+      "20/23c": 19,
+      "20/20c": 17,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": -0.06382978723404165
+  },
+  {
+    "gemName": "Ice Crash",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 37.91,
+      "21/20c": 37.5,
+      "20/23c": 17.4,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -0.26765957446808564
+  },
+  {
+    "gemName": "Armageddon Brand",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 25,
+      "20/23c": 8,
+      "20/20c": 5,
+      "20/20": 9,
+      "21/0c": 0
+    },
+    "averageProfit": -0.44680851063829685
+  },
+  {
+    "gemName": "Creeping Frost",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 38.85,
+      "21/20c": 32.76,
+      "20/23c": 14.98,
+      "20/20c": 13,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -0.47659574468085
+  },
+  {
+    "gemName": "Feeding Frenzy Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 45,
+      "21/20c": 45,
+      "20/23c": 30,
+      "20/20c": 25,
+      "20/20": 24.4,
+      "21/0c": 0
+    },
+    "averageProfit": -0.5702127659574465
+  },
+  {
+    "gemName": "Tornado Shot",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 55,
+      "21/20c": 50,
+      "20/23c": 16.84,
+      "20/20c": 17.6,
+      "20/20": 20.64,
+      "21/0c": 0
+    },
+    "averageProfit": -0.5727659574468085
+  },
+  {
+    "gemName": "Unbound Ailments Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 34,
+      "21/20c": 30,
+      "20/23c": 15,
+      "20/20c": 14.66,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -0.5838297872340412
+  },
+  {
+    "gemName": "Faster Casting Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 30,
+      "20/23c": 22,
+      "20/20c": 16.4,
+      "20/20": 17.63,
+      "21/0c": 0
+    },
+    "averageProfit": -0.6002127659574477
+  },
+  {
+    "gemName": "Temporal Chains",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 37.01,
+      "20/23c": 25,
+      "20/20c": 19,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -0.7429787234042564
+  },
+  {
+    "gemName": "Precision",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 79.91,
+      "21/20c": 80,
+      "20/23c": 35,
+      "20/20c": 30,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": -1.067659574468081
+  },
+  {
+    "gemName": "Summon Flame Golem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 27.45,
+      "21/20c": 25,
+      "20/23c": 14,
+      "20/20c": 14,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -1.1297872340425528
+  },
+  {
+    "gemName": "Petrified Blood",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 60,
+      "20/23c": 30,
+      "20/20c": 30,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": -1.2765957446808507
+  },
+  {
+    "gemName": "Earthshatter",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 22,
+      "20/23c": 13,
+      "20/20c": 10,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -1.2978723404255312
+  },
+  {
+    "gemName": "Frost Blades",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 30,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 11.74,
+      "21/0c": 0
+    },
+    "averageProfit": -1.3144680851063821
+  },
+  {
+    "gemName": "Power Charge On Critical Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 112.07,
+      "21/20c": 70,
+      "20/23c": 40,
+      "20/20c": 35.89,
+      "20/20": 38,
+      "21/0c": 0
+    },
+    "averageProfit": -1.4387234042553203
+  },
+  {
+    "gemName": "Bloodthirst Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 47.43,
+      "20/23c": 25.05,
+      "20/20c": 25,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": -1.4917021276595719
+  },
+  {
+    "gemName": "Enduring Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 42,
+      "21/20c": 35,
+      "20/23c": 22.25,
+      "20/20c": 19,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -1.5265957446808507
+  },
+  {
+    "gemName": "Added Cold Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 45,
+      "21/20c": 37,
+      "20/23c": 20,
+      "20/20c": 18.8,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -1.5574468085106403
+  },
+  {
+    "gemName": "Power Siphon",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 34.02,
+      "21/20c": 33.06,
+      "20/23c": 15.38,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -1.5757446808510647
+  },
+  {
+    "gemName": "Flesh Offering",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 19,
+      "21/20c": 15.73,
+      "20/23c": 13,
+      "20/20c": 13,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -1.599148936170213
+  },
+  {
+    "gemName": "War Banner",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 25,
+      "20/23c": 18.73,
+      "20/20c": 15,
+      "20/20": 15.67,
+      "21/0c": 0
+    },
+    "averageProfit": -1.6578723404255307
+  },
+  {
+    "gemName": "Generosity Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 35,
+      "21/20c": 30.5,
+      "20/23c": 20,
+      "20/20c": 17,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": -1.7021276595744688
+  },
+  {
+    "gemName": "Fist of War Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40.96,
+      "21/20c": 44,
+      "20/23c": 20,
+      "20/20c": 15.22,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -1.7565957446808511
+  },
+  {
+    "gemName": "Energy Leech Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 64.96,
+      "21/20c": 70,
+      "20/23c": 33.02,
+      "20/20c": 30,
+      "20/20": 33,
+      "21/0c": 0
+    },
+    "averageProfit": -1.785106382978725
+  },
+  {
+    "gemName": "Summon Ice Golem",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40.08,
+      "21/20c": 40,
+      "20/23c": 24,
+      "20/20c": 20.83,
+      "20/20": 22,
+      "21/0c": 0
+    },
+    "averageProfit": -1.7991489361702122
+  },
+  {
+    "gemName": "Splitting Steel",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 21.21,
+      "20/23c": 15,
+      "20/20c": 10,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -1.8365957446808512
+  },
+  {
+    "gemName": "Kinetic Blast",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 24.42,
+      "21/20c": 23.78,
+      "20/23c": 14,
+      "20/20c": 12.91,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -1.837446808510638
+  },
+  {
+    "gemName": "Sweep",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 30,
+      "20/23c": 12,
+      "20/20c": 10,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -1.914893617021276
+  },
+  {
+    "gemName": "Arc",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 148.05,
+      "21/20c": 123.1,
+      "20/23c": 12,
+      "20/20c": 10,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": -2.0446808510638306
+  },
+  {
+    "gemName": "Frenzy",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 19,
+      "21/20c": 20,
+      "20/23c": 18.86,
+      "20/20c": 15,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -2.06936170212766
+  },
+  {
+    "gemName": "Arrow Nova Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 15,
+      "20/20c": 8.6,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.072340425531915
+  },
+  {
+    "gemName": "Fire Penetration Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 18.73,
+      "20/23c": 12.9,
+      "20/20c": 10,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -2.086382978723403
+  },
+  {
+    "gemName": "Added Chaos Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 11.9,
+      "21/20c": 12,
+      "20/23c": 10,
+      "20/20c": 10,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.1319148936170222
   },
   {
     "gemName": "Dominating Blow",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 10,
-      "21/20c": 9.48,
-      "20/23c": 4.56,
-      "20/20c": 3.67,
+      "21/23c": 14,
+      "21/20c": 15,
+      "20/23c": 10,
+      "20/20c": 8,
       "20/20": 10,
       "21/0c": 0
     },
-    "averageProfit": -5.8382978723404255
+    "averageProfit": -2.212765957446809
   },
   {
-    "gemName": "Vigilant Strike",
+    "gemName": "Increased Area of Effect Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 35,
-      "21/20c": 34.79,
-      "20/23c": 29.55,
-      "20/20c": 29,
-      "20/20": 29,
+      "21/23c": 39.52,
+      "21/20c": 37,
+      "20/23c": 24,
+      "20/20c": 24,
+      "20/20": 23,
       "21/0c": 0
     },
-    "averageProfit": -6.058085106382979
+    "averageProfit": -2.2544680851063816
   },
   {
-    "gemName": "Trinity Support",
+    "gemName": "Charged Traps Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6.17,
+      "21/20c": 23.27,
+      "20/23c": 9.3,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.2936170212765967
+  },
+  {
+    "gemName": "Enfeeble",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 76.5,
-      "21/20c": 50,
-      "20/23c": 25,
-      "20/20c": 29.43,
-      "20/20": 33,
+      "21/23c": 39,
+      "21/20c": 35.65,
+      "20/23c": 20,
+      "20/20c": 18,
+      "20/20": 20,
       "21/0c": 0
     },
-    "averageProfit": -6.42808510638298
+    "averageProfit": -2.3148936170212764
   },
   {
-    "gemName": "Anomalous Flesh Offering",
+    "gemName": "Awakened Arrow Nova Support",
+    "lowConfidence": true,
+    "prices": {
+      "6/23c": 1128.29,
+      "6/20c": 511.66,
+      "5/23c": 296.1,
+      "5/20c": 296.1,
+      "5/20": 294.94,
+      "6/0c": 0
+    },
+    "averageProfit": -2.336595744680835
+  },
+  {
+    "gemName": "Ice Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 18,
+      "21/20c": 19,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.382978723404256
+  },
+  {
+    "gemName": "Arcanist Brand",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 14.42,
+      "20/23c": 12,
+      "20/20c": 13,
+      "20/20": 12.2,
+      "21/0c": 0
+    },
+    "averageProfit": -2.383829787234042
+  },
+  {
+    "gemName": "Cluster Traps Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 101.01,
-      "20/20c": 101.01,
-      "20/20": 60.31,
+      "21/23c": 18.96,
+      "21/20c": 18.18,
+      "20/23c": 14.79,
+      "20/20c": 11.34,
+      "20/20": 13,
       "21/0c": 0
     },
-    "averageProfit": -6.581276595744683
+    "averageProfit": -2.406170212765957
   },
   {
-    "gemName": "Innervate Support",
+    "gemName": "Wave of Conviction",
     "lowConfidence": false,
+    "prices": {
+      "21/23c": 45,
+      "21/20c": 39.48,
+      "20/23c": 20,
+      "20/20c": 15,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -2.428936170212765
+  },
+  {
+    "gemName": "Poison Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 34,
+      "21/20c": 30.44,
+      "20/23c": 23,
+      "20/20c": 19,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -2.4995744680851075
+  },
+  {
+    "gemName": "Divine Ire",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 20,
+      "20/23c": 8,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.510638297872341
+  },
+  {
+    "gemName": "Spell Totem Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 29.85,
+      "21/20c": 28.97,
+      "20/23c": 23.25,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -2.5380851063829795
+  },
+  {
+    "gemName": "Lightning Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 29,
+      "21/20c": 26.97,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -2.5582978723404253
+  },
+  {
+    "gemName": "Unleash Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 26.37,
+      "21/20c": 20,
+      "20/23c": 18,
+      "20/20c": 13.07,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -2.577446808510638
+  },
+  {
+    "gemName": "Spell Cascade Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 32.68,
+      "21/20c": 29,
+      "20/23c": 22,
+      "20/20c": 19.47,
+      "20/20": 19.77,
+      "21/0c": 0
+    },
+    "averageProfit": -2.6023404255319136
+  },
+  {
+    "gemName": "Orb of Storms",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 9.77,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.631489361702128
+  },
+  {
+    "gemName": "Ethereal Knives",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30.53,
+      "21/20c": 33.78,
+      "20/23c": 10,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -2.6319148936170222
+  },
+  {
+    "gemName": "Added Lightning Damage Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 20,
+      "20/23c": 14,
+      "20/20c": 13,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -2.6382978723404253
+  },
+  {
+    "gemName": "Volatile Dead",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 37.8,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -2.6723404255319156
+  },
+  {
+    "gemName": "Intimidating Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 9.64,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.6757446808510643
+  },
+  {
+    "gemName": "Lightning Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 19,
+      "21/20c": 27.62,
+      "20/23c": 12.57,
+      "20/20c": 10,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -2.678936170212765
+  },
+  {
+    "gemName": "Lacerate",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 32,
+      "21/20c": 30,
+      "20/23c": 12,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -2.829787234042554
+  },
+  {
+    "gemName": "Minion Speed Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 11,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 8.97,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.8612765957446804
+  },
+  {
+    "gemName": "Vengeance",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 11.64,
+      "20/23c": 10,
+      "20/20c": 8.52,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.8629787234042556
+  },
+  {
+    "gemName": "Shield Charge",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 12.15,
+      "20/23c": 13.82,
+      "20/20c": 9.59,
+      "20/20": 11.53,
+      "21/0c": 0
+    },
+    "averageProfit": -2.912553191489362
+  },
+  {
+    "gemName": "Awakened Increased Area of Effect Support",
+    "lowConfidence": true,
+    "prices": {
+      "6/23c": 1100.6,
+      "6/20c": 725.44,
+      "5/23c": 370.12,
+      "5/20c": 370.12,
+      "5/20": 370.12,
+      "6/0c": 0
+    },
+    "averageProfit": -2.934468085106346
+  },
+  {
+    "gemName": "Chain Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 54.86,
+      "21/20c": 40,
+      "20/23c": 28,
+      "20/20c": 25,
+      "20/20": 26,
+      "21/0c": 0
+    },
+    "averageProfit": -2.9846808510638283
+  },
+  {
+    "gemName": "Shattering Steel",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 12,
+      "21/20c": 13.36,
+      "20/23c": 10,
+      "20/20c": 6.79,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -2.9889361702127664
+  },
+  {
+    "gemName": "Physical to Lightning Support",
+    "lowConfidence": true,
     "prices": {
       "21/23c": 25,
-      "21/20c": 26.24,
-      "20/23c": 23,
+      "21/20c": 28.64,
+      "20/23c": 22,
       "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -3.039999999999999
+  },
+  {
+    "gemName": "Desecrate",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 19.95,
+      "21/20c": 18,
+      "20/23c": 17,
+      "20/20c": 14,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -3.065957446808511
+  },
+  {
+    "gemName": "Smoke Mine",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15,
+      "20/23c": 12,
+      "20/20c": 10,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -3.1063829787234045
+  },
+  {
+    "gemName": "Contagion",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 18,
+      "21/20c": 15,
+      "20/23c": 11,
+      "20/20c": 10,
+      "20/20": 11.94,
+      "21/0c": 0
+    },
+    "averageProfit": -3.1102127659574474
+  },
+  {
+    "gemName": "Vulnerability",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 19,
+      "21/20c": 20,
+      "20/23c": 15,
+      "20/20c": 14,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -3.1489361702127674
+  },
+  {
+    "gemName": "Chain Hook",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 0,
+      "20/23c": 10,
+      "20/20c": 24,
+      "20/20": 13.41,
+      "21/0c": 0
+    },
+    "averageProfit": -3.197234042553193
+  },
+  {
+    "gemName": "Cast while Channelling Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15,
+      "20/23c": 14.07,
+      "20/20c": 11.38,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -3.2402127659574465
+  },
+  {
+    "gemName": "Leap Slam",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 7.98,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.240851063829788
+  },
+  {
+    "gemName": "Greater Volley Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 62.83,
+      "21/20c": 72.79,
+      "20/23c": 45,
+      "20/20c": 35.69,
+      "20/20": 39.12,
+      "21/0c": 0
+    },
+    "averageProfit": -3.2897872340425565
+  },
+  {
+    "gemName": "Flesh and Stone",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 37.92,
+      "20/23c": 23,
+      "20/20c": 21,
+      "20/20": 23,
+      "21/0c": 0
+    },
+    "averageProfit": -3.290212765957449
+  },
+  {
+    "gemName": "Cold Penetration Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 19.34,
+      "21/20c": 17.21,
+      "20/23c": 16.18,
+      "20/20c": 14.25,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -3.2982978723404273
+  },
+  {
+    "gemName": "Assassin's Mark",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 37.64,
+      "20/23c": 24.73,
+      "20/20c": 22.86,
       "20/20": 24,
       "21/0c": 0
     },
-    "averageProfit": -7.257021276595747
+    "averageProfit": -3.373404255319148
   },
   {
-    "gemName": "Divergent Toxic Rain",
+    "gemName": "Minefield Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 101.01,
-      "21/20c": 101.01,
-      "20/23c": 27.35,
-      "20/20c": 10,
-      "20/20": 37.92,
+      "21/23c": 29.35,
+      "21/20c": 25,
+      "20/23c": 20.68,
+      "20/20c": 15.66,
+      "20/20": 18.18,
       "21/0c": 0
     },
-    "averageProfit": -7.787021276595745
+    "averageProfit": -3.3846808510638304
+  },
+  {
+    "gemName": "Blood Rage",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 50,
+      "20/23c": 45,
+      "20/20c": 35,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": -3.4042553191489375
+  },
+  {
+    "gemName": "Viper Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 20,
+      "20/23c": 7.33,
+      "20/20c": 4,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.4474468085106382
+  },
+  {
+    "gemName": "Convocation",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 35,
+      "21/20c": 26.9,
+      "20/23c": 24.39,
+      "20/20c": 20,
+      "20/20": 21,
+      "21/0c": 0
+    },
+    "averageProfit": -3.4529787234042573
+  },
+  {
+    "gemName": "Whirling Blades",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 9.59,
+      "20/23c": 8.52,
+      "20/20c": 8.52,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.4953191489361704
+  },
+  {
+    "gemName": "Tempest Shield",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 17.72,
+      "21/20c": 20,
+      "20/23c": 15,
+      "20/20c": 12.94,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -3.564255319148936
+  },
+  {
+    "gemName": "Crackling Lance",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 14.21,
+      "21/20c": 13.39,
+      "20/23c": 9.66,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.564255319148937
+  },
+  {
+    "gemName": "Melee Splash Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 16,
+      "21/20c": 15,
+      "20/23c": 14.52,
+      "20/20c": 10.02,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -3.574468085106382
+  },
+  {
+    "gemName": "Incinerate",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 28.63,
+      "20/23c": 10,
+      "20/20c": 4.05,
+      "20/20": 12.15,
+      "21/0c": 0
+    },
+    "averageProfit": -3.68531914893617
+  },
+  {
+    "gemName": "Sigil of Power",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 65,
+      "21/20c": 65.84,
+      "20/23c": 45.25,
+      "20/20c": 40,
+      "20/20": 40,
+      "21/0c": 0
+    },
+    "averageProfit": -3.7453191489361686
+  },
+  {
+    "gemName": "Dash",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 61.64,
+      "21/20c": 45,
+      "20/23c": 30,
+      "20/20c": 30,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": -3.7600000000000016
+  },
+  {
+    "gemName": "Mirage Archer Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 54.05,
+      "21/20c": 50.15,
+      "20/23c": 30,
+      "20/20c": 27.48,
+      "20/20": 29.7,
+      "21/0c": 0
+    },
+    "averageProfit": -3.7642553191489334
+  },
+  {
+    "gemName": "Scorching Ray",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 16.34,
+      "20/23c": 4.08,
+      "20/20c": 6.3,
+      "20/20": 9.86,
+      "21/0c": 0
+    },
+    "averageProfit": -3.7697872340425533
+  },
+  {
+    "gemName": "Barrage",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 32.29,
+      "21/20c": 27.5,
+      "20/23c": 16.16,
+      "20/20c": 15,
+      "20/20": 18.05,
+      "21/0c": 0
+    },
+    "averageProfit": -3.7942553191489363
+  },
+  {
+    "gemName": "Dark Pact",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 8.81,
+      "20/20c": 6.95,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.81936170212766
+  },
+  {
+    "gemName": "Pinpoint Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 34,
+      "21/20c": 33.96,
+      "20/23c": 30,
+      "20/20c": 24.02,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": -3.851063829787236
+  },
+  {
+    "gemName": "Meat Shield Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 58.49,
+      "21/20c": 45,
+      "20/23c": 32.44,
+      "20/20c": 28.74,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": -3.8557446808510676
+  },
+  {
+    "gemName": "Lightning Penetration Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 29.71,
+      "21/20c": 24.7,
+      "20/23c": 20,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -3.893191489361705
+  },
+  {
+    "gemName": "Static Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4.6,
+      "21/20c": 0,
+      "20/23c": 25.05,
+      "20/20c": 3,
+      "20/20": 9.93,
+      "21/0c": 0
+    },
+    "averageProfit": -3.916170212765957
+  },
+  {
+    "gemName": "Infernal Legion Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 9.51,
+      "20/23c": 8.84,
+      "20/20c": 7,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -3.922553191489362
+  },
+  {
+    "gemName": "Withering Step",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 20,
+      "20/23c": 18.06,
+      "20/20c": 15,
+      "20/20": 16.83,
+      "21/0c": 0
+    },
+    "averageProfit": -4.009999999999998
+  },
+  {
+    "gemName": "Seismic Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 9.86,
+      "20/23c": 8.77,
+      "20/20c": 6.48,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -4.010851063829787
+  },
+  {
+    "gemName": "Ancestral Protector",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 19,
+      "21/20c": 16.82,
+      "20/23c": 15,
+      "20/20c": 13.05,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -4.0136170212765965
+  },
+  {
+    "gemName": "Reckoning",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 8.69,
+      "20/23c": 9.07,
+      "20/20c": 8,
+      "20/20": 10.31,
+      "21/0c": 0
+    },
+    "averageProfit": -4.030212765957447
+  },
+  {
+    "gemName": "Blastchain Mine Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15,
+      "20/23c": 10,
+      "20/20c": 6.45,
+      "20/20": 11.38,
+      "21/0c": 0
+    },
+    "averageProfit": -4.077872340425532
+  },
+  {
+    "gemName": "Ruthless Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 60,
+      "21/20c": 45.52,
+      "20/23c": 30,
+      "20/20c": 25,
+      "20/20": 28.69,
+      "21/0c": 0
+    },
+    "averageProfit": -4.1334042553191495
+  },
+  {
+    "gemName": "Wild Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 13,
+      "21/20c": 10,
+      "20/23c": 8.27,
+      "20/20c": 7.45,
+      "20/20": 10.53,
+      "21/0c": 0
+    },
+    "averageProfit": -4.154893617021276
+  },
+  {
+    "gemName": "Bladestorm",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 21.53,
+      "20/23c": 8,
+      "20/20c": 5,
+      "20/20": 12.12,
+      "21/0c": 0
+    },
+    "averageProfit": -4.157446808510637
+  },
+  {
+    "gemName": "Fork Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 14.2,
+      "20/23c": 5.82,
+      "20/20c": 5.8,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -4.196170212765957
+  },
+  {
+    "gemName": "Added Fire Damage Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 9,
+      "20/23c": 6.95,
+      "20/20c": 6.1,
+      "20/20": 9.6,
+      "21/0c": 0
+    },
+    "averageProfit": -4.2351063829787226
+  },
+  {
+    "gemName": "Charged Mines Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 23,
+      "21/20c": 20,
+      "20/23c": 20,
+      "20/20c": 13.27,
+      "20/20": 17,
+      "21/0c": 0
+    },
+    "averageProfit": -4.269787234042553
+  },
+  {
+    "gemName": "Close Combat Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 46.52,
+      "21/20c": 30.05,
+      "20/23c": 25,
+      "20/20c": 20,
+      "20/20": 23,
+      "21/0c": 0
+    },
+    "averageProfit": -4.3097872340425525
+  },
+  {
+    "gemName": "Bone Offering",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 23.3,
+      "20/23c": 20,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -4.3319148936170215
+  },
+  {
+    "gemName": "Cast when Damage Taken Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 50,
+      "21/20c": 50,
+      "20/23c": 38.86,
+      "20/20c": 36.69,
+      "20/20": 35,
+      "21/0c": 0
+    },
+    "averageProfit": -4.4302127659574495
+  },
+  {
+    "gemName": "Infernal Blow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 47,
+      "20/23c": 18.27,
+      "20/20c": 9.02,
+      "20/20": 19.64,
+      "21/0c": 0
+    },
+    "averageProfit": -4.432553191489362
+  },
+  {
+    "gemName": "Scourge Arrow",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 9.18,
+      "20/23c": 9.68,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -4.541276595744681
+  },
+  {
+    "gemName": "Blasphemy Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 22,
+      "20/23c": 20,
+      "20/20c": 20,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -4.553191489361701
+  },
+  {
+    "gemName": "Onslaught Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 10.08,
+      "21/20c": 9.68,
+      "20/23c": 6.8,
+      "20/20c": 6,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -4.578723404255319
+  },
+  {
+    "gemName": "Hextouch Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 39.44,
+      "21/20c": 25,
+      "20/23c": 24,
+      "20/20c": 20.2,
+      "20/20": 22,
+      "21/0c": 0
+    },
+    "averageProfit": -4.594042553191493
   },
   {
     "gemName": "Rage Support",
     "lowConfidence": false,
     "prices": {
-      "21/23c": 28.56,
-      "21/20c": 25,
-      "20/23c": 24.12,
-      "20/20c": 20,
-      "20/20": 24.98,
+      "21/23c": 40,
+      "21/20c": 33.36,
+      "20/23c": 22.07,
+      "20/20c": 18,
+      "20/20": 22.4,
       "21/0c": 0
     },
-    "averageProfit": -8.082127659574468
+    "averageProfit": -4.665744680851063
   },
   {
-    "gemName": "Determination",
+    "gemName": "Conductivity",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15,
+      "20/23c": 15,
+      "20/20c": 12.13,
+      "20/20": 14.92,
+      "21/0c": 0
+    },
+    "averageProfit": -4.726808510638298
+  },
+  {
+    "gemName": "Summon Holy Relic",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 14.81,
+      "20/23c": 15.16,
+      "20/20c": 10,
+      "20/20": 14.22,
+      "21/0c": 0
+    },
+    "averageProfit": -4.753617021276597
+  },
+  {
+    "gemName": "Punishment",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 30,
+      "20/23c": 22.25,
+      "20/20c": 20,
+      "20/20": 22.28,
+      "21/0c": 0
+    },
+    "averageProfit": -4.827872340425532
+  },
+  {
+    "gemName": "Elemental Army Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 45.18,
+      "21/20c": 41.39,
+      "20/23c": 29.44,
+      "20/20c": 28,
+      "20/20": 28.98,
+      "21/0c": 0
+    },
+    "averageProfit": -4.842978723404254
+  },
+  {
+    "gemName": "Riposte",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9.14,
+      "21/20c": 16.04,
+      "20/23c": 4.27,
+      "20/20c": 9.42,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -4.8563829787234045
+  },
+  {
+    "gemName": "Ice Bite Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 55,
+      "21/20c": 40.05,
+      "20/23c": 29.54,
+      "20/20c": 24.12,
+      "20/20": 28,
+      "21/0c": 0
+    },
+    "averageProfit": -4.97489361702128
+  },
+  {
+    "gemName": "Siege Ballista",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 28,
+      "20/23c": 10,
+      "20/20c": 7.98,
+      "20/20": 15.65,
+      "21/0c": 0
+    },
+    "averageProfit": -4.975957446808513
+  },
+  {
+    "gemName": "Wither",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15.27,
+      "21/20c": 15,
+      "20/23c": 15,
+      "20/20c": 11.59,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -4.979148936170212
+  },
+  {
+    "gemName": "Cold to Fire Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 18,
+      "21/20c": 20,
+      "20/23c": 15.35,
+      "20/20c": 15,
+      "20/20": 17.21,
+      "21/0c": 0
+    },
+    "averageProfit": -4.994042553191489
+  },
+  {
+    "gemName": "Void Sphere",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 5.48,
+      "20/20": 11,
+      "21/0c": 0
+    },
+    "averageProfit": -5.091914893617021
+  },
+  {
+    "gemName": "Perforate",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9.79,
+      "21/20c": 9.21,
+      "20/23c": 8.01,
+      "20/20c": 5.19,
+      "20/20": 10.38,
+      "21/0c": 0
+    },
+    "averageProfit": -5.095106382978724
+  },
+  {
+    "gemName": "Frost Bomb",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 36.03,
+      "20/23c": 30,
+      "20/20c": 29.9,
+      "20/20": 28.96,
+      "21/0c": 0
+    },
+    "averageProfit": -5.201702127659576
+  },
+  {
+    "gemName": "Venom Gyre",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 11.09,
+      "20/23c": 5,
+      "20/20c": 5.21,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.211063829787235
+  },
+  {
+    "gemName": "Ancestral Call Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15,
+      "20/23c": 10,
+      "20/20c": 10.79,
+      "20/20": 14,
+      "21/0c": 0
+    },
+    "averageProfit": -5.220425531914893
+  },
+  {
+    "gemName": "Blind Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 10,
+      "20/23c": 10,
+      "20/20c": 5.75,
+      "20/20": 11.3,
+      "21/0c": 0
+    },
+    "averageProfit": -5.342553191489363
+  },
+  {
+    "gemName": "Endurance Charge on Melee Stun Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 0,
+      "20/23c": 10,
+      "20/20c": 6.77,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.354893617021277
+  },
+  {
+    "gemName": "Frostblink",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8.55,
+      "21/20c": 10,
+      "20/23c": 9.59,
+      "20/20c": 4,
+      "20/20": 10.63,
+      "21/0c": 0
+    },
+    "averageProfit": -5.365957446808511
+  },
+  {
+    "gemName": "Iron Will Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5.15,
+      "21/20c": 9.1,
+      "20/23c": 7.6,
+      "20/20c": 0,
+      "20/20": 8.59,
+      "21/0c": 0
+    },
+    "averageProfit": -5.366595744680851
+  },
+  {
+    "gemName": "Holy Flame Totem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 9.32,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.541276595744681
+  },
+  {
+    "gemName": "Bloodlust Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 20,
+      "20/23c": 10,
+      "20/20c": 3.98,
+      "20/20": 12.49,
+      "21/0c": 0
+    },
+    "averageProfit": -5.560638297872341
+  },
+  {
+    "gemName": "Poacher's Mark",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 17.11,
+      "20/23c": 8,
+      "20/20c": 6.21,
+      "20/20": 12.57,
+      "21/0c": 0
+    },
+    "averageProfit": -5.713829787234043
+  },
+  {
+    "gemName": "Cremation",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 7.69,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.776170212765957
+  },
+  {
+    "gemName": "Blink Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3.97,
+      "21/20c": 10,
+      "20/23c": 4.24,
+      "20/20c": 4.52,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.778297872340426
+  },
+  {
+    "gemName": "Mirror Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 5,
+      "20/23c": 9,
+      "20/20c": 4,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.808510638297872
+  },
+  {
+    "gemName": "Trinity Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 45.73,
+      "21/20c": 40,
+      "20/23c": 34.52,
+      "20/20c": 30,
+      "20/20": 31.44,
+      "21/0c": 0
+    },
+    "averageProfit": -5.862553191489361
+  },
+  {
+    "gemName": "Volley Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 15.79,
+      "20/23c": 17.41,
+      "20/20c": 15.6,
+      "20/20": 17.84,
+      "21/0c": 0
+    },
+    "averageProfit": -5.8695744680851085
+  },
+  {
+    "gemName": "Explosive Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 5,
+      "20/23c": 4.11,
+      "20/20c": 5,
+      "20/20": 9.52,
+      "21/0c": 0
+    },
+    "averageProfit": -5.8819148936170205
+  },
+  {
+    "gemName": "Pyroclast Mine",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 10.04,
+      "20/23c": 4.9,
+      "20/20c": 4,
+      "20/20": 10.13,
+      "21/0c": 0
+    },
+    "averageProfit": -5.908297872340427
+  },
+  {
+    "gemName": "Tectonic Slam",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 14,
+      "21/20c": 12,
+      "20/23c": 9,
+      "20/20c": 5,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -5.9361702127659575
+  },
+  {
+    "gemName": "Pestilent Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 10,
+      "20/23c": 4,
+      "20/20c": 4,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -5.957446808510638
+  },
+  {
+    "gemName": "Fireball",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 18,
+      "21/20c": 17.27,
+      "20/23c": 10,
+      "20/20c": 9.01,
+      "20/20": 14.65,
+      "21/0c": 0
+    },
+    "averageProfit": -5.962340425531915
+  },
+  {
+    "gemName": "Frost Shield",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 18.76,
+      "20/23c": 14.74,
+      "20/20c": 15,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": -6.026808510638297
+  },
+  {
+    "gemName": "Explosive Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 7.91,
+      "20/23c": 5.84,
+      "20/20c": 3,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.216170212765958
+  },
+  {
+    "gemName": "Immortal Call",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 20.4,
+      "21/20c": 20,
+      "20/23c": 29.61,
+      "20/20c": 20,
+      "20/20": 23,
+      "21/0c": 0
+    },
+    "averageProfit": -6.2491489361702115
+  },
+  {
+    "gemName": "Soulrend",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 19.77,
+      "20/23c": 15,
+      "20/20c": 10.61,
+      "20/20": 17,
+      "21/0c": 0
+    },
+    "averageProfit": -6.2995744680851065
+  },
+  {
+    "gemName": "Ensnaring Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7.12,
+      "21/20c": 0,
+      "20/23c": 5,
+      "20/20c": 7,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.356595744680851
+  },
+  {
+    "gemName": "Wintertide Brand",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 5,
+      "20/23c": 4.16,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.3948936170212765
+  },
+  {
+    "gemName": "Storm Burst",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 12.87,
+      "20/23c": 7,
+      "20/20c": 3.92,
+      "20/20": 11.92,
+      "21/0c": 0
+    },
+    "averageProfit": -6.416170212765958
+  },
+  {
+    "gemName": "Arctic Armour",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 14,
+      "21/20c": 11.94,
+      "20/23c": 12.64,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -6.5472340425531925
+  },
+  {
+    "gemName": "Innervate Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9.85,
+      "21/20c": 12.87,
+      "20/23c": 10,
+      "20/20c": 9,
+      "20/20": 14.16,
+      "21/0c": 0
+    },
+    "averageProfit": -6.571489361702128
+  },
+  {
+    "gemName": "Reave",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 5,
+      "20/23c": 4.2,
+      "20/20c": 4.52,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.593191489361702
+  },
+  {
+    "gemName": "Phase Run",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 35,
+      "21/20c": 34.81,
+      "20/23c": 30,
+      "20/20c": 30,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": -6.628085106382976
+  },
+  {
+    "gemName": "Kinetic Bolt",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 8,
+      "20/23c": 5.07,
+      "20/20c": 7.15,
+      "20/20": 11.81,
+      "21/0c": 0
+    },
+    "averageProfit": -6.7029787234042555
+  },
+  {
+    "gemName": "Firestorm",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 6,
+      "20/23c": 6.71,
+      "20/20c": 4.1,
+      "20/20": 10.68,
+      "21/0c": 0
+    },
+    "averageProfit": -6.76531914893617
+  },
+  {
+    "gemName": "Nightblade Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7.66,
+      "21/20c": 10.65,
+      "20/23c": 10.54,
+      "20/20c": 23.1,
+      "20/20": 18.82,
+      "21/0c": 0
+    },
+    "averageProfit": -6.799148936170212
+  },
+  {
+    "gemName": "Charged Dash",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 0,
+      "20/23c": 5.58,
+      "20/20c": 5.58,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.819148936170213
+  },
+  {
+    "gemName": "Bear Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 4.11,
+      "20/23c": 4,
+      "20/20c": 4.41,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.862978723404256
+  },
+  {
+    "gemName": "Lightning Tendrils",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 4,
+      "20/23c": 3,
+      "20/20c": 5,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -6.872340425531915
+  },
+  {
+    "gemName": "Withering Touch Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 14.25,
+      "21/20c": 15,
+      "20/23c": 20,
+      "20/20c": 15,
+      "20/20": 19,
+      "21/0c": 0
+    },
+    "averageProfit": -6.904255319148936
+  },
+  {
+    "gemName": "Berserk",
     "lowConfidence": false,
     "prices": {
       "21/23c": 50,
-      "21/20c": 48.04,
-      "20/23c": 41.18,
-      "20/20c": 27.37,
-      "20/20": 35.88,
+      "21/20c": 45,
+      "20/23c": 40,
+      "20/20c": 31.12,
+      "20/20": 35,
       "21/0c": 0
     },
-    "averageProfit": -8.372340425531917
+    "averageProfit": -6.959148936170212
   },
   {
-    "gemName": "Anomalous Controlled Destruction Support",
-    "lowConfidence": false,
+    "gemName": "Hydrosphere",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
+      "21/23c": 28,
+      "21/20c": 25,
+      "20/23c": 17.14,
+      "20/20c": 20,
+      "20/20": 22.53,
+      "21/0c": 0
+    },
+    "averageProfit": -6.992553191489364
+  },
+  {
+    "gemName": "Ballista Totem Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 67.35,
+      "21/20c": 69.78,
+      "20/23c": 31.41,
+      "20/20c": 30,
+      "20/20": 38,
+      "21/0c": 0
+    },
+    "averageProfit": -7.029148936170213
+  },
+  {
+    "gemName": "Warlord's Mark",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5.74,
+      "20/23c": 13,
+      "20/20c": 4.73,
+      "20/20": 12.4,
+      "21/0c": 0
+    },
+    "averageProfit": -7.153191489361703
+  },
+  {
+    "gemName": "Decoy Totem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 13.21,
+      "20/23c": 13.63,
+      "20/20c": 6.02,
+      "20/20": 14.46,
+      "21/0c": 0
+    },
+    "averageProfit": -7.211702127659575
+  },
+  {
+    "gemName": "Life Leech Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 12,
+      "21/20c": 9.5,
+      "20/23c": 12.7,
+      "20/20c": 9.44,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -7.226808510638298
+  },
+  {
+    "gemName": "Stormbind",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
       "21/20c": 0,
-      "20/23c": 22.55,
-      "20/20c": 22.55,
+      "20/23c": 3.4,
+      "20/20c": 10.99,
+      "20/20": 11.87,
+      "21/0c": 0
+    },
+    "averageProfit": -7.35
+  },
+  {
+    "gemName": "Heavy Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 10,
+      "20/23c": 4,
+      "20/20c": 0,
+      "20/20": 10,
+      "21/0c": 0
+    },
+    "averageProfit": -7.361702127659575
+  },
+  {
+    "gemName": "Clarity",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 30,
+      "21/20c": 28,
+      "20/23c": 25,
+      "20/20c": 20,
       "20/20": 25,
       "21/0c": 0
     },
-    "averageProfit": -13.00531914893617
+    "averageProfit": -7.361702127659576
+  },
+  {
+    "gemName": "Smite",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 11.97,
+      "20/23c": 10,
+      "20/20c": 9.51,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -7.3846808510638295
+  },
+  {
+    "gemName": "Decay Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 4.52,
+      "20/23c": 7,
+      "20/20c": 9.6,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -7.40936170212766
+  },
+  {
+    "gemName": "Bodyswap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 0,
+      "20/23c": 4.1,
+      "20/20c": 5.4,
+      "20/20": 10.19,
+      "21/0c": 0
+    },
+    "averageProfit": -7.438936170212766
+  },
+  {
+    "gemName": "Flamethrower Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 25.54,
+      "20/23c": 3,
+      "20/20c": 5,
+      "20/20": 14.36,
+      "21/0c": 0
+    },
+    "averageProfit": -7.56595744680851
+  },
+  {
+    "gemName": "Increased Critical Damage Support",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 40,
+      "21/20c": 27.32,
+      "20/23c": 30,
+      "20/20c": 24.39,
+      "20/20": 28,
+      "21/0c": 0
+    },
+    "averageProfit": -7.600000000000001
+  },
+  {
+    "gemName": "Infernal Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 5,
+      "20/23c": 5,
+      "20/20c": 4.49,
+      "20/20": 11.18,
+      "21/0c": 0
+    },
+    "averageProfit": -7.630212765957447
+  },
+  {
+    "gemName": "Sunder",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 5,
+      "20/23c": 15,
+      "20/20c": 5,
+      "20/20": 13.29,
+      "21/0c": 0
+    },
+    "averageProfit": -7.651702127659574
+  },
+  {
+    "gemName": "Cleave",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 22,
+      "20/23c": 7.19,
+      "20/20c": 3.64,
+      "20/20": 14.21,
+      "21/0c": 0
+    },
+    "averageProfit": -7.679148936170214
+  },
+  {
+    "gemName": "Multiple Traps Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 0,
+      "20/23c": 18.63,
+      "20/20c": 5,
+      "20/20": 13.41,
+      "21/0c": 0
+    },
+    "averageProfit": -7.927659574468086
+  },
+  {
+    "gemName": "Rolling Magma",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 8.57,
+      "20/23c": 10,
+      "20/20c": 4.2,
+      "20/20": 13.08,
+      "21/0c": 0
+    },
+    "averageProfit": -8.063829787234042
+  },
+  {
+    "gemName": "Rain of Arrows",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 9.39,
+      "20/23c": 5,
+      "20/20c": 11.5,
+      "20/20": 14.77,
+      "21/0c": 0
+    },
+    "averageProfit": -8.086595744680851
+  },
+  {
+    "gemName": "Spectral Shield Throw",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 10,
+      "20/23c": 6.83,
+      "20/20c": 4,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -8.24531914893617
+  },
+  {
+    "gemName": "Lightning Spire Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 0,
+      "20/23c": 5,
+      "20/20c": 4.52,
+      "20/20": 11,
+      "21/0c": 0
+    },
+    "averageProfit": -8.291063829787234
+  },
+  {
+    "gemName": "Point Blank Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3.1,
+      "21/20c": 10,
+      "20/23c": 2.4,
+      "20/20c": 5,
+      "20/20": 12.33,
+      "21/0c": 0
+    },
+    "averageProfit": -8.334255319148937
+  },
+  {
+    "gemName": "Fire Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 3,
+      "20/23c": 6.31,
+      "20/20c": 5,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -8.40872340425532
+  },
+  {
+    "gemName": "Shrapnel Ballista",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 10.22,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 13,
+      "21/0c": 0
+    },
+    "averageProfit": -8.43063829787234
+  },
+  {
+    "gemName": "Icicle Mine",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 6.41,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 12.53,
+      "21/0c": 0
+    },
+    "averageProfit": -8.56659574468085
+  },
+  {
+    "gemName": "Iron Grip Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5,
+      "20/23c": 10,
+      "20/20c": 10,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -8.659574468085106
+  },
+  {
+    "gemName": "Chance to Flee Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 10,
+      "20/23c": 5,
+      "20/20c": 0,
+      "20/20": 11.6,
+      "21/0c": 0
+    },
+    "averageProfit": -8.770212765957446
+  },
+  {
+    "gemName": "Glacial Hammer",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 4,
+      "20/23c": 3.31,
+      "20/20c": 5,
+      "20/20": 12,
+      "21/0c": 0
+    },
+    "averageProfit": -8.812978723404255
+  },
+  {
+    "gemName": "Trap Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10,
+      "20/23c": 5.54,
+      "20/20c": 8,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -9.088085106382978
+  },
+  {
+    "gemName": "Urgent Orders Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 0,
+      "20/23c": 5.62,
+      "20/20c": 7.6,
+      "20/20": 13.55,
+      "21/0c": 0
+    },
+    "averageProfit": -9.546170212765958
+  },
+  {
+    "gemName": "Conversion Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 0,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 12.34,
+      "21/0c": 0
+    },
+    "averageProfit": -9.552765957446809
+  },
+  {
+    "gemName": "Ancestral Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5,
+      "20/23c": 3.61,
+      "20/20c": 3,
+      "20/20": 12.36,
+      "21/0c": 0
+    },
+    "averageProfit": -9.626170212765956
+  },
+  {
+    "gemName": "Earthquake",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 14.65,
+      "20/23c": 10,
+      "20/20c": 8,
+      "20/20": 17.67,
+      "21/0c": 0
+    },
+    "averageProfit": -9.899787234042554
+  },
+  {
+    "gemName": "Galvanic Arrow",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9.26,
+      "21/20c": 10,
+      "20/23c": 5,
+      "20/20c": 6,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -9.903829787234043
+  },
+  {
+    "gemName": "Additional Accuracy Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 19.32,
+      "20/23c": 15.5,
+      "20/20c": 8.57,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -10.187659574468086
+  },
+  {
+    "gemName": "Cast on Melee Kill Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 0,
+      "20/23c": 5.6,
+      "20/20c": 0,
+      "20/20": 11.44,
+      "21/0c": 0
+    },
+    "averageProfit": -10.197446808510637
+  },
+  {
+    "gemName": "Frost Wall",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 15,
+      "20/23c": 5,
+      "20/20c": 9.16,
+      "20/20": 17.01,
+      "21/0c": 0
+    },
+    "averageProfit": -10.21085106382979
+  },
+  {
+    "gemName": "Shock Nova",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 7.32,
+      "20/23c": 6.44,
+      "20/20c": 5,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -10.60595744680851
+  },
+  {
+    "gemName": "Faster Projectiles Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 26.24,
+      "21/20c": 24.38,
+      "20/23c": 19.09,
+      "20/20c": 15.86,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": -10.678936170212765
+  },
+  {
+    "gemName": "Molten Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 17.54,
+      "21/20c": 15.66,
+      "20/23c": 10.45,
+      "20/20c": 5,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": -10.884893617021277
+  },
+  {
+    "gemName": "Artillery Ballista",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 0,
+      "20/23c": 0,
+      "20/20c": 0,
+      "20/20": 11.18,
+      "21/0c": 0
+    },
+    "averageProfit": -11.052340425531915
+  },
+  {
+    "gemName": "Seismic Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 5,
+      "20/23c": 5,
+      "20/20c": 5.5,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -11.191489361702128
+  },
+  {
+    "gemName": "Spirit Offering",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 7.51,
+      "20/23c": 3.66,
+      "20/20c": 3.7,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -11.548510638297872
+  },
+  {
+    "gemName": "Vigilant Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 20,
+      "20/23c": 11.55,
+      "20/20c": 11.25,
+      "20/20": 22.08,
+      "21/0c": 0
+    },
+    "averageProfit": -11.570425531914893
+  },
+  {
+    "gemName": "Rallying Cry",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4.42,
+      "21/20c": 0,
+      "20/23c": 5.95,
+      "20/20c": 5.95,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -11.647021276595744
+  },
+  {
+    "gemName": "Flame Surge",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5.94,
+      "20/23c": 4.59,
+      "20/20c": 3.42,
+      "20/20": 14.96,
+      "21/0c": 0
+    },
+    "averageProfit": -11.735531914893617
+  },
+  {
+    "gemName": "Consecrated Path",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 5,
+      "20/23c": 5,
+      "20/20c": 6.29,
+      "20/20": 15.9,
+      "21/0c": 0
+    },
+    "averageProfit": -11.73744680851064
+  },
+  {
+    "gemName": "Flameblast",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 4,
+      "20/23c": 7.17,
+      "20/20c": 5,
+      "20/20": 16,
+      "21/0c": 0
+    },
+    "averageProfit": -12.073829787234043
+  },
+  {
+    "gemName": "Storm Call",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5.99,
+      "20/23c": 6,
+      "20/20c": 0,
+      "20/20": 14.49,
+      "21/0c": 0
+    },
+    "averageProfit": -12.151276595744681
+  },
+  {
+    "gemName": "Searing Bond",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 5,
+      "20/23c": 3.31,
+      "20/20c": 3.31,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -12.26063829787234
+  },
+  {
+    "gemName": "Cold Snap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 10,
+      "21/20c": 10.2,
+      "20/23c": 10,
+      "20/20c": 7.38,
+      "20/20": 19,
+      "21/0c": 0
+    },
+    "averageProfit": -12.411063829787235
+  },
+  {
+    "gemName": "Molten Shell",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 20,
+      "21/20c": 19.15,
+      "20/23c": 16.23,
+      "20/20c": 15,
+      "20/20": 24.93,
+      "21/0c": 0
+    },
+    "averageProfit": -12.605106382978724
+  },
+  {
+    "gemName": "Siphoning Trap",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 0,
+      "20/23c": 2.6,
+      "20/20c": 4,
+      "20/20": 14.84,
+      "21/0c": 0
+    },
+    "averageProfit": -12.852765957446808
+  },
+  {
+    "gemName": "Blast Rain",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 0,
+      "20/23c": 3,
+      "20/20c": 3.61,
+      "20/20": 15.14,
+      "21/0c": 0
+    },
+    "averageProfit": -13.166382978723405
+  },
+  {
+    "gemName": "Detonate Dead",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6,
+      "21/20c": 6,
+      "20/23c": 4,
+      "20/20c": 5,
+      "20/20": 17.24,
+      "21/0c": 0
+    },
+    "averageProfit": -13.495319148936169
+  },
+  {
+    "gemName": "Unearth",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 3.31,
+      "20/23c": 9.82,
+      "20/20c": 5,
+      "20/20": 18,
+      "21/0c": 0
+    },
+    "averageProfit": -13.683829787234043
+  },
+  {
+    "gemName": "Grace",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 24.6,
+      "20/23c": 17.87,
+      "20/20c": 10,
+      "20/20": 25.89,
+      "21/0c": 0
+    },
+    "averageProfit": -13.812765957446809
+  },
+  {
+    "gemName": "Stormblast Mine",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 5,
+      "20/23c": 3,
+      "20/20c": 4.18,
+      "20/20": 16.89,
+      "21/0c": 0
+    },
+    "averageProfit": -13.913829787234043
+  },
+  {
+    "gemName": "Advanced Traps Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 0,
+      "20/23c": 4.44,
+      "20/20c": 0,
+      "20/20": 15,
+      "21/0c": 0
+    },
+    "averageProfit": -13.937021276595745
+  },
+  {
+    "gemName": "Determination",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 35.65,
+      "21/20c": 33.55,
+      "20/23c": 32.73,
+      "20/20c": 24.92,
+      "20/20": 36.78,
+      "21/0c": 0
+    },
+    "averageProfit": -14.801489361702131
+  },
+  {
+    "gemName": "Dual Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 5,
+      "20/23c": 4,
+      "20/20c": 10,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -14.808510638297872
+  },
+  {
+    "gemName": "Knockback Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 0,
+      "20/23c": 6.06,
+      "20/20c": 6.1,
+      "20/20": 18.89,
+      "21/0c": 0
+    },
+    "averageProfit": -15.482765957446809
+  },
+  {
+    "gemName": "Lesser Poison Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 6.44,
+      "21/20c": 5,
+      "20/23c": 10,
+      "20/20c": 5,
+      "20/20": 20.61,
+      "21/0c": 0
+    },
+    "averageProfit": -15.867872340425532
+  },
+  {
+    "gemName": "Haste",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 25,
+      "21/20c": 22.6,
+      "20/23c": 17.91,
+      "20/20c": 15.4,
+      "20/20": 30,
+      "21/0c": 0
+    },
+    "averageProfit": -16.417234042553194
+  },
+  {
+    "gemName": "Double Strike",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 7,
+      "20/23c": 5,
+      "20/20c": 3.22,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -16.54212765957447
+  },
+  {
+    "gemName": "Burning Arrow",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 65,
+      "21/20c": 28,
+      "20/23c": 5,
+      "20/20c": 5,
+      "20/20": 26.86,
+      "21/0c": 0
+    },
+    "averageProfit": -16.66851063829787
+  },
+  {
+    "gemName": "Mana Leech Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3,
+      "21/20c": 4,
+      "20/23c": 3.3,
+      "20/20c": 4,
+      "20/20": 20,
+      "21/0c": 0
+    },
+    "averageProfit": -17.197872340425533
+  },
+  {
+    "gemName": "Devouring Totem",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 0,
+      "20/23c": 0,
+      "20/20c": 0,
+      "20/20": 18.7,
+      "21/0c": 0
+    },
+    "averageProfit": -18.52978723404255
+  },
+  {
+    "gemName": "Stun Support",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3.69,
+      "21/20c": 0,
+      "20/23c": 6.04,
+      "20/20c": 0,
+      "20/20": 20.68,
+      "21/0c": 0
+    },
+    "averageProfit": -19.366382978723404
+  },
+  {
+    "gemName": "Blade Vortex",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 15.4,
+      "21/20c": 14.31,
+      "20/23c": 10,
+      "20/20c": 9,
+      "20/20": 27.54,
+      "21/0c": 0
+    },
+    "averageProfit": -19.470212765957445
+  },
+  {
+    "gemName": "Discipline",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 85,
+      "21/20c": 75,
+      "20/23c": 20,
+      "20/20c": 15,
+      "20/20": 45,
+      "21/0c": 0
+    },
+    "averageProfit": -19.680851063829785
+  },
+  {
+    "gemName": "Shockwave Totem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 4,
+      "21/20c": 20,
+      "20/23c": 3.21,
+      "20/20c": 3,
+      "20/20": 25,
+      "21/0c": 0
+    },
+    "averageProfit": -19.789574468085107
+  },
+  {
+    "gemName": "Animate Weapon",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 7,
+      "21/20c": 6,
+      "20/23c": 4.49,
+      "20/20c": 3,
+      "20/20": 24,
+      "21/0c": 0
+    },
+    "averageProfit": -20.799787234042554
   },
   {
     "gemName": "Awakened Added Fire Damage Support",
-    "lowConfidence": false,
+    "lowConfidence": true,
     "prices": {
-      "6/23c": 505.05,
-      "6/20c": 222.63,
-      "5/23c": 83.29,
-      "5/20c": 83.29,
-      "5/20": 120.32,
+      "6/23c": 296.1,
+      "6/20c": 296.1,
+      "5/23c": 148.05,
+      "5/20c": 148.05,
+      "5/20": 162.86,
       "6/0c": 0
     },
-    "averageProfit": -16.63085106382978
+    "averageProfit": -21.110000000000014
   },
   {
-    "gemName": "Anomalous Frost Bomb",
+    "gemName": "Ground Slam",
     "lowConfidence": false,
+    "prices": {
+      "21/23c": 8,
+      "21/20c": 5,
+      "20/23c": 4,
+      "20/20c": 3,
+      "20/20": 24.73,
+      "21/0c": 0
+    },
+    "averageProfit": -21.75127659574468
+  },
+  {
+    "gemName": "Spectral Throw",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3.52,
+      "21/20c": 6,
+      "20/23c": 0,
+      "20/20c": 0,
+      "20/20": 24.19,
+      "21/0c": 0
+    },
+    "averageProfit": -23.01893617021277
+  },
+  {
+    "gemName": "Ancestral Warchief",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 9,
+      "21/20c": 8.82,
+      "20/23c": 7.36,
+      "20/20c": 5,
+      "20/20": 28.54,
+      "21/0c": 0
+    },
+    "averageProfit": -23.544255319148935
+  },
+  {
+    "gemName": "Righteous Fire",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 21.07,
+      "21/20c": 20,
+      "20/23c": 10,
+      "20/20c": 9,
+      "20/20": 33,
+      "21/0c": 0
+    },
+    "averageProfit": -23.720425531914895
+  },
+  {
+    "gemName": "Rejuvenation Totem",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 3.79,
+      "21/20c": 3,
+      "20/23c": 4.1,
+      "20/20c": 0,
+      "20/20": 29.46,
+      "21/0c": 0
+    },
+    "averageProfit": -28.002978723404254
+  },
+  {
+    "gemName": "Blight",
+    "lowConfidence": true,
+    "prices": {
+      "21/23c": 5,
+      "21/20c": 5,
+      "20/23c": 5,
+      "20/20c": 3.62,
+      "20/20": 38.48,
+      "21/0c": 0
+    },
+    "averageProfit": -35.2263829787234
+  },
+  {
+    "gemName": "Summon Skeletons",
+    "lowConfidence": false,
+    "prices": {
+      "21/23c": 15,
+      "21/20c": 12,
+      "20/23c": 4,
+      "20/20c": 3,
+      "20/20": 48.27,
+      "21/0c": 0
+    },
+    "averageProfit": -43.801914893617024
+  },
+  {
+    "gemName": "Impending Doom Support",
+    "lowConfidence": true,
     "prices": {
       "21/23c": 0,
       "21/20c": 0,
-      "20/23c": 50,
-      "20/20c": 50,
-      "20/20": 50,
+      "20/23c": 80,
+      "20/20c": 0,
+      "20/20": 60,
       "21/0c": 0
     },
-    "averageProfit": -23.404255319148938
+    "averageProfit": -44.68085106382979
   },
   {
-    "gemName": "Divergent Glacial Cascade",
-    "lowConfidence": false,
+    "gemName": "Awakened Ancestral Call Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 322.67,
-      "21/20c": 322.67,
-      "20/23c": 24.1,
-      "20/20c": 8.56,
-      "20/20": 101.01,
-      "21/0c": 0
+      "6/23c": 1265.83,
+      "6/20c": 482.64,
+      "5/23c": 0,
+      "5/20c": 0,
+      "5/20": 185.36,
+      "6/0c": 0
     },
-    "averageProfit": -24.82787234042553
+    "averageProfit": -49.34340425531917
   },
   {
-    "gemName": "Anomalous Purity of Ice",
-    "lowConfidence": false,
+    "gemName": "Cobra Lash",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 47.98,
-      "20/20c": 38.66,
-      "20/20": 50,
+      "21/23c": 5,
+      "21/20c": 5.4,
+      "20/23c": 5,
+      "20/20c": 8,
+      "20/20": 55.64,
       "21/0c": 0
     },
-    "averageProfit": -27.651489361702133
+    "averageProfit": -50.827234042553194
   },
   {
-    "gemName": "Divergent Spell Totem Support",
-    "lowConfidence": false,
+    "gemName": "Awakened Melee Splash Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 43.97,
-      "20/20c": 43.97,
-      "20/20": 58.92,
-      "21/0c": 0
+      "6/23c": 592.2,
+      "6/20c": 332.19,
+      "5/23c": 231.71,
+      "5/20c": 231.71,
+      "5/20": 261.32,
+      "6/0c": 0
     },
-    "averageProfit": -35.53170212765958
+    "averageProfit": -56.32702127659573
   },
   {
-    "gemName": "Anomalous Bladefall",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 30,
-      "20/20c": 18.1,
-      "20/20": 50,
-      "21/0c": 0
-    },
-    "averageProfit": -38.0936170212766
-  },
-  {
-    "gemName": "Divergent Spellslinger",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 22.9,
-      "20/20c": 22.9,
-      "20/20": 52,
-      "21/0c": 0
-    },
-    "averageProfit": -39.819148936170215
-  },
-  {
-    "gemName": "Anomalous Pestilent Strike",
+    "gemName": "Block Chance Reduction Support",
     "lowConfidence": false,
     "prices": {
       "21/23c": 0,
       "21/20c": 0,
       "20/23c": 0,
       "20/20c": 0,
-      "20/20": 42.52,
+      "20/20": 65.15,
       "21/0c": 0
     },
-    "averageProfit": -42.52
+    "averageProfit": -65.15
   },
   {
-    "gemName": "Anomalous Whirling Blades",
-    "lowConfidence": false,
+    "gemName": "Awakened Burning Damage Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 29.38,
-      "20/20c": 29.38,
-      "20/20": 65,
-      "21/0c": 0
+      "6/23c": 1332.45,
+      "6/20c": 1006.41,
+      "5/23c": 540.09,
+      "5/20c": 540.09,
+      "5/20": 591.8,
+      "6/0c": 0
     },
-    "averageProfit": -49.37234042553192
+    "averageProfit": -76.5142553191489
   },
   {
-    "gemName": "Anomalous Burning Arrow",
-    "lowConfidence": false,
+    "gemName": "Awakened Cast While Channelling Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 0,
-      "20/20c": 0,
-      "20/20": 56.7,
-      "21/0c": 0
+      "6/23c": 984.15,
+      "6/20c": 550.56,
+      "5/23c": 296.1,
+      "5/20c": 296.1,
+      "5/20": 444.15,
+      "6/0c": 0
     },
-    "averageProfit": -56.7
+    "averageProfit": -151.05893617021275
   },
   {
-    "gemName": "Divergent Convocation",
-    "lowConfidence": false,
+    "gemName": "Awakened Unleash Support",
+    "lowConfidence": true,
     "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 101.01,
-      "20/20c": 101.01,
-      "20/20": 122.59,
-      "21/0c": 0
+      "6/23c": 2679.7,
+      "6/20c": 1422.11,
+      "5/23c": 0,
+      "5/20c": 0,
+      "5/20": 518.18,
+      "6/0c": 0
     },
-    "averageProfit": -68.86127659574468
-  },
-  {
-    "gemName": "Anomalous Arcanist Brand",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 0,
-      "20/20c": 0,
-      "20/20": 95.62,
-      "21/0c": 0
-    },
-    "averageProfit": -95.62
-  },
-  {
-    "gemName": "Divergent Urgent Orders Support",
-    "lowConfidence": false,
-    "prices": {
-      "21/23c": 0,
-      "21/20c": 0,
-      "20/23c": 0,
-      "20/20c": 0,
-      "20/20": 713.86,
-      "21/0c": 0
-    },
-    "averageProfit": -713.86
+    "averageProfit": -162.08893617021272
   }
 ]

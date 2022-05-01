@@ -2,27 +2,74 @@ const { default: axios } = require("axios")
 const fs = require('fs')
 require('dotenv').config()
 
-/*
+// 2423 / 2433 / 2429 / 2432 / 2434 / 2430 / 2436 / 2431 / 2422 / 2435
+const ENCOUNTER_ID = 2435
 
-*/
 const CODES = [
-  'k8cXNg2jhGQfzTFq', // vodka first rekill
-  'QTxjdKLBwRp98k3P', // incarnate first rekill
-  'kVGzZX1n7rfhaPQt', // random guild (Zanity) prog fast kill
-  't4gL86kNh1wfHvm9', // random guild (CN guild) prog fast kill
-  '81N6nkrqvzTfgyJR', // random guild (Scarlet X) prog fast kill
-  'RahzHyxcK216mn47', // random guild (Nimue) prog fast kill
+  // 'NAzZrXhQGtCDWyMm', // Tyrannical
+  'pqKLQJmdxrYXH1gy', 
+  'xm4TRKcM6LayHv1X', 
+  'zpHyG3kxLgAFQhKB', 
 ];
 const BASE_URL = 'https://www.warcraftlogs.com/api/v2/client';
 
 const SPELL_IDS = [
-  '190319', // combust
-  '194223', // celestial alignment
-  '205180', // darkglare
-  '323764', // convoke
-  '328231', // wild spirits
+  // '228260', // Void Eruption
+  '10060', // PI
+  // '12472', // IV
+  // '12042', // AP
+  '190319', // Combust
+  '113858', // DSI
+  '265187', // Tyrant
+  '102560', // Incarn
+  '79140', // Vendetta
+  '123904', // Xuen
+  '288613', // Trueshot
+  '42650', // Army
+
+  // Healing CDs
+  // '62618', // PW:Barrier
+  // '325013', // Boon
+
+  // '31821', // AM
+  // '316958', // Ashen
+
+  // '207399', // APT
+  // '98008', // SLT
+  // '108280', // HTT
+
+  // Utility CDs
+  // '97462', // Rally
+  // '51052', // AMZ
 ]
-const SPELL_CAST_LIMIT = 12 // to check only P1 casts
+
+const SPELL_ID_NAME_MAP = {
+  // '228260': 'VF',
+  '10060': 'PI',
+  // '12472': 'IV',
+  // '12042': 'AP',
+  '190319': 'Combust',
+  '265187': 'DemonicTyrant',
+  '113858': 'DSI', 
+  '102560': 'Incarn', 
+  '79140': 'Vendetta',
+  '123904': 'Xuen',
+  '288613': 'Trueshot',
+  '42650': 'Army',
+
+  // '62618': 'Barrier',
+  // '325013': 'Boon',
+  // '31821': 'AM',
+  // '316958': 'Ashen',
+  // '207399': 'APT',
+  // '98008': 'SLT',
+  // '108280': 'HTT',
+
+  // '97462': 'Rally',
+  // '51052': 'AMZ',
+}
+
+const SPELL_CAST_LIMIT = 15 // to check only P1 casts
 
 const debug = true
 
@@ -34,21 +81,19 @@ const outputGQLErrors = (out) => {
   }
 }
 
-const getFightData = (token, code) => {
-  console.log('Token acquired', token)
+const getFightData = async (token, code) => {
   const headers = {
     headers: {
       Authorization: `Bearer ${token}`,
     }
   };
-  // 2407 Danny, 2417 SLG
   const fightsGQL = `{
     reportData {
       report(code: "${code}") {
         code
         fights(
           killType: Kills,
-          encounterID: 2417
+          encounterID: ${ENCOUNTER_ID}
         ) {
           startTime
           endTime
@@ -94,6 +139,7 @@ const getSpellData = (data, headers, spellId, code) => {
       }
     }
   }`
+  // console.log(spellsGQL)
   axios.post(BASE_URL, {
     data: {
       query: spellsGQL
@@ -124,11 +170,18 @@ const handleDataOutput = (spellData, start, spellId, code) => {
     output[unitName].push(`${castMinutes}:${castSeconds < 10 ? '0' : ''}${castSeconds}`)
   });
   Object.entries(output).forEach(([key, value]) => {
-    fs.appendFile(`./${spellId}_timings.txt`, [key, ...value].join('\t') + '\n', (err) => {
+    fs.appendFile(`./timing_output/${SPELL_ID_NAME_MAP[spellId] || spellId}_timings.txt`, [key, ...value].join('\t') + '\n', (err) => {
       if (err) throw err;
     })
   })
-  
+}
+
+const handleCodeIterator = async (access_token) => {
+  console.log('Token acquired', access_token)
+  for (let i = 0; i < CODES.length; i++) {
+    getFightData(access_token, CODES[i])
+    await new Promise(resolve => setTimeout(() => resolve(), 20000))
+  }
 }
 
 const getToken = () => {
@@ -138,10 +191,24 @@ const getToken = () => {
     grant_type: 'client_credentials',
   }).then(
     (resp) => {
-      CODES.forEach(code => getFightData(resp.data.access_token, code))
+      handleCodeIterator(resp.data.access_token)
+      // CODES.forEach(code => getFightData(resp.data.access_token, code))
     },
     (err) => console.log(err),
   );
 };
   
-  getToken();
+getToken();
+
+
+
+
+
+  // '190319', // combust
+  // '194223', // celestial alignment
+  // '205180', // darkglare
+  // '323764', // convoke
+  // '328231', // wild spirits
+  // '327661', // FG
+  // '200174', // Bender
+  // '10060', // PI

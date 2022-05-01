@@ -207,21 +207,27 @@ const generateGQL = (current_page, version, server, realm, guildName) => `{
       last_page
       total
       
-      ${version === 'basic' ? '' : `data {
-        ${version === 'players' ? `masterData {
-          actors {
-            id
-            name
-          }
-        }` : ''}
+      ${version === 'basic' 
+        ? '' 
+        : `data {
+        ${version === 'players' 
+        ? `masterData {
+            actors(type: "Player") {
+              id
+              name
+            }
+          }` 
+        : ''}
         code
         startTime
-        ${version === 'fights' ? `fights(killType: Kills) {
-          averageItemLevel
-          difficulty
-          encounterID
-          friendlyPlayers
-        }` : ''}
+        ${version === 'fights' 
+          ? `fights(killType: Kills) {
+            averageItemLevel
+            difficulty
+            encounterID
+            friendlyPlayers
+          }` 
+          : ''}
       }`}
     }
   }
@@ -266,7 +272,7 @@ const processFirstKills = (data) => {
         killedOn: number, <- equivalent to startTime
       }
     */
-    2398: {}, // Shriekwing
+    2398: {}, // Shriek
     2418: {}, // Altimor
     2383: {}, // Hungering
     2402: {}, // Sun King
@@ -286,6 +292,8 @@ const processFirstKills = (data) => {
     }, {})
     return playerIds.map(id => betterMasterData[id])
   }
+
+  console.log(data)
 
   data.forEach(log => {
     log.fights.forEach(fight => {

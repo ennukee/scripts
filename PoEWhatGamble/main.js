@@ -1,10 +1,10 @@
 const axios = require('axios')
 const fs = require('fs')
-const endpoint = 'https://poe.ninja/api/data/itemoverview?league=Ritual&type=SkillGem'
+const endpoint = 'https://poe.ninja/api/data/itemoverview?league=Ultimatum&type=SkillGem'
 
-const IGNORE_LOW_CONFIDENCE_GEMS = true
-const MAXIMUM_BASE_GEM_VALUE = 1000
-const IGNORE_ALTERNATE_QUALITIES = false
+const IGNORE_LOW_CONFIDENCE_GEMS = false
+const MAXIMUM_BASE_GEM_VALUE = 800
+const IGNORE_ALTERNATE_QUALITIES = true
 
 const main = ({ data: { lines: data } }) => {
     /*
